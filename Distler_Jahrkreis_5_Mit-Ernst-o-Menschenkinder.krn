@@ -1,0 +1,170 @@
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Mit Ernst, o Menschenkinder
+!!!OTL@EN: With seriousness, you Children of Man
+!!!OPS: 5
+!!!ONM: 1
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ibass	*	*Ialto	*	*Isoprn	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*MM120	*	*MM120	*	*MM120	*
+*M4/4	*	*M4/4	*	*M4/4	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+=1	=1	=1	=1	=1	=1
+2r	.	2d	Mit	2g	Mit
+=2	=2	=2	=2	=2	=2
+1r	.	2.e-	Ernst,	2g	Ernst,
+.	.	.	.	2a	o
+.	.	4d	o	.	.
+=3	=3	=3	=3	=3	=3
+1r	.	4g	Men-	(4b-	Men-
+.	.	2f	schen-	4a)	.
+.	.	.	.	2g	schen-
+.	.	4e-	kin-	.	.
+=4	=4	=4	=4	=4	=4
+4r	.	4d,	der,	(2.a	kin-
+4D	Mit	4d	das	.	.
+4D	Ernst,	(2b-	Herz	.	.
+4E-	o	.	.	4g)	.
+=5	=5	=5	=5	=5	=5
+2F	Men-	4a	.	2f,	der,
+.	.	8b-L	.	.	.
+.	.	8ccJ	.	.	.
+2D	schen-	4b-	.	2f	das
+.	.	8ccL	.	.	.
+.	.	8ddJ	.	.	.
+=6	=6	=6	=6	=6	=6
+(4.E-	kin-	[2cc	.	(4.g	Herz
+8D)	.	.	.	8f	.
+4C,	der,	8ccL]	.	4e)	.
+.	.	8b-	.	.	.
+4BB-	das	8a	.	(8fL	in
+.	.	8gJ	.	8gJ)	.
+=7	=7	=7	=7	=7	=7
+2.D	Herz	4f)	.	2a	euch
+.	.	(8enL	in	.	.
+.	.	8dJ)	.	.	.
+.	.	4e	euch	2a	be-
+4C	in	4e	be-	.	.
+=8	=8	=8	=8	=8	=8
+2D	euch	(4.d	stellt,	[1d	stellt,
+.	.	8c	.	.	.
+2D	be-	4B-	.	.	.
+.	.	4A	.	.	.
+=9	=9	=9	=9	=9	=9
+1GG G	stellt,	2B-),	.	2d],	.
+.	.	2d	da-	2g	da-
+=10	=10	=10	=10	=10	=10
+1r	.	2.e-	mit	2g	mit
+.	.	.	.	2a	das
+.	.	4d	das	.	.
+=11	=11	=11	=11	=11	=11
+1r	.	4g	Heil	(4b-	Heil
+.	.	2f	der	4a)	.
+.	.	.	.	2g	der
+.	.	4e-	Suen-	.	.
+=12	=12	=12	=12	=12	=12
+4r	.	4d,	der,	(2.a	Suen-
+4D	da-	4d	der	.	.
+4D	mit	(2b-	gro-	.	.
+4E-	das	.	.	4g)	.
+=13	=13	=13	=13	=13	=13
+2F	Heil	4a	.	2f,	der,
+.	.	8b-L	.	.	.
+.	.	8ccJ	.	.	.
+2D	der	4b-	.	2f	der
+.	.	8ccL	.	.	.
+.	.	8ddJ	.	.	.
+=14	=14	=14	=14	=14	=14
+(4.E-	Suen-	[2cc	.	(4.g	gro-
+8D)	.	.	.	8f	.
+4C,	der,	8ccL]	.	4e)	.
+.	.	8b-	.	.	.
+4BB-	der	8a	.	(8fL	sse
+.	.	8gJ	.	8gJ)	.
+=15	=15	=15	=15	=15	=15
+2.D	gro-	4f)	.	2a	Wun-
+.	.	(8enL	sse	.	.
+.	.	8dJ)	.	.	.
+.	.	4e	Wun-	2a	der-
+4C	sse	4e	der-	.	.
+=16	=16	=16	=16	=16	=16
+2D	Wun-	(4.d	held,	[1d	held,
+.	.	8c	.	.	.
+2D	der-	4B-	.	.	.
+.	.	4A	.	.	.
+=17	=17	=17	=17	=17	=17
+2.GG G,	held,	2.B-),	.	2.d],	.
+4B-	den	(8fL	den	4dd	den
+.	.	8gJ)	.	.	.
+=18	=18	=18	=18	=18	=18
+(8FL	Gott	4a-	Gott	4cc	Gott
+8E-J)	.	.	.	.	.
+4D	aus	4b-	aus	4b-	aus
+4E-	Gnad'	4g	Gnad'	4b-	Gnad'
+4F	al-	(8fL	al-	4a	al-
+*	*	*^		*	*	*
+.	.	8e-J)	8e-	.	.	.
+=19	=19	=19	=19	=19	=19	=19
+4BB-,	lein	2f,	2d	lein	2b-,	lein
+4BB-	der	.	.	.	.	.
+(4.F	Welt,	2c	2c	der	2a	der
+8E-	.	.	.	.	.	.
+*	*	*v	*v	*	*	*
+=20	=20	=20	=20	=20	=20
+8D),	.	4f	Welt	2.b-	Welt
+8D	der	.	.	.	.
+(4.G	Welt	4d	zum	.	.
+.	.	4g	Licht	.	.
+8F)	.	.	.	.	.
+4En	zum	4en	und	4cc	zum
+=21	=21	=21	=21	=21	=21
+4F	Licht	(4.an	Le-	4dd	Licht
+4G	und	.	.	4b-	und
+.	.	8gLL	.	.	.
+2C	Le-	8f	.	2cc	Le-
+.	.	16e	.	.	.
+.	.	16dJJ	.	.	.
+.	.	4e)	.	.	.
+=22	=22	=22	=22	=22	=22
+2F	ben	2f	ben	4a,	ben
+.	.	.	.	4a	ge-
+2r	.	4r	.	2b-	sen-
+.	.	4d	ge-	.	.
+=23	=23	=23	=23	=23	=23
+4r	.	(4.f	sen-	2a	det
+4F	ge-	.	.	.	.
+.	.	8e	.	.	.
+4F	sen-	4d)	.	4g	und
+4E	det	4c	det	4g	ge-
+=24	=24	=24	=24	=24	=24
+8D	und	8d	und	2a	ge-
+8AA	ge-	8c	ge-	.	.
+4E	ge-	4B	ge-	.	.
+2D,	ben,	2A,	ben,	4f,	ben
+.	.	.	.	4e	bei
+=25	=25	=25	=25	=25	=25
+4G	bei	4B-	bei	4d	euch
+8G	euch	8A	euch	4g	auch
+8G	auch	8G	auch	.	.
+4D	keh-	4A	keh-	4g	keh-
+*	*	*^		*	*	*
+4D	re	4A	4A	re	4f#	re
+=26	=16	=26	=26	=26	=26	=26
+2GG G	ein!	2d	2B	ein!	2g	ein!
+*	*	*v	*v	*	*	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 5/52
+!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=12
+!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2023/10/25

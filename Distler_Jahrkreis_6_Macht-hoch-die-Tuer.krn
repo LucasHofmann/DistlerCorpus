@@ -1,0 +1,189 @@
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Macht hoch die Tuer
+!!!OTL@EN: Fling wide the door
+!!!OPS: 5
+!!!ONM: 1
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ialto	*	*Isoprn	*	*Isoprn	*
+*clefG2	*	*clefG2	*	*clefG2	*
+*k[f#]	*	*k[f#]	*	*k[f#]	*
+*MM120	*	*MM120	*	*MM120	*
+*M3/4	*	*M3/4	*	*M3/4	*
+4r	.	4r	.	4b	Macht
+=1	=1	=1	=1	=1	=1
+2.r	.	2.r	.	2dd	hoch
+.	.	.	.	4cc	die
+=2	=2	=2	=2	=2	=2
+*M2/4	*	*M2/4	*	*M2/4	*
+4r	.	4r	.	4b,	Tür',
+4G	Macht	4d	Macht	4b	die
+=3	=3	=3	=3	=3	=3
+*M3/4	*	*M3/4	*	*M3/4	*
+2d	hoch	4d	hoch	(4.a	Tor'
+.	.	4d	die	.	.
+.	.	.	.	8gL	.
+4c	die	[4e	Tür',	8a	.
+.	.	.	.	8bJ	.
+=4	=4	=4	=4	=4	=4
+*M2/4	*	*M2/4	*	*M2/4	*
+4B,	Tür,'	4e],	.	2cc	.
+4A	die	4f#	die	.	.
+=5	=5	=5	=5	=5	=5
+*M3/4	*	*M3/4	*	*M3/4	*
+(4G	Tor'	(4f#.	Tor'	4.b	.
+4A)	.	.	.	.	.
+.	.	8e)	.	8a)	.
+4B	macht	4d	macht	4g	macht
+=6	=6	=6	=6	=6	=6
+*M2/4	*	*M2/4	*	*M2/4	*
+2A	weit,	2e,	weit,	4a,	weit,
+.	.	.	.	4cc	es
+=7	=7	=7	=7	=7	=7
+4r	.	4g	es	4b	kommt
+4d	es	4f#	kommt	4b	der
+=8	=8	=8	=8	=8	=8
+4c	kommt	4e	der	2ee	Herr
+4c	der	([4a	Herr	.	.
+=9	=9	=9	=9	=9	=9
+*M3/4	*	*M3/4	*	*M3/4	*
+2B	Herr	8aL]	.	4dd	der
+.	.	8g	.	.	.
+.	.	8e	.	(4.cc	Herr-
+.	.	8f#J)	.	.	.
+4B	der	4g	der	.	.
+.	.	.	.	8b)	.
+=10	=10	=10	=10	=10	=10
+*M2/4	*	*M2/4	*	*M2/4	*
+4A	Herr-	4g	Herr-	2cc	lich-
+4A	lich-	4f#	lich-	.	.
+=11	=11	=11	=11	=11	=11
+2G	keit,	2g	keit,	4b,	keit,
+.	.	.	.	4b	ein
+=12	=12	=12	=12	=12	=12
+*M3/4	*	*M3/4	*	*M3/4	*
+2.r	.	2.r	.	2a	Koe-
+.	.	.	.	4a	nig
+=13	=13	=13	=13	=13	=13
+4r	.	4r	.	4b	al-
+4r	.	4r	.	4cc#	ler
+4B	ein	4f#	ein	([4dd	Koe-
+=14	=14	=14	=14	=14	=14
+2A	Hei-	4.a	Hei-	4dd]	.
+.	.	.	.	4ee)	.
+.	.	8g#	land	.	.
+4A	land	[4f#	al-	4cc#	nig-
+=15	=15	=15	=15	=15	=15
+4B	al-	4f#]	.	[2.dd	reich',
+4c#	ler	4e	ler	.	.
+([4d	Welt	([4f#	Welt	.	.
+=16	=16	=16	=16	=16	=16
+*M4/4	*	*M4/4	*	*M4/4	*
+4d]	.	8f#L]	.	4dd]	.
+.	.	8g#J	.	.	.
+8c#L	.	2a)	.	4r	.
+8BJ	.	.	.	.	.
+4c#)	.	.	.	2r	.
+4c#	zu-	4a	zu-	.	.
+=17	=17	=17	=17	=17	=17
+*M2/4	*	*M2/4	*	*M2/4	*
+2d	gleich;	4f#,	gleich,	4r	.
+.	.	4b	der	4dd	der
+=18	=18	=18	=18	=18	=18
+*M3/4	*	*M3/4	*	*M3/4	*
+2.r	.	4g	Heil	2ee	Heil
+.	.	4e	und	.	.
+.	.	([4a	Le-	4dd	und
+=19	=19	=19	=19	=19	=19
+*M2/4	*	*M2/4	*	*M2/4	*
+2r	.	8aL]	.	4ee	Le-
+.	.	8gJ	.	.	.
+.	.	4f	.	4dd	ben
+=20	=20	=20	=20	=20	=20
+*M6/4	*	*M6/4	*	*M6/4	*
+2r	.	2g)	.	(4ee	mit
+.	.	.	.	4.dd	.
+4r	.	4a	ben	.	.
+.	.	.	.	8cc	.
+2r	.	2g	mit	4b	.
+.	.	.	.	4cc)	.
+4d	der-	4f#	sich	4cc	sich
+=21	=21	=21	=21	=21	=21
+*M3/4	*	*M3/4	*	*M3/4	*
+2e	hal-	[2.g	bringt.	[2.b	bringt.
+4d	ben	.	.	.	.
+=22	=22	=22	=22	=22	=22
+*M2/4	*	*M2/4	*	*M2/4	*
+4e	jauchzt,	4g]	.	4b]	.
+4d	mit	4r	.	4r	.
+=23	=23	=23	=23	=23	=23
+*M8/4	*	*M8/4	*	*M8/4	*
+(4g	Freu-	1r	.	1r	.
+4.f#,	.	.	.	.	.
+8f#	.	.	.	.	.
+4.g	.	.	.	.	.
+.	.	2r	.	2r	.
+8f#	.	.	.	.	.
+4d	.	.	.	.	.
+4e)	.	4r	.	4r	.
+4d	den	4d	Ge-	4dd	Ge-
+=24	=24	=24	=24	=24	=24
+*M3/4	*	*M3/4	*	*M3/4	*
+2B,	singt:	4d	lo-	2g	lo-
+.	.	4d	bet	.	.
+4e	Ge-	([4e	sei	4g	bet
+=25	=25	=25	=25	=25	=25
+2A	lo-	4e]	.	2cc	sei
+.	.	4f#)	.	.	.
+4A	bet	4g	mein	4b	mein
+=26	=26	=26	=26	=26	=26
+2d	sei	2.f#	Gott,	2.a	Gott,
+4c	mein	.	.	.	.
+=27	=27	=27	=27	=27	=27
+*M4/4	*	*M4/4	*	*M4/4	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+[1B	Gott,	1g	mein	1dd	mein
+=28	=28	=28	=28	=28	=28
+2B],	.	1e	Schoep-	1cc	Schoep-
+2A	mein	.	.	.	.
+=29	=29	=29	=29	=29	=29
+2e	Schoep-	[1g	fer	2b,	fer,
+4d,	fer,	.	.	2dd	mein
+4d	mein	.	.	.	.
+=30	=30	=30	=30	=30	=30
+2e	Schoep-	1g]	.	2cc	Schoep-
+2g	fer	.	.	2b	fer
+=31	=31	=31	=31	=31	=31
+[1g	reich	1d	reich	(2.a	reich
+.	.	.	.	4g	.
+=32	=32	=32	=32	=32	=32
+2g]	.	1c	von	2a)	.
+2f#	von	.	.	2a	von
+=33	=33	=33	=33	=33	=33
+(2.g	Rat.	(2.e	Rat.	(2.g	Rat.
+4f#	.	4d	.	4a	.
+=34	=34	=34	=34	=34	=34
+4e	.	4e	.	4b	.
+4d	.	4f#	.	4g	.
+*^		*	*	*	*	*
+2c	2c	.	4g	.	4b	.
+.	.	.	4a	.	4cc	.
+=35	=35	=35	=35	=35	=35	=35
+[1g	[1G	.	[1b	.	[1dd	.
+=36	=36	=36	=36	=36	=36	=36
+1g]	1G])	.	1b])	.	1dd])	.
+*v	*v	*	*	*	*	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 6/52
+!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=14
+!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2023/10/19

@@ -1,0 +1,144 @@
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Jesus Christus, unser Heiland
+!!!OTL@EN: Jesus Christ, our Saviour
+!!!OPS: 5
+!!!ONM: 1
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ibass	*	*Ialto	*	*Isoprn	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*MM120	*	*MM120	*	*MM120	*
+*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1
+2D	Je-	2A	Je-	2d	Je-
+4A	sus	4e	sus	4a	sus
+([4A	Chri-	([4e	Chri-	([4a	Chri-
+=2	=2	=2	=2	=2	=2
+4A]	.	4e]	.	4a]	.
+4G	.	4d	.	4g	.
+4A)	.	4e)	.	4a)	.
+4D	stus,	4A	stus,	4d	stus,
+=3	=3	=3	=3	=3	=3
+8F	un-	8c	un-	8f	un-
+8F	ser	8c	ser	8f	ser
+(2F	Hei-	(2c	Hei-	(2f	Hei-
+4E)	.	4B)	.	4e)	.
+=4	=4	=4	=4	=4	=4
+*M5/4	*	*M5/4	*	*M5/4	*
+2.D	land,	2.A,	land,	4d,	land,
+.	.	.	.	4.f	der
+.	.	.	.	8f	von
+2r	.	4.c	der	4f	uns
+.	.	.	.	4d	den
+.	.	8c	von	.	.
+=5	=5	=5	=5	=5	=5
+*M4/4	*	*M4/4	*	*M4/4	*
+4.F	der	4c	uns	2f	Got-
+.	.	4B-	den	.	.
+8F	von	.	.	.	.
+4E	uns	(8dL	Got-	4g	tes
+.	.	8eJ	.	.	.
+4D	den	[4f	.	([4a	Zorn
+=6	=6	=6	=6	=6	=6
+2F	Got-	4f])	.	8aL]	.
+.	.	.	.	8gJ	.
+.	.	2d	tes	4f	.
+4G	tes	.	.	2e)	.
+([4A	Zorn	4c#	Zorn	.	.
+=7	=7	=7	=7	=7	=7
+8AL]	.	2d,	wand,	2.d	wand,
+8GJ	.	.	.	.	.
+4F	.	.	.	.	.
+2E)	.	4.cn	durch	.	.
+.	.	.	.	4r	.
+.	.	8c	das	.	.
+=8	=8	=8	=8	=8	=8
+2.D	wand,	4c	bit-	4.f	durch
+.	.	4B-	ter'	.	.
+.	.	.	.	8f	das
+.	.	(2d	Lei-	4f	bit-
+4r	.	.	.	4d	ter'
+=9	=9	=9	=9	=9	=9
+1r	.	4.c,	.	(2f	Lei-
+.	.	8c	.	.	.
+.	.	4d	.	4g	.
+.	.	[4f	.	[4a	.
+=10	=10	=10	=10	=10	=10
+4.F	durch	8fL]	.	8aL]	.
+.	.	8eJ	.	8gJ	.
+.	.	4d	.	4f	.
+8F	das	.	.	.	.
+4E	bit-	4c)	.	4g)	.
+*	*	*^		*	*	*
+4D	ter'	4B-	4B-	den	4g	den
+=11	=11	=11	=11	=11	=11	=11
+(2F	Lei-	2.c	2.A	sein	2.f	sein
+*	*	*v	*v	*	*	*
+4G	.	.	.	.	.
+[4A	.	4r	.	4r	.
+=12	=12	=12	=12	=12	=12
+8AL]	.	1r	.	1r	.
+8GJ	.	.	.	.	.
+4F	.	.	.	.	.
+4G)	.	.	.	.	.
+4G	den	.	.	.	.
+=13	=13	=13	=13	=13	=13
+2.F	sein	2r	.	(4cc	half
+.	.	.	.	4dd)	.
+.	.	(4f	half	4cc	er
+4r	.	4g)	.	([4a	uns
+=14	=14	=14	=14	=14	=14
+2r	.	4f	er	8aL]	.
+.	.	.	.	8gJ	.
+.	.	(4.d	uns	4f)	.
+(4c	half	.	.	4g	aus
+.	.	8c)	.	.	.
+4d)	.	4B-	aus	4g	der
+=15	=15	=15	=15	=15	=15
+4c	er	4A	der	(2a,	Hoel-
+(4.A	uns	(4.d	Hoel-	.	.
+.	.	.	.	4a	.
+8G	.	8cL	.	.	.
+4F)	.	8d	.	4b-	.
+.	.	8eJ	.	.	.
+=16	=16	=16	=16	=16	=16
+4F	aus	4f	.	4.a	.
+4G	der	4.e	.	.	.
+.	.	.	.	8g	.
+(4A.	Hoel-	.	.	4f	.
+.	.	8dL	.	.	.
+.	.	8c	.	[4e	.
+8G	.	8B-J	.	.	.
+=17	=17	=17	=17	=17	=17
+2F)	.	2A)	.	4e]	.
+.	.	.	.	2d)	.
+*^		*	*	*	*	*
+*	*	*	*^		*	*	*
+2E	2E	len-	2G	2G	len-	.	.
+.	.	.	.	.	.	4c#	len-
+=18	=18	=18	=18	=18	=18	=18	=18
+*M3/4	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*
+[2.A	[2.D	pein.	(2d	[2.d	pein.	(4.d	pein.
+.	.	.	.	.	.	8eL	.
+.	.	.	4e	.	.	8g	.
+.	.	.	.	.	.	8fJ	.
+=19	=19	=19	=19	=19	=19	=19	=19
+2.A]	2.D]	.	4g	2.d]	.	2.a)	.
+.	.	.	2f#)	.	.	.	.
+*	*	*	*v	*v	*	*	*
+*v	*v	*	*	*	*	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 41/52
+!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=79
+!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2023/10/29

@@ -1,0 +1,131 @@
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Bei stiller Nacht
+!!!OTL@EN: In the quiet night
+!!!OPS: 5
+!!!ONM: 1
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ialto	*	*Isoprn	*	*Isoprn	*
+*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*MM120	*	*MM120	*	*MM120	*
+*M3/2	*	*M3/2	*	*M3/2	*
+4r	.	4r	.	4cc	Bei
+=1	=1	=1	=1	=1	=1
+1.r	.	1.r	.	4cc	stil-
+.	.	.	.	4cc	ler
+.	.	.	.	2.b	Nacht,
+.	.	.	.	4a	zur
+=2	=2	=2	=2	=2	=2
+1.r	.	1.r	.	4a	er-
+.	.	.	.	4g	sten
+.	.	.	.	2a,	Wacht
+.	.	.	.	4a	ein'
+.	.	.	.	[4a	Stimm'
+=3	=3	=3	=3	=3	=3
+1.r	.	1.r	.	4a]	.
+.	.	.	.	4a	be-
+.	.	.	.	(4.g	gunn
+.	.	.	.	8f	.
+.	.	.	.	4e)	.
+.	.	.	.	4d	zu
+=4	=4	=4	=4	=4	=4
+1r	.	1r	.	2e	kla-
+.	.	.	.	2e	gen.
+2A	.	2e	.	2cc	Bei
+=5	=5	=5	=5	=5	=5
+4c	stil-	4f	stil-	4cc	stil-
+4B	ler	4g	ler	4cc	ler
+2e	Nacht,	2a	Nacht,	2.b	Nacht,
+4d	zur	2g	zur	.	.
+[4c	er-	.	.	4a	zur
+=6	=6	=7	=7	=8	=8
+4c]	.	4f	er-	4a	er-
+4B	sten	4f	sten	4g	sten
+2A,	Wacht	2e,	Wacht	2a,	Wacht
+4e	ein	4e	ein'	4a	ein'
+[4e	Stimm'	[4f	Stimm'	[4a	Stimm'
+=9	=9	=9	=9	=9	=9
+4e]	.	4f]	.	4a]	.
+4d	be-	4f	be-	4a	be-
+4e	gunn	(4.e	gunn	4.g	gunn
+(4.e	zu	.	.	.	.
+.	.	8dL	.	8f	zu
+.	.	8e	.	([2e	kla-
+8d)	.	8fJ)	.	.	.
+([4c	kla-	4g	zu	.	.
+=10	=10	=10	=10	=10	=10
+4c]	.	2f	kla-	4e]	.
+4B)	.	.	.	4d)	.
+2A	gen.	2e	gen.	2e	gen.
+2r	.	2r	.	2b	Ich
+=11	=11	=11	=11	=11	=11
+1.r	.	1.r	.	4cc	nahm
+.	.	.	.	4dd	in
+.	.	.	.	2ee	acht,
+.	.	.	.	4cc	was
+.	.	.	.	[4b	sie
+=12	=12	=12	=12	=12	=12
+1.r	.	1.r	.	4b]	.
+.	.	.	.	4a	doch
+.	.	.	.	4g#,	sagt;
+.	.	.	.	4e	tät
+.	.	.	.	4f#	hin
+.	.	.	.	4gn	mein'
+=13	=13	=13	=13	=13	=13
+1.r	.	1.r	.	(4.a	Au-
+.	.	.	.	8b	.
+.	.	.	.	4cc	.
+.	.	.	.	4dd)	.
+.	.	.	.	4cc	gen
+.	.	.	.	([4b	schla-
+=14	=14	=14	=14	=14	=14
+1r	.	1r	.	8bL]	.
+.	.	.	.	8aJ	.
+.	.	.	.	4g#)	.
+.	.	.	.	2a	gen.
+2G	Ich	2d	Ich	2b	Ich
+=15	=15	=15	=15	=15	=15
+4c	nahm	(4e	nahm	4cc	nahm
+4B	in	4f#)	.	4dd	in
+4e	acht,	4g	in	2ee	acht,
+4f.	was	2a	acht	.	.
+.	.	.	.	4cc	was
+8e	sie	.	.	.	.
+4d	doch	4a	was	[4b	sie
+=16	=16	=16	=16	=16	=16
+2e,	sagt;	4g	sie	4b]	.
+.	.	4f#	doch	4a	doch
+2e	taet	2b,	sagt;	4g#,	sagt;
+.	.	.	.	4e	taet
+[2d	hin	2b	taet	4f#	hin
+.	.	.	.	4gn	mein'
+=17	=17	=17	=17	=17	=17
+4d]	.	4f#	hin	(4.a	Au-
+4c	mein	4g	mein	.	.
+.	.	.	.	8b	.
+(4.f	Au-	(2a	Au-	4cc	.
+.	.	.	.	4dd)	.
+8eL	.	.	.	.	.
+8d	.	4g)	.	4cc	gen
+8cJ)	.	.	.	.	.
+4d	gen	4f	gen	([4b	schla-
+=18	=18	=18	=18	=18	=18
+2e	schla-	2e	schla-	8bL]	.
+.	.	.	.	8aJ	.
+.	.	.	.	4g#)	.
+2A	gen.	2e	gen.	2a	gen.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 13/52
+!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=28
+!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2023/10/26

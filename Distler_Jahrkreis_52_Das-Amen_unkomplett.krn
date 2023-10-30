@@ -1,0 +1,101 @@
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Das Amen
+!!!OTL@EN: Amen
+!!!OPS: 5
+!!!ONM: 1
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ialto	*	*Isoprn	*	*Isoprn	*
+*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*MM80	*	*MM80	*	*MM80	*
+=2	=2	=2	=2	=2	=2
+1A	A-	(2c	A-	(2e	A-
+.	.	2.d	.	2.g	.
+2A,	men,	.	.	.	.
+.	.	4c	.	4e	.
+1A	A-	4d	.	4g	.
+.	.	4e	.	4a	.
+.	.	4g	.	4cc	.
+.	.	4.e	.	4a	.
+2A,	men,	.	.	2g	.
+.	.	8d	.	.	.
+.	.	4c	.	.	.
+1A	A-	4d,	.	4a,	.
+.	.	4c	.	4e	.
+.	.	4d	.	4g	.
+.	.	4e	.	4a	.
+2A,	men,	2g,	.	4cc	.
+.	.	.	.	4.b	.
+1A	A-	4c	.	.	.
+.	.	.	.	8a	.
+.	.	4d	.	4b	.
+.	.	4e	.	4cc	.
+.	.	2g,	.	2dd	.
+2A,	men,	.	.	.	.
+.	.	4c	.	4.cc	.
+1A	A-	4d	.	.	.
+.	.	.	.	8b	.
+*	*	*^		*	*	*
+.	.	4e	4e	.	4a	.
+.	.	2g	4g	.	2b)	.
+.	.	.	4f#)	.	.	.
+2A	men!	2a	2e	men!	2a	men!
+*	*	*v	*v	*	*	*
+=||	=||	=||	=||	=||	=||
+=3	=3	=3	=3	=3	=3
+4r	.	4r	.	4a	A-
+4B	A-	4d	A-	4f#,	men,
+4A,	men,	4e,	men,	4a	A-
+4B	A-	4d	A-	4f#,	men,
+=	=	=	=	=	=
+4A,	men,	4e,	men,	4e	A-
+4B	A-	4d	A-	4f#,	men,
+4A,	men,	4e,	men,	4a	A-
+4B	A-	4d	A-	4f#,	men,
+=	=	=	=	=	=
+4A,	men,	4e,	men,	4a	A-
+4B	A-	4d	A-	4f#,	men,
+*	*	*	*	*^		*
+4A,	men,	4e,	men,	4.a	4.a	A-
+2B	A-	2d	A-	.	.	.
+.	.	.	.	8b	8b	.
+.	.	.	.	4cc#	4f#	.
+2A,	men!	2e,	men!	4a,	4a	men!
+*	*	*	*	*v	*v	*
+.	.	.	.	4.a	A-
+1r	.	1r	.	.	.
+.	.	.	.	4b	.
+.	.	.	.	8aL	.
+.	.	.	.	8f#	.
+.	.	.	.	8a	.
+.	.	.	.	8bJ	.
+.	.	.	.	8r	.
+=	=	=	=	=	=
+1r	.	1r	.	4a	.
+.	.	.	.	8f#L	.
+.	.	.	.	8a	.
+.	.	.	.	8bJ	.
+..	.	.	.	4.ee	.
+1r	.	1r	.	4cc#,	.
+.	.	.	.	8cc#L	.
+.	.	.	.	8ee	.
+.	.	.	.	8ff#	.
+.	.	.	.	8.e	.
+.	.	.	.	16cc#	.
+.	.	.	.	8bJ	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 52/52
+!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=93
+!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2023/10/13
