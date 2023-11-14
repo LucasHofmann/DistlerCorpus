@@ -18,14 +18,14 @@ I. Teil: Für gemischten Chor
 14. Schön Rohtraut
 15. Die Tochter der Heide (1. Fassung)
 16. Suschens Vogel (2. Fassung)
-Der Knabe und das Immelein
-Storchenbotschaft
-Nimmersatte Liebe
-Wanderlied from the Mörikelieder
-Denk' es, o Seele
-Sehnsucht
-Lebewohl
-Frage und Antwort (1. Fassung)
+17. Der Knabe und das Immelein
+18. Storchenbotschaft
+19. Nimmersatte Liebe
+20. Wanderlied from the Mörikelieder
+21. Denk' es, o Seele
+22. Sehnsucht
+23. Lebewohl
+24. Frage und Antwort (1. Fassung)
 
 II. Teil: Für Frauenchor
 Die Tochter der Heide (2. Fassung)
