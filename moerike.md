@@ -2,22 +2,22 @@
 _Moerike Choir Book op. 19_
 
 I. Teil: Für gemischten Chor
-Vorspruch
-Ein Stündlein wohl vor Tag
-Jedem das Seine
-Lieb in den Tod
-Die traurige Krönung
-Auf dem Spaziergang
-Der Gärtner (1. Fassung)
-Suschens Vogel (1. Fassung)
-Kinderlied für Agnes
-Um Mitternacht
-Ritterliche Werbung (Englisch)
-Handwerkerlied
-Der Feuerreiter
-Schön Rohtraut
-Die Tochter der Heide (1. Fassung)
-Suschens Vogel (2. Fassung)
+1. Vorspruch
+2. Ein Stündlein wohl vor Tag
+3. Jedem das Seine
+4. Lieb in den Tod
+5. Die traurige Krönung
+6. Auf dem Spaziergang
+7. Der Gärtner (1. Fassung)
+8. Suschens Vogel (1. Fassung)
+9. Kinderlied für Agnes
+10. Um Mitternacht
+11. Ritterliche Werbung (Englisch)
+12. Handwerkerlied
+13. Der Feuerreiter
+14. Schön Rohtraut
+15. Die Tochter der Heide (1. Fassung)
+16. Suschens Vogel (2. Fassung)
 Der Knabe und das Immelein
 Storchenbotschaft
 Nimmersatte Liebe
