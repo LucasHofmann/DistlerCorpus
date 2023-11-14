@@ -1,0 +1,93 @@
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Die helle Sonn' leucht't jetzt herfuer
+!!!OTL@EN: The sun is shining, clear and bright
+!!!OPS: 5
+!!!ONM: 1
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ialto	*	*Isoprn	*	*Isoprn	*
+*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*MM120	*	*MM120	*	*MM120	*
+*M4/4	*	*M4/4	*	*M4/4	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+4r	.	4r	.	4f	Die
+=1	=1	=1	=1	=1	=1
+2r	.	2r	.	2a	hel-
+4r	.	4r	.	4b-	le
+4c	Die	4c	Die	[4cc	Sonn'
+=2	=2	=2	=2	=2	=2
+4c	hel-	4e	hel-	4cc]	.
+4d	le	4f	le	4.ff	leucht't
+2c	Sonn'	2g	Sonn'	.	.
+.	.	.	.	8ee	jetzt
+.	.	.	.	4dd	her-
+=3	=3	=3	=3	=3	=3
+4f	leucht't	(4.cc	leucht't	2cc,	fuer,
+2e	jetzt	.	.	.	.
+.	.	8bn)	.	.	.
+.	.	4a	jetzt	2cc	froeh-
+4d	her-	4b	her-	.	.
+=4	=4	=4	=4	=4	=4
+4c,	fuer,	4g,	fuer,	4cc	lich
+4.g	froeh-	4.g	froeh-	4bn	vom
+.	.	.	.	(4.cc	Schlaf
+8g	lich	8g	lich	.	.
+4a	vom	4f	vom	.	.
+.	.	.	.	8dd)	.
+=5	=5	=5	=5	=5	=5
+4e	Schlaf	4g	Schlaf	4ee	auf-
+4d	auf-	4a	auf-	4ff	ste-
+4c	ste-	4cc	ste-	2ee	hen
+4B-	hen	4dd	hen	.	.
+=6	=6	=6	=6	=6	=6
+2A	wir.	4cc,	wir.	2ff	wir.
+.	.	4cc	Gott	.	.
+4r	.	4.cc	Lob,	4r	.
+4a	Gott	.	.	4ff	Gott
+.	.	8b-	der	.	.
+=7	=7	=7	=7	=7	=7
+4f	Lob,	4a	uns	4ff	Lob,
+(4.g	der	(8eL	in	4ee	der
+.	.	8fJ)	.	.	.
+.	.	2g	die-	2dd	uns
+8f)	.	.	.	.	.
+4e	uns	.	.	.	.
+=8	=8	=8	=8	=8	=8
+4d	in	4f	ser	4a	in
+(4A	die-	2e,	Nacht	2cc	die-
+4B-)	.	.	.	.	.
+4c	ser	4g	be-	4b-	ser
+=9	=9	=9	=9	=9	=9
+1d	Nacht	2g	hue-	4a,	Nacht
+.	.	.	.	4dd	be-
+.	.	4g	tet	4cc	hue-
+.	.	4f	vor	4b-	tet
+=10	=10	=10	=10	=10	=10
+4r	.	4f	des	4a	vor
+4c	be-	2e	Teu-	4g	des
+4c	hue-	.	.	([2f	Teu-
+4B-	tet	4d	fels	.	.
+=11	=11	=11	=11	=11	=11
+8A	vor	[1c	Macht!	4f]	.
+8A	des	.	.	.	.
+2G	Teu-	.	.	8eL	.
+.	.	.	.	8dJ)	.
+.	.	.	.	2e	fels
+4A	fels	.	.	.	.
+=12	=12	=12	=12	=12	=12
+2.F	Macht!	2.c]	.	2.f	Macht!
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 44/52
+!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=82
+!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2023/11/10

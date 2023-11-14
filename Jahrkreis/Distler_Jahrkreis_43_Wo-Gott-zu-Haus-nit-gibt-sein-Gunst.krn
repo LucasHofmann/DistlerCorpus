@@ -1,0 +1,94 @@
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Wo Gott zu Haus nit gibt sein Gunst
+!!!OTL@EN: If God will not the building bless
+!!!OPS: 5
+!!!ONM: 1
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ialto	*	*Isoprn	*	*Isoprn	*
+*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*MM120	*	*MM120	*	*MM120	*
+*M4/4	*	*M4/4	*	*M4/4	*
+2r	.	2r	.	2f	Wo
+=1	=1	=1	=1	=1	=1
+4r	.	4r	.	4cc	Gott
+4F f	Wo	4f	Wo	4cc	zu
+4c	Gott	4.e	Gott	4a	Haus
+4c	zu	.	.	4g	nit
+.	.	8d	zu	.	.
+=2	=2	=2	=2	=2	=2
+4A	Haus	4c	Haus	4a	gibt
+4G	nit	4d	nit	4b-	sein'
+4A	gibt	4f	gibt	2cc,	Gunst,
+4B-	sein'	4f	sein'	.	.
+=3	=3	=3	=3	=3	=3
+2c	Gunst,	4e,	Gunst,	4cc	da
+.	.	4d	da	2a	ar-
+4r	.	4e	ar-	.	.
+4c	da	4f	beit't	4cc	beit't
+=4	=4	=4	=4	=4	=4
+(4.e-	ar-	(4.g	je-	4b-	je-
+.	.	.	.	4cc	der-
+8d)	.	8f)	.	.	.
+4c	beit't	4en	der-	4.a	mann
+8B-	je-	([4f	mann	.	.
+8c	der-	.	.	8g	um-
+=5	=5	=5	=5	=5	=5
+(8dL	mann	8fL]	.	2.f,	sonst.
+8cJ)	.	8eJ)	.	.	.
+4B-	um-	4d	um-	.	.
+2A,	sonst.	2c,	sonst.	.	.
+.	.	.	.	4cc	Wo
+=6	=6	=6	=6	=6	=6
+4f	Wo	4B-	Wo	4dd	Gott
+(4.g	Gott	2d	Gott	4dd	die
+.	.	.	.	4a	Stadt
+8f)	.	.	.	.	.
+4e-	die	4e-	die	4cc	nit
+=7	=7	=7	=7	=7	=7
+2d	Stadt	4f	Stadt	2b-	selbst
+.	.	4f	nit	.	.
+4f	nit	4g	selbst	4b-	be-
+[4e-	selbst	4g	be-	[4a	wacht,
+=8	=8	=8	=8	=8	=8
+8e-]	.	2f,	wacht,	4a],	.
+8e-	be-	.	.	.	.
+2d	wacht,	.	.	4ff	da
+.	.	4cc	da	4ee	ist
+4r	.	[4b-	ist,	4dd	um-
+=9	=9	=9	=9	=9	=9
+4r	.	8b-],	.	4cc	sonst
+.	.	8b-	ist	.	.
+4f	da	4a	um-	4dd	der
+4e-	ist	8g	sonst	(4cc	Waech-
+.	.	8a	der	.	.
+4d	um-	([4g	Waech-	[4a	.
+=10	=10	=10	=10	=10	=10
+8c	sonst	8gL]	.	4a])	.
+8c	der	8eJ)	.	.	.
+*	*	*^		*	*	*
+(4.B-	Waech-	4d	4d	ter	4g	ter
+.	.	(4.c	[2c	Macht.	[2f	Macht.
+8A)	.	.	.	.	.	.
+*^		*	*	*	*	*	*
+4G	4G	ter	.	.	.	.	.
+.	.	.	8d	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+2A	2F	Macht.	2f)	2c]	.	2f]	.
+*v	*v	*	*	*	*	*	*
+*	*	*v	*v	*	*	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 43/52
+!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=81
+!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2023/10/30
