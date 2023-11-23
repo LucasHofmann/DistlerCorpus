@@ -17,3 +17,14 @@ _14.11.2023_
 
 Stipendium Villigst: Frist für Fabians Gutachten: **10.12.2023**
 nächstes Treffen: **09.01.2024, 17:30 Uhr** --> hier fällt Entscheidung, ob Veröffentlichung
+
+
+**Notizen**:
+Wie schön leucht’t uns der Morgenstern – Anmerkungen:
+- Warum beginnt Distler im 3/2-Takt, wenn er im nächsten schon 4/4 macht?
+- süße mit ß oder ss ? (im Liedtext)
+- schön mit ö oder oe ? (im Liedtext)
+
+sehr häufig Haltebögen über Taktstriche hinweg!
+
+Buch: „Phänomenologie des Rhythmus“
