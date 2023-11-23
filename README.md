@@ -5,8 +5,9 @@ Corpora of works by Hugo Distler (1908-42)
 
 1. Der Jahrkreis (_The Year Cylce_)
 2. Mörike-Chorliederbuch (_Mörike Choir Book_)
+//
 
-**Konsulationen**
+**Konsulationen** //
 _14.11.2023_
 - Hinarbeiten auf DLfM Tagung in Stellenbosch (27.06.2024), CfP: **12.02.2024**
 - Programmieren beginnen mit Python: Analyse der metrischen Ambiguität
