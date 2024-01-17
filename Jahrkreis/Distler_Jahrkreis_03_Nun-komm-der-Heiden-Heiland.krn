@@ -6,7 +6,7 @@
 !!!OTL@@DE: Nun komm, der Heiden Heiland
 !!!OTL@EN: Savior of the nations, come
 !!!OPS: 5
-!!!ONM: 1
+!!!ONM: 3
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -19,7 +19,7 @@
 *met(c|)	*	*met(c|)	*	*met(c|)	*
 2C	Nun	2e	Nun	2g	Nun
 =1	=1	=1	=1	=1	=1
-2C	komm,	([2e	komm,	2g	komm,
+2C	komm,	([2e	komm,_	2g	komm,
 2D	der	8eL]	.	2f	der
 .	.	8d	.	.	.
 .	.	8e	.	.	.
@@ -35,11 +35,11 @@
 2D	Hei-	8d]L	.	2a	Hei-
 .	.	8eJ	.	.	.
 .	.	4f#)	.	.	.
-2G,	land,	(2g	land,	2g,	land,
+2G,	land,	(2g	land,_	2g,	land,
 =4	=4	=4	=4	=4	=4
 *M2/4	*	*M2/4	*	*M2/4	*
 2E-	der	4g,)	.	2g	der
-.	.	(4e-	der	.	.
+.	.	(4e-	der_	.	.
 =5	=5	=5	=5	=5	=5
 *M4/4	*	*M4/4	*	*M4/4	*
 *met(c|)	*	*met(c|)	*	*met(c|)	*
@@ -58,7 +58,7 @@
 .	.	4g)	.	.	.
 2F	er-	2a	er-	2dd	er-
 =8	=8	=8	=8	=8	=8
-1B-,	kannt.	(4.b-	kannt.	1b-,	kannt.
+1B-,	kannt.	(4.b-	kannt._	1b-,	kannt.
 .	.	8a	.	.	.
 .	.	4g	.	.	.
 .	.	8fL	.	.	.
@@ -82,7 +82,7 @@
 =12	=12	=12	=12	=12	=12
 1c,	Welt,	1e,	Welt,	1g,	Welt,
 =13	=13	=13	=13	=13	=13
-1C	Gott	([2e-	Gott	1g	Gott
+1C	Gott	([2e-	Gott_	1g	Gott
 .	.	8e-L]	.	.	.
 .	.	8f	.	.	.
 .	.	8g	.	.	.
@@ -90,9 +90,9 @@
 =14	=14	=14	=14	=14	=14
 2E-	solch	2b-	solch	2g	solch
 2F	Ge-	4a-	Ge-	2f	Ge-
-.	.	([4g	burt,	.	.
+.	.	([4g	burt,_	.	.
 =15	=15	=15	=15	=15	=15
-2G	burt	8gL]	.	2b-	burt
+2G	burt_	8gL]	.	2b-	burt
 .	.	8fJ	.	.	.
 .	.	4e-),	.	.	.
 ([2D	.	(4.f	solch	(4a	ihm

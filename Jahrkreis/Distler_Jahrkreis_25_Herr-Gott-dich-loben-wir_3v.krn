@@ -1,0 +1,128 @@
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Herr Gott, dich loben wir (Tedeum)
+!!!OTL@EN: Lord God, we praise you
+!!!OPS: 5
+!!!ONM: 1
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ibass	*	*Ialto	*	*Isoprn	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*MM120	*	*MM120	*	*MM120	*
+*M4/4	*	*M4/4	*	*M4/4	*
+*met(C)	*	*met(C)	*	*met(C)	*
+=1	=1	=1	=1	=1	=1
+1r	.	1r	.	1r	.
+=2	=2	=2	=2	=2	=2
+4F	Herr	4a	Herr	4cc	Herr
+(4.C	Gott,	2a,	Gott,	2cc,	Gott,
+8D	.	.	.	.	.
+[4E	.	4g	wir	4b	wir
+=3	=3	=3	=3	=3	=3
+8E]),	.	(8fL	dan-	4a	dan-
+8AA	wir	8eJ)	.	.	.
+8AA	dan-	(8dL	ken	4a	ken
+8E	ken	8cJ)	.	.	.
+2E	dir.	2B	dir.	2g	dir.
+=4	=4	=4	=4	=4	=4
+1r	.	1r	.	1r	.
+=5	=5	=5	=5	=5	=5
+4r	.	4r	.	4r	.
+(4.E	ehrt	(4g	ehrt	2g	ehrt
+.	.	4f)	.	.	.
+8D)	.	.	.	.	.
+4C	die	4e	die	4a	die
+=6	=6	=6	=6	=6	=6
+2G	Welt	(8dL	Welt	4b	Welt
+.	.	8e	.	.	.
+.	.	8f	.	(4b	weit
+.	.	8gJ	.	.	.
+(8FL	weit	4a)	.	4.cc	.
+8G	.	.	.	.	.
+8A	.	[4g	weit	.	.
+8BJ	.	.	.	8b	.
+=7	=7	=7	=7	=7	=7
+4c)	.	4g]	.	4a)	.
+4c	und	4f	und	4a	und
+2C	breit.	2e	breit.	2g	breit.
+=8	=8	=8	=8	=8	=8
+1r	.	1r	.	1r	.
+=9	=9	=9	=9	=9	=9
+1r	.	4r	.	4.g	und
+.	.	4.c	und	.	.
+.	.	.	.	8g	was
+.	.	.	.	2a	die-
+.	.	8c	was	.	.
+.	.	([4d	die-	.	.
+=10	=10	=10	=10	=10	=10
+4G	und	8dL]	.	2.b	net
+.	.	8eJ	.	.	.
+4B	was	4f#	.	.	.
+8E	die-	4g#)	.	.	.
+8D	net	.	.	.	.
+4C	dei-	4a	net	([4cc	dei-
+=11	=11	=11	=11	=11	=11
+2D	ner	4.gn	dei-	8ccL]	.
+.	.	.	.	8bJ)	.
+.	.	.	.	4a	ner
+.	.	8f#	ner	.	.
+2G	Ehr.	2g	Ehr.	2g	Ehr.
+=12	=12	=12	=12	=12	=12
+1r	.	1r	.	1r	.
+=13	=13	=13	=13	=13	=13
+*M2/4	*	*M2/4	*	*M2/4	*
+4F	sin-	4f	sin-	4a	sin-
+4F	gen	4g	gen	4a	gen
+=14	=14	=14	=14	=14	=14
+*M4/4	*	*M4/4	*	*M4/4	*
+*met(C)	*	*met(C)	*	*met(C)	*
+4C	im-	2e	im-	4g	im-
+4.G	mer	.	.	4a	mer
+.	.	8d	mer	4b	mit
+8G	mit	8d	mit	.	.
+[4C	ho-	(8eL	ho-	[4cc	ho-
+.	.	8f#	.	.	.
+=15	=15	=15	=15	=15	=15
+4C]	.	8g	.	4cc]	.
+.	.	8aJ)	.	.	.
+4E	her	(8bL	her	4a	her
+.	.	8ccJ)	.	.	.
+2G	Stimm:	2dd	Stimm:	2b	Stimm:
+=16	=16	=16	=16	=16	=16
+1r	.	1r	.	1r	.
+=17	=17	=17	=17	=17	=17
+2c	Hei-	1g	Hei-	(2e	Hei-
+2G	lig	.	.	4.g	.
+.	.	.	.	8a	.
+=18	=18	=18	=18	=18	=18
+4G	ist	4f#	lig	4b	.
+(4.A	un-	4e	ist	4cc)	.
+.	.	(4.a	un-	4.cc	lig
+8GL	.	.	.	.	.
+8F	.	.	.	.	.
+8EJ	.	8gL	.	8cc	ist
+=19	=19	=19	=19	=19	=19
+2D)	.	8f#	.	2a	un-
+.	.	8e	.	.	.
+.	.	8d	.	.	.
+.	.	8c#J	.	.	.
+2E	ser	4B)	.	2g#	ser
+*	*	*^		*	*	*
+.	.	4B	4B	ser	.	.
+=20	=20	=20	=20	=20	=20	=20
+1A AA	Gott!	1e	1c#	Gott!	1a	Gott!
+*	*	*v	*v	*	*	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 25/52
+!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=48
+!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2024/01/08
