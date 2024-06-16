@@ -7,6 +7,7 @@
 !!!OTL@EN: Lord, send what you want
 !!!OPS: 5
 !!!ONM: 50
+!!!RNB: Not encoding unmeasured sections (empty measures in data)
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -39,6 +40,7 @@
 8e	dass	8B	8B	dass	8b	dass
 2g	bei-	2e	2A	bei-	2cc	bei-
 4f#	des,	4B	4B	des,	4b	des,
+!!LO:LB:g=original
 =6	=6	=6	=6	=6	=6	=6
 4r	.	4r	4r	.	4r	.
 4e	dass	4B	4B	dass	4b	dass
@@ -61,6 +63,7 @@
 4a	den	4d	den	4b	den
 2a	quillt.	4e,	quillt.	2cc#	quillt.
 .	.	[4a	Herr	.	.
+!!LO:LB:g=original
 =10	=10	=10	=10	=10	=10
 =11	=11	=11	=11	=11	=11
 *M3/4	*	*M3/4	*	*M3/4	*
@@ -84,6 +87,7 @@
 4e	nicht	4g	nicht	4b	nicht
 4d	ue-	4g	üe-	4b	ue-
 4d	ber-	4g	ber-	4b	ber-
+!!LO:LB:g=original
 =16	=16	=16	=16	=16	=16
 *M4/4	*	*M4/4	*	*M4/4	*
 2c#	schuet-	2f#	schuet-	2cc#	schuet-
@@ -105,6 +109,7 @@
 2d)	.	2f#)	.	2a)	.
 =21	=21	=21	=21	=21	=21
 1e	den.	1e	den.	1e	den.
+=||	=||	=||	=||	=||	=||
 =22	=22	=22	=22	=22	=22
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
