@@ -1,3 +1,4 @@
+!!!!SEGMENT: Distler_Jahrkreis_25_Herr-Gott-dich-loben-wir_3v.krn
 !!!COM: Distler, Hugo
 !!!CDT: 1908-1942
 !!!OPR@@DE: Der Jahrkreis
@@ -5,7 +6,7 @@
 !!!OTL@@DE: Herr Gott, dich loben wir (Tedeum)
 !!!OTL@EN: Lord God, we praise you
 !!!OPS: 5
-!!!ONM: 1
+!!!ONM: 25
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -111,7 +112,7 @@
 .	.	8d	.	.	.
 .	.	8c#J	.	.	.
 2E	ser	4B)	.	2g#	ser
-*	*	*^		*	*	*
+*	*	*^	*	*	*
 .	.	4B	4B	ser	.	.
 =20	=20	=20	=20	=20	=20	=20
 1A AA	Gott!	1e	1c#	Gott!	1a	Gott!
@@ -121,8 +122,8 @@
 !!!YOR: Bärenreiter-Ausgabe 676
 !!!YOY: 1933
 !!!EFL: 25/52
-!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=48
-!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=48 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
 !!!system-decoration: [(s1,s2,s3)]
 !!!ENC: Lucas Hofmann
 !!!END: 2024/01/08

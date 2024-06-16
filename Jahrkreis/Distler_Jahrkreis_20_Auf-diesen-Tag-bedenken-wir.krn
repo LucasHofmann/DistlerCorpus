@@ -1,3 +1,4 @@
+!!!!SEGMENT: Distler_Jahrkreis_20_Auf-diesen-Tag-bedenken-wir.krn
 !!!COM: Distler, Hugo
 !!!CDT: 1908-1942
 !!!OPR@@DE: Der Jahrkreis
@@ -5,7 +6,7 @@
 !!!OTL@@DE: Auf diesen Tag bedenken wir
 !!!OTL@EN: We all remember well today
 !!!OPS: 5
-!!!ONM: 1
+!!!ONM: 20
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -83,7 +84,7 @@
 =12	=12	=12	=12	=12	=12
 4c	Hoff-	4c	Hoff-	4e-	Hoff-
 4B-	nung	4c	nung	4d	nung
-*	*	*^		*	*	*
+*	*	*^	*	*	*
 2A-	ha-	2c	2c	ha-	(4e-	ha-
 .	.	.	.	.	4f)	.
 =13	=13	=13	=13	=13	=13	=13
@@ -100,7 +101,7 @@
 2G	Hal-	4B-,	ja,	2g,	ja,
 .	.	8c	Hal-	.	.
 .	.	8c	le-	.	.
-*^		*	*	*	*	*
+*^	*	*	*	*	*
 2D	2D	le-	([2d	lu-	4f	Hal-
 .	.	.	.	.	4f	le-
 =16	=16	=16	=16	=16	=16	=16
@@ -118,8 +119,8 @@
 !!!YOR: Bärenreiter-Ausgabe 676
 !!!YOY: 1933
 !!!EFL: 20/52
-!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=39
-!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=39 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
 !!!system-decoration: [(s1,s2,s3)]
 !!!ENC: Lucas Hofmann
 !!!END: 2023/10/28

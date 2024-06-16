@@ -1,3 +1,4 @@
+!!!!SEGMENT: Distler_Jahrkreis_51_Verleih-uns-Frieden-gnaediglich.krn
 !!!COM: Distler, Hugo
 !!!CDT: 1908-1942
 !!!OPR@@DE: Der Jahrkreis
@@ -5,7 +6,7 @@
 !!!OTL@@DE: Verleih uns Frieden gnaediglich
 !!!OTL@EN: Grant us peace graciously
 !!!OPS: 5
-!!!ONM: 1
+!!!ONM: 51
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -110,7 +111,7 @@
 4B	Gott,	4f	ser	4cc	Gott,
 4A	al-	4e	Gott,	4cc	al-
 =15	=15	=15	=15	=15	=15
-*	*	*^		*	*	*
+*	*	*^	*	*	*
 2G	lein-	4e	4.e	al-	(4b	lei-
 .	.	4f	.	lei-	4cc)	.
 .	.	.	8d	.	.	.
@@ -131,7 +132,7 @@
 4A	uns	4e	den	4a	den
 =18	=18	=18	=18	=18	=18
 *M4/4	*	*M4/4	*	*M4/4	*
-*	*	*	*	*^		*
+*	*	*	*	*^	*
 4G	Frie-	(2g	gnae-	(2cc	(2cc	gnae-
 4A	den	.	.	.	.	.
 ([2c	gnae-	4e	.	4a	4a	.
@@ -150,8 +151,9 @@
 !!!YOR: Bärenreiter-Ausgabe 676
 !!!YOY: 1933
 !!!EFL: 51/52
-!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=92
-!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=92 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-youtube: https://www.youtube.com/watch?v=uJYm69Ss-SY Ensemble Nobiles
 !!!system-decoration: [(s1,s2,s3)]
 !!!ENC: Lucas Hofmann
 !!!END: 2023/11/10

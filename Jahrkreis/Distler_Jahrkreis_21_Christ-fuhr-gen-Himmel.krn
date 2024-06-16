@@ -1,3 +1,4 @@
+!!!!SEGMENT: Distler_Jahrkreis_21_Christ-fuhr-gen-Himmel.krn
 !!!COM: Distler, Hugo
 !!!CDT: 1908-1942
 !!!OPR@@DE: Der Jahrkreis
@@ -5,7 +6,7 @@
 !!!OTL@@DE: Christ fuhr geh Himmel
 !!!OTL@EN: Christ rose to Heaven
 !!!OPS: 5
-!!!ONM: 1
+!!!ONM: 21
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -81,7 +82,7 @@
 4d	li-	2g	li-	4.ee	hei-
 2cn	gen	.	.	.	.
 .	.	.	.	8ee	li-
-*	*	*^		*	*	*
+*	*	*^	*	*	*
 .	.	4a	4a	gen	4ee	gen
 =12	=12	=12	=12	=12	=12	=12
 *M4/4	*	*M4/4	*M4/4	*	*M4/4	*
@@ -161,7 +162,7 @@
 4a	le-	(4.b	lu-	4ee	.
 2g	lu-	.	.	4dd	.
 .	.	8a	.	.	.
-*	*	*^		*	*	*
+*	*	*^	*	*	*
 .	.	4gn	4g	.	4b	.
 2.d	ja!	2a,	2.f#	ja!	4dd)	.
 .	.	.	.	.	2dd,	ja!
@@ -207,7 +208,7 @@
 4e)	.	4dd	le-	(4.a	lu-
 2f#	lu-	(4b	lu-	.	.
 .	.	.	.	8b	.
-*	*	*	*	*^		*
+*	*	*	*	*^	*
 .	.	4a)	.	4dd)	4dd	.
 =28	=28	=28	=28	=28	=28	=28
 *M7/4	*	*M7/4	*	*M7/4	*M7/4	*
@@ -324,8 +325,8 @@
 !!!YOR: Bärenreiter-Ausgabe 676
 !!!YOY: 1933
 !!!EFL: 21/52
-!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=40
-!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=40 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
 !!!system-decoration: [(s1,s2,s3)]
 !!!ENC: Lucas Hofmann
 !!!END: 2023/10/28

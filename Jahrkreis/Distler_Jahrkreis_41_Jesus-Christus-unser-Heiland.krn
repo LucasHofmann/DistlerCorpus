@@ -1,3 +1,4 @@
+!!!!SEGMENT: Distler_Jahrkreis_41_Jesus-Christus-unser-Heiland.krn
 !!!COM: Distler, Hugo
 !!!CDT: 1908-1942
 !!!OPR@@DE: Der Jahrkreis
@@ -5,7 +6,7 @@
 !!!OTL@@DE: Jesus Christus, unser Heiland
 !!!OTL@EN: Jesus Christ, our Saviour
 !!!OPS: 5
-!!!ONM: 1
+!!!ONM: 41
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -74,7 +75,7 @@
 .	.	4d	.	4f	.
 8F	das	.	.	.	.
 4E	bit-	4c)	.	4g)	.
-*	*	*^		*	*	*
+*	*	*^	*	*	*
 4D	ter'	4B-	4B-	den	4g	den
 =11	=11	=11	=11	=11	=11	=11
 (2F	Lei-	2.c	2.A	sein	2.f	sein
@@ -117,8 +118,8 @@
 =17	=17	=17	=17	=17	=17
 2F)	.	2A)	.	4e]	.
 .	.	.	.	2d)	.
-*^		*	*	*	*	*
-*	*	*	*^		*	*	*
+*^	*	*	*	*	*
+*	*	*	*^	*	*	*
 2E	2E	len-	2G	2G	len-	.	.
 .	.	.	.	.	.	4c#	len-
 =18	=18	=18	=18	=18	=18	=18	=18
@@ -137,8 +138,8 @@
 !!!YOR: Bärenreiter-Ausgabe 676
 !!!YOY: 1933
 !!!EFL: 41/52
-!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=79
-!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=79 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
 !!!system-decoration: [(s1,s2,s3)]
 !!!ENC: Lucas Hofmann
 !!!END: 2023/10/29

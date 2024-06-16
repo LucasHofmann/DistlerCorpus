@@ -1,3 +1,4 @@
+!!!!SEGMENT: Distler_Jahrkreis_19_Erstanden-ist-der-Herre-Christ.krn
 !!!COM: Distler, Hugo
 !!!CDT: 1908-1942
 !!!OPR@@DE: Der Jahrkreis
@@ -5,7 +6,7 @@
 !!!OTL@@DE: Erstanden ist der Herre Christ
 !!!OTL@EN: Jesus Christ is risen today
 !!!OPS: 5
-!!!ONM: 1
+!!!ONM: 19
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -84,10 +85,10 @@
 .	.	4a	Hal-	8b	.
 .	.	.	.	8cc#J	.
 .	.	4f#,	le-,	4dd),	.
-*	*	*	*	*^		*
+*	*	*	*	*^	*
 .	.	4a	Hal-	4a	4a	Hal-
 1D];	.	4f#	le	4a	4a	le-
-*	*	*^		*	*	*	*
+*	*	*^	*	*	*	*
 .	.	2e	2e	lu-	2b	2g	lu-
 .	.	4f#;	4d;	ja!	4dd,	4a;	ja!
 *	*	*v	*v	*	*	*	*
@@ -97,8 +98,8 @@
 !!!YOR: Bärenreiter-Ausgabe 676
 !!!YOY: 1933
 !!!EFL: 19/52
-!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=38
-!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=38 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
 !!!system-decoration: [(s1,s2,s3)]
 !!!ENC: Lucas Hofmann
 !!!END: 2023/10/27

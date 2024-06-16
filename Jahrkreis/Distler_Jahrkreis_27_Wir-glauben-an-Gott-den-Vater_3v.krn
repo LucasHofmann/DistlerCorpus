@@ -1,3 +1,4 @@
+!!!!SEGMENT: Distler_Jahrkreis_27_Wir-glauben-an-Gott-den-Vater_3v.krn
 !!!COM: Distler, Hugo
 !!!CDT: 1908-1942
 !!!OPR@@DE: Der Jahrkreis
@@ -5,7 +6,7 @@
 !!!OTL@@DE: Wir glauben an Gott, den Vater
 !!!OTL@EN: We believe in God, the Father
 !!!OPS: 5
-!!!ONM: 1
+!!!ONM: 27
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -37,7 +38,7 @@
 .	.	2f#,	gen,	4b	all-
 4c)	.	.	.	2cc	maech-
 4B	und	4e	all-	.	.
-*^		*	*	*	*	*
+*^	*	*	*	*	*
 2A	2A	Schoep-	2fn	maech-	4dd	ti-
 .	.	.	.	.	4b	gen
 =5	=5	=5	=5	=5	=5	=5
@@ -89,7 +90,7 @@
 4B]	.	8dd])	.	(2g	Er-
 .	.	8cc#	mel	.	.
 4G	und	4b	und	.	.
-*	*	*	*	*^		*
+*	*	*	*	*^	*
 2A	Er-	2a	Er-	2f#)	2f#)	.
 =12	=12	=12	=12	=12	=12	=12
 *M6/4	*	*M6/4	*	*M6/4	*M6/4	*
@@ -106,7 +107,7 @@
 (2c	hei-	(2cc	hei-	(2ee	hei-
 2G)	.	4.b)	.	4.dd	.
 .	.	8a	li-	8cc)	.
-*	*	*	*	*^		*
+*	*	*	*	*^	*
 4G	li-	4g	gen	4b	4b	li-
 =15	=15	=15	=15	=15	=15	=15
 *M4/4	*	*M4/4	*	*M4/4	*M4/4	*
@@ -183,7 +184,7 @@
 .	.	.	.	2ee)	.
 .	.	8f#L	.	.	.
 .	.	8a	.	.	.
-*	*	*^		*	*	*
+*	*	*^	*	*	*
 .	.	8b)	8b)	.	.	.
 .	.	4cc#	4a	men.	4ee	men.
 *	*	*v	*v	*	*	*
@@ -192,7 +193,7 @@
 !!!YOR: Bärenreiter-Ausgabe 676
 !!!YOY: 1933
 !!!EFL: 27/52
-!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=50
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=50 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
 !!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
 !!!system-decoration: [(s1,s2,s3)]
 !!!ENC: Lucas Hofmann

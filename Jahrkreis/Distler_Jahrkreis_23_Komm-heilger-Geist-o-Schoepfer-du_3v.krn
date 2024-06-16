@@ -1,3 +1,4 @@
+!!!!SEGMENT: Distler_Jahrkreis_23_Komm-heilger-Geist-o-Schoepfer-du_3v.krn
 !!!COM: Distler, Hugo
 !!!CDT: 1908-1942
 !!!OPR@@DE: Der Jahrkreis
@@ -5,7 +6,7 @@
 !!!OTL@@DE: Komm, heilger Geist, o Schoepfer du (3v)
 !!!OTL@EN: Come, Holy Ghost, Creator, God
 !!!OPS: 5
-!!!ONM: 1
+!!!ONM: 23
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -39,7 +40,7 @@
 8F	ar-	8b-	ar-	4cc	men
 8C	men	8a-	men	.	.
 4G	See-	4.cc	See-	4dd	See-
-*	*	*	*	*^		*
+*	*	*	*	*^	*
 4G	len	.	.	4dd	4dd	len
 .	.	8b-	len	.	.	.
 =5	=5	=5	=5	=5	=5	=5
@@ -62,7 +63,7 @@
 .	.	8B-	den,	.	.
 2G	sser	4d	sue-	(8gL	sue-
 .	.	.	.	8aJ)	.
-*	*	*	*	*^		*
+*	*	*	*	*^	*
 .	.	4d	sser	4b-	4b-	sser
 =8	=8	=8	=8	=8	=8	=8
 4F,	Gast,	2f	Gast,	2cc	2a	Gast,
@@ -87,9 +88,9 @@
 *-	*-	*-	*-	*-	*-
 !!!YOR: Bärenreiter-Ausgabe 676
 !!!YOY: 1933
-!!!EFL: 23/52
-!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=44
-!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!EFL: 23b/52
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=44 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
 !!!system-decoration: [(s1,s2,s3)]
 !!!ENC: Lucas Hofmann
 !!!END: 2023/10/29

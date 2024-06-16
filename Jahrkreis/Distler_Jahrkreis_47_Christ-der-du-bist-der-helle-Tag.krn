@@ -1,3 +1,4 @@
+!!!!SEGMENT: Distler_Jahrkreis_47_Christ-der-du-bist-der-helle-Tag.krn
 !!!COM: Distler, Hugo
 !!!CDT: 1908-1942
 !!!OPR@@DE: Der Jahrkreis
@@ -5,7 +6,7 @@
 !!!OTL@@DE: Christ, der du bist der helle Tag
 !!!OTL@EN: Lord Christ, You are the Light of day
 !!!OPS: 5
-!!!ONM: 1
+!!!ONM: 47
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -83,7 +84,7 @@
 .	.	.	.	8b-	.
 .	.	(4.f	Pre-	8a	.
 .	.	.	.	8gJ	.
-*	*	*	*	*^		*
+*	*	*	*	*^	*
 2D	di-	.	.	4a)	4a	.
 .	.	8g)	.	.	.	.
 .	.	4a	di-	4a	4dd	di-
@@ -95,8 +96,8 @@
 !!!YOR: Bärenreiter-Ausgabe 676
 !!!YOY: 1933
 !!!EFL: 47/52
-!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=86
-!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=86 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
 !!!system-decoration: [(s1,s2,s3)]
 !!!ENC: Lucas Hofmann
 !!!END: 2023/11/03

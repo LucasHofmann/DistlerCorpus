@@ -1,3 +1,4 @@
+!!!!SEGMENT: Distler_Jahrkreis_39_Wie-der-Hirsch-schreiet-nach-frischem-Wasser.krn
 !!!COM: Distler, Hugo
 !!!CDT: 1908-1942
 !!!OPR@@DE: Der Jahrkreis
@@ -5,7 +6,7 @@
 !!!OTL@@DE: Wie der Hirsch schreiet nach frischem Wasser
 !!!OTL@EN: As the deer pants for the water
 !!!OPS: 5
-!!!ONM: 1
+!!!ONM: 39
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -115,7 +116,7 @@
 =18	=18	=18	=18	=18	=18
 4D])	.	4f)	.	2b-	ben-
 4D	di-	4g	di-	.	.
-*	*	*^		*	*	*
+*	*	*^	*	*	*
 2C	gen	2e	2e	gen	4a	di-
 .	.	.	.	.	4g	gen
 =19	=19	=19	=19	=19	=19	=19
@@ -170,7 +171,7 @@
 4G	ge-	4e-	ge-	4g	ge-
 4B-	sicht	4d	sicht	4f	sicht
 =28	=28	=28	=28	=28	=28
-*	*	*^		*	*	*
+*	*	*^	*	*	*
 2.c	schau-	2.c	2.c	schau-	2.e-	schau-
 2G	e?	2g	2Bn	e?	2d	e?
 *	*	*v	*v	*	*	*
@@ -179,8 +180,9 @@
 !!!YOR: Bärenreiter-Ausgabe 676
 !!!YOY: 1933
 !!!EFL: 39/52
-!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=75
-!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=75 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-youtube: https://www.youtube.com/watch?v=__BUVBzVmAo Ensemble Nobiles
 !!!system-decoration: [(s1,s2,s3)]
 !!!ENC: Lucas Hofmann
 !!!END: 2024/01/08

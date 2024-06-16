@@ -1,3 +1,4 @@
+!!!!SEGMENT: Distler_Jahrkreis_32_Erhalt-uns-Herr-bei-deinem-Wort_3v.krn
 !!!COM: Distler, Hugo
 !!!CDT: 1908-1942
 !!!OPR@@DE: Der Jahrkreis
@@ -5,7 +6,7 @@
 !!!OTL@@DE: Erhalt uns, Herr, bei deinem Wort
 !!!OTL@EN: ...
 !!!OPS: 5
-!!!ONM: 1
+!!!ONM: 32
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -46,7 +47,7 @@
 2c	Fein-	(4g	Fein-	.	.
 .	.	.	.	8b-	ner
 .	.	4f)	.	4cc	Fein-
-*^		*	*	*	*	*
+*^	*	*	*	*	*
 4c	4c	de	4e-	de	4cc	de
 =4	=4	=4	=4	=4	=4	=4
 *M2/2	*M2/2	*	*M2/2	*	*M2/2	*
@@ -65,7 +66,7 @@
 .	.	8e-J)	.	.	.
 =6	=6	=6	=6	=6	=6
 *M2/2	*	*M2/2	*	*M2/2	*
-*	*	*	*	*^		*
+*	*	*	*	*^	*
 8G	dei-	4d,	Sohn,	4b-,	4b-	Sohn,
 8G	nem	.	.	.	.	.
 4D,	Sohn,	2f#	wol-	2dd	2a	wol-
@@ -92,7 +93,7 @@
 ==	==	==	==	==	==
 =9	=9	=9	=9	=9	=9
 *M2/2	*	*M2/2	*	*M2/2	*
-*	*	*	*	*^		*
+*	*	*	*	*^	*
 8G	letz-	4d,	Not,	4b-,	4b-	Not,
 8G	ten	.	.	.	.	.
 2D,	Not,	2f	g'leit	2dd	2a	g'leit
@@ -114,8 +115,8 @@
 !!!YOR: Bärenreiter-Ausgabe 676
 !!!YOY: 1933
 !!!EFL: 32/52
-!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=60
-!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=60 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
 !!!system-decoration: [(s1,s2,s3)]
 !!!ENC: Lucas Hofmann
 !!!END: 2023/11/12

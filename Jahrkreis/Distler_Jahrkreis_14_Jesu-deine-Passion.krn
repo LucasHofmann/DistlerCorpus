@@ -1,3 +1,4 @@
+!!!!SEGMENT: Distler_Jahrkreis_14_Jesu-deine-Passion.krn
 !!!COM: Distler, Hugo
 !!!CDT: 1908-1942
 !!!OPR@@DE: Der Jahrkreis
@@ -5,7 +6,7 @@
 !!!OTL@@DE: Jesu, deine Passion
 !!!OTL@EN: Jesus, your Passion
 !!!OPS: 5
-!!!ONM: 1
+!!!ONM: 14
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -104,7 +105,7 @@
 .	.	4d	le	4a-	le
 =16	=16	=16	=16	=16	=16
 4c,	zen,	(4f	Schmer-	2g	Schmer-
-*^		*	*	*	*	*
+*^	*	*	*	*	*
 8c	8c	al-	4e-)	.	.	.
 8B-	8B-	le	.	.	.	.
 2c	2G	Schmer-	[2d	zen.	[2g	zen.
@@ -116,8 +117,8 @@
 !!!YOR: Bärenreiter-Ausgabe 676
 !!!YOY: 1933
 !!!EFL: 14/52
-!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=29
-!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=29 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
 !!!system-decoration: [(s1,s2,s3)]
 !!!ENC: Lucas Hofmann
 !!!END: 2023/10/18

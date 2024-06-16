@@ -1,3 +1,4 @@
+!!!!SEGMENT: Distler_Jahrkreis_50_Herr-schicke-was-du-wilt.krn
 !!!COM: Distler, Hugo
 !!!CDT: 1908-1942
 !!!OPR@@DE: Der Jahrkreis
@@ -5,7 +6,7 @@
 !!!OTL@@DE: Herr, schicke, was du wilt
 !!!OTL@EN: Lord, send what you want
 !!!OPS: 5
-!!!ONM: 1
+!!!ONM: 50
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -34,7 +35,7 @@
 .	.	4c	.	[4b	.
 =5	=5	=5	=5	=5	=5
 8e,	des,	8B),	.	8b]),	.
-*	*	*^		*	*	*
+*	*	*^	*	*	*
 8e	dass	8B	8B	dass	8b	dass
 2g	bei-	2e	2A	bei-	2cc	bei-
 4f#	des,	4B	4B	des,	4b	des,
@@ -110,8 +111,9 @@
 !!!YOR: Bärenreiter-Ausgabe 676
 !!!YOY: 1933
 !!!EFL: 50/52
-!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=90
-!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=90 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-youtube: https://www.youtube.com/watch?v=d5iQc-kndPg Ensemble Nobiles
 !!!system-decoration: [(s1,s2,s3)]
 !!!ENC: Lucas Hofmann
 !!!END: 2024/01/08

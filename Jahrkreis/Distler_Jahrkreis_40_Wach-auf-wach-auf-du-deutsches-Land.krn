@@ -1,3 +1,4 @@
+!!!!SEGMENT: Distler_Jahrkreis_40_Wach-auf-wach-auf-du-deutsches-Land.krn
 !!!COM: Distler, Hugo
 !!!CDT: 1908-1942
 !!!OPR@@DE: Der Jahrkreis
@@ -5,7 +6,7 @@
 !!!OTL@@DE: Wach auf, wach auf, du deutsches Land
 !!!OTL@EN: Awake, awake, O German land
 !!!OPS: 5
-!!!ONM: 1
+!!!ONM: 40
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -126,7 +127,7 @@
 8c#	.	.	.	.	.
 4B	.	.	.	4b	.
 4A	.	4f#)	.	4cc#)	.
-*^		*	*	*	*	*
+*^	*	*	*	*	*
 2d	2d	.	(4.d	chen!	1dd	chen!
 .	.	.	8eL	.	.	.
 4e	4c#	.	8f#	.	.	.
@@ -138,8 +139,8 @@
 !!!YOR: Bärenreiter-Ausgabe 676
 !!!YOY: 1933
 !!!EFL: 40/52
-!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=77
-!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=77 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
 !!!system-decoration: [(s1,s2,s3)]
 !!!ENC: Lucas Hofmann
 !!!END: 2024/01/02

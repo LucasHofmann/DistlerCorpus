@@ -1,3 +1,4 @@
+!!!!SEGMENT: Distler_Jahrkreis_38_Kyrie-Gott-Vater-in-Ewigkeit.krn
 !!!COM: Distler, Hugo
 !!!CDT: 1908-1942
 !!!OPR@@DE: Der Jahrkreis
@@ -5,7 +6,7 @@
 !!!OTL@@DE: Kyrie, Gott Vater in Ewigkeit
 !!!OTL@EN: Kyrie, Lord, Father, eternal God
 !!!OPS: 5
-!!!ONM: 1
+!!!ONM: 38
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -95,7 +96,7 @@
 8F	.	2B	i-	8aL]	.
 8EJ)	.	.	.	8bJ)	.
 4D	i-	.	.	4a	i-
-*	*	*^		*	*	*
+*	*	*^	*	*	*
 2E	son!	(4A	(4A	son!	2e	son!
 .	.	4B)	4G#)	.	.	.
 *	*	*v	*v	*	*	*
@@ -118,7 +119,7 @@
 .	.	8e	ler	.	.
 =16	=16	=16	=16	=16	=16
 1.r	.	4e	Welt	4a	hast'
-*	*	*	*	*^		*
+*	*	*	*	*^	*
 .	.	4.e,	Trost,	4a	4a	er-
 .	.	.	.	2.b	2.e	loest.
 .	.	8g	uns	.	.	.
@@ -206,7 +207,7 @@
 8F	.	2B	i-	.	.
 8EJ)	.	.	.	8b)	.
 4D	i-	.	.	4a	i-
-*	*	*^		*	*	*
+*	*	*^	*	*	*
 2E	son!	(4A	(4A	son!	2e	son!
 .	.	4B)	4G#)	.	.	.
 *	*	*v	*v	*	*	*
@@ -301,7 +302,7 @@
 8EJ)	.	.	.	8b)	.
 4D	i-	.	.	4a	i-
 =42	=42	=42	=42	=42	=42
-*	*	*^		*	*	*
+*	*	*^	*	*	*
 1E	son!	(2A	(2A	son!	1e	son!
 .	.	2B)	2G#)	.	.	.
 *	*	*v	*v	*	*	*
@@ -310,8 +311,9 @@
 !!!YOR: Bärenreiter-Ausgabe 676
 !!!YOY: 1933
 !!!EFL: 38/52
-!!!URL-scan: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=73
-!!!URL-imslp:https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=73 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-youtube: https://www.youtube.com/watch?v=MJ2NeViYRWg Ensemble Nobiles
 !!!system-decoration: [(s1,s2,s3)]
 !!!ENC: Lucas Hofmann
 !!!END: 2023/12/03
