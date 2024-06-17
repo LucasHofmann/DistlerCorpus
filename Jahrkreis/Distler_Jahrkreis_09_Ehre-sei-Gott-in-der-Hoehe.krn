@@ -13,6 +13,7 @@
 *Ialto	*	*Isoprn	*	*Isoprn	*
 *clefG2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*
+!!LO:TX:a:t=frei psalmodierend
 *M6/4	*	*M6/4	*	*M6/4	*
 *MM120	*	*MM120	*	*MM120	*
 =1	=1	=1	=1	=1	=1
@@ -28,6 +29,7 @@
 .	.	.	.	4ee	in
 .	.	.	.	4cc	der
 =3	=3	=3	=3	=3	=3
+!!LO:TX:a:t=Fließende [quarter]
 *M4/4	*	*M4/4	*	*M4/4	*
 2r	.	4r	.	1dd	Hoe-
 .	.	(2g	Eh-	.	.
@@ -79,6 +81,7 @@
 4d	in	2f#	Hoe-	2dd	2dd	Hoe-
 4d	der	.	.	.	.	.
 1A	Hoe-	2a,	he	2ee,	2cc#	he
+!!LO:TX:a:B:t=Ruhiger
 .	.	4cn	und	4e	4e	und
 .	.	4c	auf	4e	4e	auf
 *	*	*	*	*v	*v	*
@@ -103,6 +106,7 @@
 =13	=13	=13	=13	=13	=13
 *M4/4	*	*M4/4	*	*M4/4	*
 1A],	.	2c#,	Fried'	1e,	Fried'
+!!LO:TX:a:B:t=Rasch
 .	.	4f#	und	.	.
 .	.	4e	den	.	.
 =14	=14	=14	=14	=14	=14
