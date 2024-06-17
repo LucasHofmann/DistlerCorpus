@@ -7,6 +7,7 @@
 !!!OTL@EN: We believe in God, the Father
 !!!OPS: 5
 !!!ONM: 27
+!!!RNB: Verse 2 section (in 2 voices) is not encoded in middle of work.
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -41,6 +42,7 @@
 *^	*	*	*	*	*
 2A	2A	Schoep-	2fn	maech-	4dd	ti-
 .	.	.	.	.	4b	gen
+!!LO:LB:g=original
 =5	=5	=5	=5	=5	=5	=5
 2B	2G	fer,	4g	ti-	(2dd	Herrn
 *v	*v	*	*	*	*	*
@@ -67,6 +69,7 @@
 .	.	.	.	2e	wer-
 .	.	8a	be-	.	.
 4c#	wer-	4a	ginn	.	.
+!!LO:LB:g=original
 =8	=8	=8	=8	=8	=8
 *M4/4	*	*M4/4	*	*M4/4	*
 2d	den	4a	liess	4f#,	den
@@ -96,6 +99,7 @@
 *M6/4	*	*M6/4	*	*M6/4	*M6/4	*
 1e	den.	1b	den.	1g#	1e	den.
 *	*	*	*	*v	*v	*
+!!LO:LB:g=original
 =13||	=13||	=13||	=13||	=13||	=13||
 *M4/4	*	*M4/4	*	*M4/4	*
 4g	Glau-	4b	Glau-	4b	Glau-
@@ -126,6 +130,7 @@
 4g	chem	(4.g	al-	4dd	Schrift
 4e	die	.	.	[(4cc	al-
 .	.	8fn	.	.	.
+!!LO:LB:g=original
 =18	=18	=18	=18	=18	=18
 4a	Schrift	4e	.	4cc]	.
 2g	al-	4c)	.	4b)	.
@@ -152,6 +157,7 @@
 .	.	.	.	4g	den
 4r	.	4r	.	4a	Aus-
 4B	den	4d	den	4b	er-
+!!LO:LB:g=original
 =23	=23	=23	=23	=23	=23
 4c	Aus-	4e	Aus-	2b	waehl-
 4e	er-	4g	er-	.	.
@@ -185,7 +191,7 @@
 .	.	8f#L	.	.	.
 .	.	8a	.	.	.
 *	*	*^	*	*	*
-.	.	8b)	8b)	.	.	.
+.	.	8bJ)	8b)	.	.	.
 .	.	4cc#	4a	men.	4ee	men.
 *	*	*v	*v	*	*	*
 ==	==	==	==	==	==

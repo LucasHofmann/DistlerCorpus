@@ -7,6 +7,7 @@
 !!!OTL@EN: I give you a new commandment
 !!!OPS: 5
 !!!ONM: 24
+!!!RNB: Single-staff introduction not encoded.
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -39,6 +40,7 @@
 .	.	4d	mue-	.	.
 .	.	.	.	8a	und
 .	.	[4a	tig	4a	ist
+!!LO:LB:g=original
 =6	=6	=6	=6	=6	=6
 2r	.	8a]	.	2b-	freund-
 .	.	8a	und	.	.
@@ -63,6 +65,7 @@
 8d	und	.	.	.	.
 2d	freund-	.	.	4bn	wil-
 .	.	4a	wil-	[4b	len
+!!LO:LB:g=original
 =10	=10	=10	=10	=10	=10
 *M6/4	*	*M6/4	*	*M6/4	*
 8e,	lich,	8g,	len,	8b],	.
@@ -92,6 +95,7 @@
 4f	chet	4a	nicht	4a	chet
 4g	nicht	4b	das	4dd	nicht
 4g	das	([4a	Ih-	4dd	das
+!!LO:LB:g=original
 =14	=14	=14	=14	=14	=14
 *M4/4	*	*M4/4	*	*M4/4	*
 2d	Ih-	4a]	.	2bn	Ih-
@@ -124,6 +128,7 @@
 2.d	dul-	(2g	dul-	(2cc	dul-
 .	.	4f#)	.	4b)	.
 4d	det	4e	det	4g	det
+!!LO:LB:g=original
 =19	=19	=19	=19	=19	=19
 *M4/4	*	*M4/4	*	*M4/4	*
 1A	al-	1f#	al-	1a	al-
@@ -156,6 +161,7 @@
 4d	.	.	.	.	.
 2e)	.	[2g	nim-	4g	hoe-
 .	.	.	.	4cc	ret
+!!LO:LB:g=original
 =26	=26	=26	=26	=26	=26
 2d,	be,	4g]	.	2a	nim-
 .	.	4f#	mer	.	.
@@ -183,6 +189,7 @@
 4r	.	4e	.	(2cc	Lie-
 4A	hoe-	[2f	.	.	.
 4d	ret	.	.	[4dd	.
+!!LO:LB:g=original
 =31	=31	=31	=31	=31	=31
 2c	nim-	4f]	.	8ddL]	.
 .	.	.	.	8ccJ	.

@@ -7,6 +7,7 @@
 !!!OTL@EN: Lord God, we praise you
 !!!OPS: 5
 !!!ONM: 25
+!!!RNB: Call and response.  Call is the empty measure at the start of each system, which is not encoded.
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -29,7 +30,8 @@
 8AA	dan-	(8dL	ken	4a	ken
 8E	ken	8cJ)	.	.	.
 2E	dir.	2B	dir.	2g	dir.
-=4	=4	=4	=4	=4	=4
+!!LO:LB:g=original
+=4||	=4||	=4||	=4||	=4||	=4||
 1r	.	1r	.	1r	.
 =5	=5	=5	=5	=5	=5
 4r	.	4r	.	4r	.
@@ -50,7 +52,8 @@
 4c)	.	4g]	.	4a)	.
 4c	und	4f	und	4a	und
 2C	breit.	2e	breit.	2g	breit.
-=8	=8	=8	=8	=8	=8
+!!LO:LB:g=original
+=8||	=8||	=8||	=8||	=8||	=8||
 1r	.	1r	.	1r	.
 =9	=9	=9	=9	=9	=9
 1r	.	4r	.	4.g	und
@@ -72,7 +75,8 @@
 .	.	.	.	4a	ner
 .	.	8f#	ner	.	.
 2G	Ehr.	2g	Ehr.	2g	Ehr.
-=12	=12	=12	=12	=12	=12
+!!LO:LB:g=original
+=12||	=12||	=12||	=12||	=12||	=12||
 1r	.	1r	.	1r	.
 =13	=13	=13	=13	=13	=13
 *M2/4	*	*M2/4	*	*M2/4	*
@@ -93,7 +97,8 @@
 4E	her	(8bL	her	4a	her
 .	.	8ccJ)	.	.	.
 2G	Stimm:	2dd	Stimm:	2b	Stimm:
-=16	=16	=16	=16	=16	=16
+!!LO:LB:g=original
+=16||	=16||	=16||	=16||	=16||	=16||
 1r	.	1r	.	1r	.
 =17	=17	=17	=17	=17	=17
 2c	Hei-	1g	Hei-	(2e	Hei-

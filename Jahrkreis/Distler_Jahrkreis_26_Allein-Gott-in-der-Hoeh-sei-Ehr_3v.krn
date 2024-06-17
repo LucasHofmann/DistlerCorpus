@@ -7,6 +7,7 @@
 !!!OTL@EN: All glory be to God on high
 !!!OPS: 5
 !!!ONM: 26
+!!!RNB: Second verse music not encoded (2-voice system) left as empty measures at end.
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -15,6 +16,9 @@
 *k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*
 *MM120	*	*MM120	*	*MM120	*
 *M6/4	*	*M6/4	*	*M6/4	*
+*[A,A1,A,A2,B]	*[A,A1,A,A2,B]	*[A,A1,A,A2,B]	*[A,A1,A,A2,B]	*[A,A1,A,A2,B]	*[A,A1,A,A2,B]
+*norep[A,A2,B]	*norep[A,A2,B]	*norep[A,A2,B]	*norep[A,A2,B]	*norep[A,A2,B]	*norep[A,A2,B]
+*>A	*>A	*>A	*>A	*>A	*>A
 =1	=1	=1	=1	=1	=1
 2.r	.	4e	Al-	4a	Al-
 .	.	4e	lein	4cc#	lein
@@ -50,12 +54,16 @@
 2.E	Gna-	(2a	Gna-	4a	ne
 .	.	.	.	2b	Gna-
 .	.	4g#)	.	.	.
+!!LO:LB:g=original
 =5	=5	=5	=5	=5	=5
+*>A1	*>A1	*>A1	*>A1	*>A1	*>A1
 2.A	de	2.a	de	2.a	de
 =6:|!	=6	=6:|!	=6	=6:|!	=6
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
 2A,	de.	2.a	de.	2.a	de.
 4A	Ein	.	.	.	.
 =7||	=7	=7||	=7	=7||	=7
+*>B	*>B	*>B	*>B	*>B	*>B
 *M4/4	*	*M4/4	*	*M4/4	*
 4B	Wohl-	4r	.	4r	.
 4B	ge-	4e	Ein	4a	Ein
@@ -76,6 +84,7 @@
 2B	nun	.	.	4cc#	ist
 .	.	8a	ist	.	.
 .	.	4b	gross	4dd	gross
+!!LO:LB:g=original
 =10	=10	=10	=10	=10	=10
 4A	ist	4cc#	Fried	2.ee	Fried
 4A	gross	4dd	ohn	.	.

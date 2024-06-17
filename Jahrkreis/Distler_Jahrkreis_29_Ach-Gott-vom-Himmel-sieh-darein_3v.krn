@@ -7,6 +7,7 @@
 !!!OTL@EN: Oh God, look down from heaven
 !!!OPS: 5
 !!!ONM: 29
+!!!RNB: Blank measures at end are for Second verse music which is not encoded (2-voice texture).
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -37,6 +38,7 @@
 8dJ)	.	.	.	.	.
 4c	des	4e	des	4a	des
 4B	er-	4d	er-	4dd	er-
+!!LO:LB:g=original
 =5	=5	=5	=5	=5	=5
 2c	bar-	2e	bar-	(4cc	bar-
 .	.	.	.	4b)	.
@@ -58,6 +60,7 @@
 2G	wahr,	2g	wahr,	2b	wahr,
 4r	.	4r	.	4r	.
 4c	der	4e	der	4g	der
+!!LO:LB:g=original
 =9	=9	=9	=9	=9	=9
 4fn	Glaub'	4d	Glaub'	4a	Glaub'
 4e	ist	4e	ist	4cc	ist

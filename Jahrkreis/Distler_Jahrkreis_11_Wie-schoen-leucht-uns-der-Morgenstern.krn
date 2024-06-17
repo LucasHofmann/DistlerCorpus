@@ -7,6 +7,7 @@
 !!!OTL@EN: How beautifully the morning star shines for us
 !!!OPS: 5
 !!!ONM: 11
+!!!RNB: Instrumental ritornello after work not encoded.
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -36,6 +37,7 @@
 .	.	4f#	voll	.	.
 4r	.	4e	Grad'	4r	.
 4F#	voll	4d	und	4a	voll
+!!LO:LB:g=original
 =4	=4	=4	=4	=4	=4
 2E	Gnad'	(2.g	Wahr-	4b	Gnad'
 .	.	.	.	4cc#	und
@@ -57,13 +59,14 @@
 .	.	.	.	2g	Wur-
 .	.	4e	zel	.	.
 4G	zel	([4d	Jes-	4f#	zel
+!!LO:LB:g=original
 =7	=7	=7	=7	=7	=7
 *M4/4	*	*M4/4	*	*M4/4	*
 2A	Jes-	4d]	.	2e	Jes-
 .	.	4c#)	.	.	.
 2D	se!	2d	se!	2d	se!
-==	==	==	==	==	==
-=8	=8	=8	=8	=8	=8
+=8:|!	=8:|!	=8:|!	=8:|!	=8:|!	=8:|!
+*M4/4	*	*M4/4	*	*M4/4	*
 1r	.	1r	.	2a	lieb-
 .	.	.	.	2f#,	lich,
 =9	=9	=9	=9	=9	=9
@@ -84,6 +87,7 @@
 8F#J)	.	.	.	.	.
 4E	ehr-	.	.	.	.
 4E,	lich,	.	.	.	.
+!!LO:LB:g=original
 =12	=12	=12	=12	=12	=12
 4F#	reich	2.a	hoch	4dd	hoch
 4F#	an	.	.	8cc#	und

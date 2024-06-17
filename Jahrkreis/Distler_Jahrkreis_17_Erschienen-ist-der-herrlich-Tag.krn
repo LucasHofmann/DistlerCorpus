@@ -7,6 +7,7 @@
 !!!OTL@EN: Appeared is the splendid day
 !!!OPS: 5
 !!!ONM: 17
+!!!RNB: Instrumental rittornello after work not encoded.
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -35,6 +36,7 @@
 .	.	.	.	8cc#)	.
 4e	dran	.	.	4b	lich'
 .	.	8g#)	.	.	.
+!!LO:LB:g=original
 =5	=5	=5	=5	=5	=5
 2f#	sich	4f#	lich'	2a,	Tag,
 .	.	2e,	Tag,	.	.
@@ -56,6 +58,7 @@
 4e	Christ,	2.e,	mag:	2b,	mag:
 4g	un-	.	.	.	.
 4e	ser	.	.	4b	Christ,
+!!LO:LB:g=original
 =10	=10	=10	=10	=10	=10
 4d	Herr,	4f#	Christ,	2dd	un-
 2d	heut	4a	un-	.	.
@@ -77,6 +80,7 @@
 2f#	er	2.r	.	4d	all'
 .	.	.	.	4g	sein'
 4e	ge-	.	.	4a	Feind'
+!!LO:LB:g=original
 =15	=15	=15	=15	=15	=15
 2d	fan-	4d	all'	2b	er
 .	.	4g	sein'	.	.

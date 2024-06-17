@@ -7,6 +7,7 @@
 !!!OTL@EN: With high delight
 !!!OPS: 5
 !!!ONM: 18
+!!!RNB: Verse 4 (two-part texture) not encoded.
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -35,6 +36,7 @@
 8BJ)	.	.	.	.	.
 (8c#L	den	4a	zu	4cc#	ser
 8d#J)	.	.	.	.	.
+!!LO:LB:g=original
 =4	=4	=4	=4	=4	=4
 4.e,	zart	4g#	die-	4b,	Fahrt
 .	.	4f#	ser	4.cc#	lasst
@@ -61,6 +63,7 @@
 .	.	.	.	4dd#	e-
 .	.	8f#)	.	.	.
 .	.	4e	wig'	4cc#	wig'
+!!LO:LB:g=original
 =8	=8	=8	=8	=8	=8
 1r	.	4d#,	Heil	4b,	Heil
 .	.	4c#	wird	4ee	wird
@@ -88,6 +91,7 @@
 8a#)	.	8c#	den	8a#J	.
 (8g#L	den	4B,	ist,	[4b	.
 8f#J)	.	.	.	.	.
+!!LO:LB:g=original
 =12	=12	=12	=12	=12	=12
 4e,	ist,	4f#	was	8b])	.
 .	.	.	.	8b	den

@@ -7,6 +7,7 @@
 !!!OTL@EN: Come, Holy Ghost, Creator, God
 !!!OPS: 5
 !!!ONM: 23
+!!!ONB: Odd verses
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -34,6 +35,7 @@
 .	.	4a	fer	4b-	sprich
 4B-,	du,	4b-,	du,	4f	dei-
 4B-	sprich	4b-	sprich	4g	nen
+!!LO:LB:g=original
 =4	=4	=4	=4	=4	=4
 8An	dei-	8b-	dei-	4b-	ar-
 8G	nen	8b-	nen	.	.
@@ -56,6 +58,7 @@
 4A	den,	4c,	den,	4cc	er-
 (2d	sue-	4f	er-	4dd	fuell
 .	.	4g	fuell	4b-	mit
+!!LO:LB:g=original
 =7	=7	=7	=7	=7	=7
 8cL	.	4e-	mit	4g	Gna-
 8B-J	.	.	.	.	.

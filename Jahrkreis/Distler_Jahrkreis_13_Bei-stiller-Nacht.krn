@@ -7,6 +7,7 @@
 !!!OTL@EN: In the quiet night
 !!!OPS: 5
 !!!ONM: 13
+!!!RNB: 4-measure solos encoded in top voice
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -37,6 +38,8 @@
 =4	=4	=4	=4	=4	=4
 1r	.	1r	.	2e	kla-
 .	.	.	.	2e	gen.
+!!LO:LB:g=original
+=||	=||	=||	=||	=||	=||
 2A	.	2e	.	2cc	Bei
 =5	=5	=5	=5	=5	=5
 4c	stil-	4f	stil-	4cc	stil-
@@ -63,6 +66,8 @@
 4c]	.	2f	kla-	4e]	.
 4B)	.	.	.	4d)	.
 2A	gen.	2e	gen.	2e	gen.
+!!LO:LB:g=original
+=||	=||	=||	=||	=||	=||
 2r	.	2r	.	2b	Ich
 =11	=11	=11	=11	=11	=11
 1.r	.	1.r	.	4cc	nahm
@@ -89,6 +94,8 @@
 .	.	.	.	8aJ	.
 .	.	.	.	4g#)	.
 .	.	.	.	2a	gen.
+!!LO:LB:g=original
+=||	=||	=||	=||	=||	=||
 2G	Ich	2d	Ich	2b	Ich
 =15	=15	=15	=15	=15	=15
 4c	nahm	(4e	nahm	4cc	nahm

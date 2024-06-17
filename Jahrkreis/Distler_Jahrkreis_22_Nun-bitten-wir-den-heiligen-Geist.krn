@@ -7,6 +7,7 @@
 !!!OTL@EN: We now implore the Holy Ghost
 !!!OPS: 5
 !!!ONM: 22
+!!!RNB: Instrumental work after 22 is not encoded.
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -41,6 +42,7 @@
 1r	.	2.g	um	2b	um
 .	.	.	.	2dd	den
 .	.	4a	den	.	.
+!!LO:LB:g=original
 =7	=7	=7	=7	=7	=7
 1r	.	4e	rech-	2ee	rech-
 .	.	4e	ten	.	.
@@ -71,6 +73,7 @@
 1c	de,	2e,	de,	2g,	de,
 .	.	4e	wenn	4g	wenn
 .	.	4e	wir	4a	wir
+!!LO:LB:g=original
 =13	=13	=13	=13	=13	=13
 *M4/4	*	*M4/4	*	*M4/4	*
 *met(c|)	*	*met(c|)	*	*met(c|)	*
