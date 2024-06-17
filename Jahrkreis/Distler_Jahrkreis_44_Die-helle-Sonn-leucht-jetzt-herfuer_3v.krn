@@ -7,6 +7,7 @@
 !!!OTL@EN: The sun is shining, clear and bright
 !!!OPS: 5
 !!!ONM: 44
+!!!RNB: 44b is a two-voice setting for even verses that is not encoded.
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -45,6 +46,7 @@
 4d	auf-	4a	auf-	4ff	ste-
 4c	ste-	4cc	ste-	2ee	hen
 4B-	hen	4dd	hen	.	.
+!!LO:LB:g=original
 =6	=6	=6	=6	=6	=6
 2A	wir.	4cc,	wir.	2ff	wir.
 .	.	4cc	Gott	.	.
