@@ -7,6 +7,7 @@
 !!!OTL@EN: Now has the blessed sun gone down
 !!!OPS: 5
 !!!ONM: 46
+!!!RNB: 46b is a 2-voice setting that is not encoded
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -53,6 +54,7 @@
 8aJ)	.	8g#)	.	8cc#J)	.
 4b	stark	2f#	her-	2dd#	her-
 4b	her-	.	.	.	.
+!!LO:LB:g=original
 =6	=6	=6	=6	=6	=6
 *M3/2	*	*M3/2	*	*M3/2	*
 4e,	ein.	4g#,	ein.	4ee,	ein.
