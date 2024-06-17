@@ -13,10 +13,10 @@
 *Ibass	*	*Ialto	*	*Isoprn	*
 *clefF4	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*
-*MM120	*	*MM120	*	*MM120	*
 *M4/4	*	*M4/4	*	*M4/4	*
-*[I,A,A1,A,A2,B]	*[I,A,A1,A,A2,B]	*[I,A,A1,A,A2,B]	*[I,A,A1,A,A2,B]	*[I,A,A1,A,A2,B]	*[I,A,A1,A,A2,B]
-*norep[I,A,A2,B]	*norep[I,A,A2,B]	*norep[I,A,A2,B]	*norep[I,A,A2,B]	*norep[I,A,A2,B]	*norep[I,A,A2,B]
+*MM120	*	*MM120	*	*MM120	*
+*>[I,A,A1,A,A2,B]	*>[I,A,A1,A,A2,B]	*>[I,A,A1,A,A2,B]	*>[I,A,A1,A,A2,B]	*>[I,A,A1,A,A2,B]	*>[I,A,A1,A,A2,B]
+*>norep[I,A,A2,B]	*>norep[I,A,A2,B]	*>norep[I,A,A2,B]	*>norep[I,A,A2,B]	*norep[I,A,A2,B]	*norep[I,A,A2,B]
 *>I	*>I	*>I	*>I	*>I	*>I
 =1	=1	=1	=1	=1	=1
 4B	Aus	1r	.	1r	.
