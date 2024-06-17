@@ -15,7 +15,7 @@
 *k[]	*	*k[]	*	*k[]	*
 *MM120	*	*MM120	*	*MM120	*
 *M4/4	*	*M4/4	*	*M4/4	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*
 =1	=1	=1	=1	=1	=1
 4r	.	4r	.	4r	.
 4.G	Wie	4.d	Wie	4.g	Wie
@@ -70,7 +70,7 @@
 .	.	8b-	ne	8b-	ne
 =10	=10	=10	=10	=10	=10
 *M4/4	*	*M4/4	*	*M4/4	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*
 2F	le	4a-	See-	4cc	See-
 .	.	2g	le	2cc	le
 2F	zu	.	.	.	.

@@ -15,7 +15,7 @@
 *k[]	*	*k[]	*	*k[]	*
 *MM120	*	*MM120	*	*MM120	*
 *M4/4	*	*M4/4	*	*M4/4	*
-*met(C)	*	*met(C)	*	*met(C)	*
+*met(c)	*	*met(c)	*	*met(c)	*
 =1	=1	=1	=1	=1	=1
 1r	.	1r	.	1r	.
 =2	=2	=2	=2	=2	=2
@@ -80,7 +80,7 @@
 4F	gen	4g	gen	4a	gen
 =14	=14	=14	=14	=14	=14
 *M4/4	*	*M4/4	*	*M4/4	*
-*met(C)	*	*met(C)	*	*met(C)	*
+*met(c)	*	*met(c)	*	*met(c)	*
 4C	im-	2e	im-	4g	im-
 4.G	mer	.	.	4a	mer
 .	.	8d	mer	4b	mit
