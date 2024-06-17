@@ -7,6 +7,7 @@
 !!!OTL@EN: ...
 !!!OPS: 5
 !!!ONM: 34
+!!!RNB: Middle section with 1-, 2-voices is omitted.
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -29,6 +30,7 @@
 4B-	auf	2d,	Plan,	2f,	Plan,
 4A	die-	.	.	.	.
 4G	sen	4d	ein'	4f	ein'
+!!LO:LB:g=original
 =3	=3	=3	=3	=3	=3
 4A,	Plan,	2c#	Tanz	2e	Tanz
 4a	ein'	.	.	.	.
@@ -48,6 +50,7 @@
 2d	bei	(4.f	bei	2a	ihr
 .	.	8e)	.	.	.
 4d	muesst	4d	muesst	4g	mir
+!!LO:LB:g=original
 =6	=6	=6	=6	=6	=6
 2c	ihr	4e	ihr	2a	all'
 .	.	2.a	mir	.	.
@@ -75,7 +78,9 @@
 4f	nen.	4f	nen.	4f	nen.
 4r	.	4r	.	4r	.
 2r	.	2r	.	2r	.
-==	==	==	==	==	==
+!!LO:LB:g=original
+=||	=||	=||	=||	=||	=||
+*M6/4	*	*M6/4	*	*M6/4	*
 4d	Das	4f	Das	4r	.
 =10	=10	=10	=10	=10	=10
 2e	Fleisch	2a	Fleisch	2r	.
@@ -94,6 +99,7 @@
 2f,	reit:	.	.	4dd	be-
 .	.	2g	der	2cc,	reit:
 4e	der	.	.	.	.
+!!LO:LB:g=original
 =12	=12	=12	=12	=12	=12
 2a	Tod	4f	Tod	2cc	der
 .	.	4e	die	.	.
@@ -117,6 +123,7 @@
 8f	Bit-	4a	nis	8cc	Bit-
 8f	ter-	.	.	8cc	ter-
 [4e	nis	4g	ward	[4cc	nis
+!!LO:LB:g=original
 =15	=15	=15	=15	=15	=15
 *M6/4	*	*M6/4	*	*M6/4	*
 8e]	.	2a	ganz	8cc]	.

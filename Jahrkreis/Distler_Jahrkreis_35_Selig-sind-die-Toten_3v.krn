@@ -7,6 +7,7 @@
 !!!OTL@EN: Blessed are the dead
 !!!OPS: 5
 !!!ONM: 35
+!!!RNB: Unmeasured section at start of music omitted.
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -46,6 +47,7 @@
 .	.	8f	rer	8b-	rer
 2A-	Ar-	2e-	Ar-	2cc	Ar-
 2B-	beit.	2f	beit.	2dd	beit.
+!!LO:LB:g=original
 =6||	=6	=6||	=6	=6||	=6
 *M3/4	*	*M3/4	*	*M3/4	*
 2.r	.	2.r	.	4dd	Und
@@ -65,6 +67,7 @@
 .	.	8f	gen	.	.
 4c	ke	4e-	ih-	.	.
 [4B-	fol-	4g	nen	.	.
+!!LO:LB:g=original
 =10	=10	=10	=10	=10	=10
 8B-]	.	2.f,	nach,	4dd	und
 8B-	gen	.	.	.	.
@@ -89,6 +92,7 @@
 8B-	gen	.	.	.	.
 4B-	ih-	.	.	4dd	ih-
 4A-	nen	.	.	4dd	re
+!!LO:LB:g=original
 =15	=15	=15	=15	=15	=15
 2c	nach,	4g	und	2ee-	Wer-
 .	.	4g	ih-	.	.

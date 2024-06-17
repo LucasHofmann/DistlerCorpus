@@ -15,11 +15,15 @@
 *k[]	*	*k[]	*	*k[]	*
 *MM120	*	*MM120	*	*MM120	*
 *M4/4	*	*M4/4	*	*M4/4	*
+*[I,A,A1,A,A2,B]	*[I,A,A1,A,A2,B]	*[I,A,A1,A,A2,B]	*[I,A,A1,A,A2,B]	*[I,A,A1,A,A2,B]	*[I,A,A1,A,A2,B]
+*norep[I,A,A2,B]	*norep[I,A,A2,B]	*norep[I,A,A2,B]	*norep[I,A,A2,B]	*norep[I,A,A2,B]	*norep[I,A,A2,B]
+*>I	*>I	*>I	*>I	*>I	*>I
 =1	=1	=1	=1	=1	=1
 4B	Aus	1r	.	1r	.
 2E	tie-	.	.	.	.
 4B	fer	.	.	.	.
 =2!|:	=2	=2!|:	=2	=2!|:	=2
+*>A	*>A	*>A	*>A	*>A	*>A
 (4.c	Not	1r	.	1r	.
 4B)	.	.	.	.	.
 8B	schrei'	.	.	.	.
@@ -32,6 +36,7 @@
 2B]	.	2e	Herr	2cc	Gott,
 2r	.	2f	Gott,	4b	er-
 .	.	.	.	[(4dd	hoer'
+!!LO:LB:g=original
 =5	=5	=5	=5	=5	=5
 2r	.	4e	er-	8ddL]	.
 .	.	.	.	8bJ)	.
@@ -57,14 +62,18 @@
 2F)	.	4e	.	.	.
 .	.	.	.	8a	.
 .	.	4a)	.	4b)	.
+!!LO:LB:g=original
 =8	=8	=8	=8	=8	=8
+*>A1	*>A1	*>A1	*>A1	*>A1	*>A1
 4E,	fen!	1g#	fen!	1b	fen!
 4B	Dein	.	.	.	.
 4E	gnae-	.	.	.	.
 4B	dig'	.	.	.	.
 =9:|!	=9	=9:|!	=9	=9:|!	=9
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
 1E	fen!	1g#	fen!	1b	fen!
 =10||	=10	=10||	=10	=10||	=10
+*>B	*>B	*>B	*>B	*>B	*>B
 2r	.	2e	Denn	2a	Denn
 4r	.	4e	so	4g	so
 4A	Denn	4e	du	4cc	du
@@ -72,6 +81,7 @@
 *M2/4	*	*M2/4	*	*M2/4	*
 4G	so	4gn	willst	4b	willst
 4c	du	4e	das	4a	das
+!!LO:LB:g=original
 =12	=12	=12	=12	=12	=12
 *M6/4	*	*M6/4	*	*M6/4	*
 4.B	willst	(4.g	se-	(8bL	se-
@@ -94,6 +104,7 @@
 4G	Suend'	4g	Suend'	4b	Suend'
 4E	und	4a	und	4cc	und
 2D	Un-	2f#	Un-	2dd	Un-
+!!LO:LB:g=original
 =15	=15	=15	=15	=15	=15
 4C	recht	4e	recht	4g	recht
 (2G	ist	(4.d	ist	(2b	ist
@@ -118,6 +129,7 @@
 4B	Herr,	4d	wer	.	.
 4A	vor	4fn	kann,	4r	.
 4E	dir	[4e	Herr,	4g	wer
+!!LO:LB:g=original
 =19	=19	=19	=19	=19	=19
 (2.F	blei-	4e],	.	4cc	kann,
 .	.	4d	wer	4b	Herr,

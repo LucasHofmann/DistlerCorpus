@@ -7,6 +7,7 @@
 !!!OTL@EN: ...
 !!!OPS: 5
 !!!ONM: 33
+!!!RNB: 2-voice section for second verse omitted. (measure number exclude this section).
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -44,6 +45,7 @@
 4f	ist	8f	.	4b-	Heil
 .	.	8e-JJJ)	.	.	.
 4f	das	4f	men	4dd-	uns
+!!LO:LB:g=original
 =4	=4	=4	=4	=4	=4
 4f	Heil	2.e-	her	(8ccLL	kom-
 .	.	.	.	16b-	.
@@ -86,6 +88,7 @@
 4r	.	4r	.	4r	4r	.
 4e-	Der	4g	Der	4b-	4b-	Der
 *	*	*	*	*v	*v	*
+!!LO:LB:g=original
 =9	=9	=9	=9	=9	=9
 *M5/4	*	*M5/4	*	*M5/4	*
 4c	Glaub'	2g	Glaub'	2ee-	Glaub'
@@ -115,6 +118,7 @@
 (4B-	all'	4e-)	.	4ee-	hat
 8A-L	.	4f	g'nug	4b-	g'nug
 8GJ	.	.	.	.	.
+!!LO:LB:g=original
 =13	=13	=13	=13	=13	=13
 4A-)	.	4.e-	fuer	4cc	fuer
 4c	ge-	.	.	4g	uns
@@ -141,6 +145,7 @@
 =18	=18	=18	=18	=18	=18
 2e-	den.	2g	den.	2b-	den.
 4r	.	4r	.	4r	.
+!!LO:LB:g=original
 ==	==	==	==	==	==
 =19	=19	=19	=19	=19	=19
 *M4/4	*	*M4/4	*	*M4/4	*
@@ -167,6 +172,7 @@
 4d	wie	(4.g	wie	4g	wie
 4c	im	.	.	4e-	im
 .	.	8f)	.	.	.
+!!LO:LB:g=original
 =23	=23	=23	=23	=23	=23
 *M4/4	*	*M4/4	*	*M4/4	*
 (4.d	Him-	4e-	im	(8.gLL	Him-
@@ -194,6 +200,7 @@
 4B-	auch	4d	auch	.	.
 4A-	un-	4c	un-	.	.
 4G	sern	4d	sern	.	.
+!!LO:LB:g=original
 =26	=26	=26	=26	=26	=26
 4c	Schuld-	4e-	Schuld-	4r	.
 *	*	*^	*	*	*
@@ -220,6 +227,7 @@
 [1d	[1G	steh'n,	2d	loes'	2g	loes'
 .	.	.	4d	uns	4f	uns
 .	.	.	4c	vom	4a-	vom
+!!LO:LB:g=original
 =29	=29	=29	=29	=29	=29	=29
 *M5/4	*M5/4	*	*M5/4	*	*M5/4	*
 1d]	1G]	.	4e-	Ue-	4g	Ue-

@@ -44,6 +44,7 @@
 .	.	8e	ist	.	.
 .	.	8d	dein'	.	.
 .	.	8e	Barm-	.	.
+!!LO:LB:g=original
 =6	=6	=6	=6	=6	=6
 4B]	.	4c	her-	1r	.
 2A)	.	4c	zig-	.	.
@@ -65,6 +66,7 @@
 .	.	8A	ler	.	.
 .	.	[4d	Ding'	8d	al-
 8F	ein	.	.	8d	ler
+!!LO:LB:g=original
 =9	=9	=9	=9	=9	=9
 4E	Schoep-	8d]	.	4.a	Ding'
 .	.	8e	ein	.	.
@@ -100,6 +102,7 @@
 2E	son!	(4A	(4A	son!	2e	son!
 .	.	4B)	4G#)	.	.	.
 *	*	*v	*v	*	*	*
+!!LO:LB:g=original
 =14	=14	=14	=14	=14	=14
 *M3/2	*	*M3/2	*	*M3/2	*
 1.r	.	1.r	.	(2e	Chris-
@@ -128,6 +131,7 @@
 .	.	8f	al-	.	.	.
 *	*	*	*	*v	*v	*
 .	.	4e	lein	4r	.
+!!LO:LB:g=original
 =17	=17	=17	=17	=17	=17
 1.r	.	4d	hast'	4r	.
 .	.	4c	er-	4e	O
@@ -157,7 +161,8 @@
 .	.	.	.	4g)	.
 .	.	8g	ser	.	.
 .	.	(4f	Mitt-	4a,	ler,
-=20	=20	=20	=20	=20	=20
+!!LO:LB:g=original
+=20-	=20-	=20-	=20-	=20-	=20-
 1.r	.	4.e	.	8cc	un-
 .	.	.	.	8cc	ser
 .	.	.	.	(4.b	Mitt-
@@ -169,9 +174,9 @@
 .	.	4e,	ler	.	.
 =21	=21	=21	=21	=21	=21
 *M5/4	*	*M5/4	*	*M5/4	*
-4r	.	8e	bist'	4g,	ler
+4%5r	.	8e	bist'	4g,	ler
 .	.	8e	in	.	.
-1r	.	4d	dem	4g	bist'
+.	.	4d	dem	4g	bist'
 .	.	4f	hoech-	4a	in
 .	.	2e	sten	4g	dem
 .	.	.	.	([4f	hoech-
@@ -182,6 +187,7 @@
 .	.	8d	dem	8dJ	.
 .	.	4d	hoech-	4e)	.
 .	.	4c#	sten	4e	sten
+!!LO:LB:g=original
 =23	=23	=23	=23	=23	=23
 *M6/4	*	*M6/4	*	*M6/4	*
 1.r	.	4d,	Thron.	4d,	Thron.
@@ -211,6 +217,7 @@
 2E	son!	(4A	(4A	son!	2e	son!
 .	.	4B)	4G#)	.	.	.
 *	*	*v	*v	*	*	*
+!!LO:LB:g=original
 =26||	=26	=26||	=26	=26||	=26
 *M4/4	*	*M4/4	*	*M4/4	*
 2B	Ky-	2d	Ky-	2.b	Ky-
@@ -244,6 +251,7 @@
 2G	uns	4.g	uns	4dd	uns
 .	.	.	.	4b	im
 .	.	8g	im	.	.
+!!LO:LB:g=original
 =33	=33	=33	=33	=33	=33
 4G	im	8a	rech-	(4.dd	Glau-
 .	.	8g	ten	.	.
@@ -277,6 +285,7 @@
 4r	.	4g	uns	8dd	lich
 .	.	.	.	8dd	uns
 4D	froeh-	4a	schei-	4a	schei-
+!!LO:LB:g=original
 =38	=38	=38	=38	=38	=38
 4.A	lich	8e	den	8a	den
 .	.	8f	aus	8g	aus
@@ -308,6 +317,7 @@
 *	*	*v	*v	*	*	*
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
+!!!verovio: condense auto
 !!!YOR: Bärenreiter-Ausgabe 676
 !!!YOY: 1933
 !!!EFL: 38/52

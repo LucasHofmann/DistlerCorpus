@@ -7,6 +7,7 @@
 !!!OTL@EN: ...
 !!!OPS: 5
 !!!ONM: 30
+!!!RNB: 2-voice setting for second verse not encoded.
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -37,6 +38,7 @@
 4f,	ne,	.	.	(4.dd	chri-
 4g	du	4b-	sten-	.	.
 .	.	.	.	8eeLL	.
+!!LO:LB:g=original
 =5	=5	=5	=5	=5	=5
 8d	chri-	(4a	li-	8.ff	.
 8e	sten-	.	.	.	.
@@ -60,6 +62,7 @@
 .	.	.	.	4dd	jetzt
 8e	.	8g	.	.	.
 4f)	.	4a	.	4cc	so
+!!LO:LB:g=original
 =10	=10	=10	=10	=10	=10
 4B-	lich	8gL	.	(4..b-	lieb-
 .	.	8fJ	.	.	.
@@ -92,6 +95,7 @@
 .	.	8a	.	8eeJ	.
 4A	.	8g	.	[4ff	.
 .	.	8fJJ	.	.	.
+!!LO:LB:g=original
 =15	=15	=15	=15	=15	=15
 4c)	.	4g)	.	4ff])	.
 4c	le	4g	le	4ee	le

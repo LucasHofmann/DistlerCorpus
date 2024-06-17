@@ -7,14 +7,18 @@
 !!!OTL@EN: ...
 !!!OPS: 5
 !!!ONM: 32
+!!!RNB: 2-voice setting for second verse not encoded.
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ibass	*	*Ialto	*	*Isoprn	*
 *clefF4	*	*clefG2	*	*clefG2	*
-*k[b- e-]	*	*k[b- e-]	*	*k[b- e-]	*
+*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*
 *MM120	*	*MM120	*	*MM120	*
 *M3/2	*	*M3/2	*	*M3/2	*
+*[A,A1,A,A1,A,A3,B]	*[A,A1,A,A1,A,A3,B]	*[A,A1,A,A1,A,A3,B]	*[A,A1,A,A1,A,A3,B]	*[A,A1,A,A1,A,A3,B]	*[A,A1,A,A1,A,A3,B]
+*norep[A,A3,B]	*norep[A,A3,B]	*norep[A,A3,B]	*norep[A,A3,B]	*norep[A,A3,B]	*norep[A,A3,B]
+*>A	*>A	*>A	*>A	*>A	*>A
 2r	.	4r	.	2g	Er-
 .	.	4d	Er-	.	.
 =1	=1	=1	=1	=1	=1
@@ -37,6 +41,7 @@
 .	.	8fL	.	.	.
 4G	und	8e-	.	.	.
 .	.	8dJ)	.	.	.
+!!LO:LB:g=original
 =3	=3	=3	=3	=3	=3
 *M3/2	*	*M3/2	*	*M3/2	*
 4.A-	steu'-	4c	re	4cc	steu'-
@@ -64,7 +69,9 @@
 .	.	4g	dei-	4cc	dei-
 4A	stum,	(8fL	nem	4cc	nem
 .	.	8e-J)	.	.	.
+!!LO:LB:g=original
 =6	=6	=6	=6	=6	=6
+*>A1	*>A1	*>A1	*>A1	*>A1	*>A1
 *M2/2	*	*M2/2	*	*M2/2	*
 *	*	*	*	*^	*
 8G	dei-	4d,	Sohn,	4b-,	4b-	Sohn,
@@ -90,8 +97,10 @@
 .	.	8cJJ)	.	.	.
 .	.	8e-	nem	.	.
 .	.	2d	Thron!	.	.
-==	==	==	==	==	==
+!!LO:LB:g=original
+=||	=||	=||	=||	=||	=||
 =9	=9	=9	=9	=9	=9
+*>A3	*>A3	*>A3	*>A3	*>A3	*>A3
 *M2/2	*	*M2/2	*	*M2/2	*
 *	*	*	*	*^	*
 8G	letz-	4d,	Not,	4b-,	4b-	Not,
@@ -100,6 +109,7 @@
 4B-	g'leit	[4g	uns	4b-	4b-	uns
 *	*	*	*	*v	*v	*
 =10	=10	=10	=10	=10	=10
+*>B	*>B	*>B	*>B	*>B	*>B
 *M3/2	*	*M3/2	*	*M3/2	*
 4A	uns	4g]	.	4cc	in's
 4G	in's	4g	in's	2b-	Le-
