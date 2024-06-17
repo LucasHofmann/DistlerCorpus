@@ -39,6 +39,7 @@
 4B	vor	4f#	rung	4b	lich'
 4cn	Teu-	4e	und	2a	Brot;
 4B	rung	4d	vor	.	.
+!!LO:LB:g=original
 =5	=5	=5	=5	=5	=5
 8A	und	(4.d	Hun-	4r	.
 8Gn	vor	.	.	.	.
@@ -70,6 +71,7 @@
 4c#	Gott	4c#	ben	2a	lie-
 4d	Va-	4f#,	Sohn,	.	.
 4c#	ter	4f#	Gott	4f#	ben
+!!LO:LB:g=original
 =10	=10	=10	=10	=10	=10
 *M6/4	*	*M6/4	*	*M6/4	*
 4B	in	4gn	Va-	4e,	Sohn,
@@ -115,3 +117,4 @@
 !!!system-decoration: [(s1,s2,s3)]
 !!!ENC: Lucas Hofmann
 !!!END: 2023/11/03
+!!!title: @{OPR@@DE}, Op. @{OPS}, Nr. @{ONM}. @{OTL@@DE}

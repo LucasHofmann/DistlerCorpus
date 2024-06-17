@@ -36,6 +36,7 @@
 4c	le	4e-	le	4g	le
 4B-	hei-	4d	hei-	4e-	hei-
 4A	ssest	4c	ssest	4f	ssest
+!!LO:LB:g=original
 =4	=4	=4	=4	=4	=4
 *M3/4	*	*M3/4	*	*M3/4	*
 4G,	gleich	4d,	gleich	4g,	gleich
@@ -60,6 +61,7 @@
 4B-	ten	4f	ten	4a	ten
 4c	von	4e-	von	4g	von
 4c	uns	4e-	uns	4f	uns
+!!LO:LB:g=original
 =8	=8	=8	=8	=8	=8
 *M2/2	*	*M2/2	*	*M2/2	*
 2G,	han:	2d,	han:	2g,	han:
@@ -99,3 +101,4 @@
 !!!system-decoration: [(s1,s2,s3)]
 !!!ENC: Lucas Hofmann
 !!!END: 2023/11/10
+!!!title: @{OPR@@DE}, Op. @{OPS}, Nr. @{ONM}. @{OTL@@DE}
