@@ -16,7 +16,7 @@
 *M4/4	*	*M4/4	*	*M4/4	*
 *MM120	*	*MM120	*	*MM120	*
 *>[I,A,A1,A,A2,B]	*>[I,A,A1,A,A2,B]	*>[I,A,A1,A,A2,B]	*>[I,A,A1,A,A2,B]	*>[I,A,A1,A,A2,B]	*>[I,A,A1,A,A2,B]
-*>norep[I,A,A2,B]	*>norep[I,A,A2,B]	*>norep[I,A,A2,B]	*>norep[I,A,A2,B]	*norep[I,A,A2,B]	*norep[I,A,A2,B]
+*>norep[I,A,A2,B]	*>norep[I,A,A2,B]	*>norep[I,A,A2,B]	*>norep[I,A,A2,B]	*>norep[I,A,A2,B]	*>norep[I,A,A2,B]
 *>I	*>I	*>I	*>I	*>I	*>I
 =1	=1	=1	=1	=1	=1
 4B	Aus	1r	.	1r	.
