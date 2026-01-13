@@ -7,7 +7,7 @@ We present **DistlerCorpus**, a corpus of Hugo Distler's _Der Jahrkreis_ op. 5 (
 Source: Hugo Distler. 1933. Der Jahrkreis op. 5. Bärenreiter, Kassel, Germany.
 
 ## 2. Corpus Content
-**Der Jahrkreis op. 5. Eine Sammlung von 52 zwei- und dreistimmigen geistlichen Chormusiken zum Gebrauch in Kirchen-, Schul- und Laienchören. (entstanden 1931-33)**
+**Der Jahrkreis op. 5. Eine Sammlung von 52 zwei- und dreistimmigen geistlichen Chormusiken zum Gebrauch in Kirchen-, Schul- und Laienchören. (entstanden 1931-33)**  
 (_The Year Cycle op. 5. A collection of 52 two- and three-part sacred choral pieces for use in church, school and amateur choirs. (composed 1931-33)_)
 
 _Advent_  
