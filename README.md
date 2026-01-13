@@ -10,15 +10,15 @@ Source: Hugo Distler. 1933. Der Jahrkreis op. 5. Bärenreiter, Kassel, Germany.
 **Der Jahrkreis op. 5. Eine Sammlung von 52 zwei- und dreistimmigen geistlichen Chormusiken zum Gebrauch in Kirchen-, Schul- und Laienchören. (entstanden 1931-33)**
 (_The Year Cycle op. 5. A collection of 52 two- and three-part sacred choral pieces for use in church, school and amateur choirs. (composed 1931-33)_)
 
-_Advent_
+_Advent_  
 1. O Heiland, reiß die Himmel auf
 2. Maria durch ein' Dornwald ging
 3. Nun komm, der Heiden Heiland
 4. Es kommt ein Schiff, geladen
 5. Mit Ernst, o Menschenkinder
-6. Macht hoch die Tür\\
-
-_Christmas_\\
+6. Macht hoch die Tür  
+  
+_Christmas_  
 7. Christum wir sollen loben schon
 8. Gott sei Dank durch alle Welt
 9. Ehre sei Gott in der Höhe
