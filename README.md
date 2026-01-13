@@ -17,12 +17,11 @@ _Advent_
 4. Es kommt ein Schiff, geladen
 5. Mit Ernst, o Menschenkinder
 6. Macht hoch die Tür
-
 _Christmas_
-7. Christum wir sollen loben schon
-8. Gott sei Dank durch alle Welt
-9. Ehre sei Gott in der Höhe
-10. Lobt Gott, ihr Christen, allzugleich
+8. Christum wir sollen loben schon
+9. Gott sei Dank durch alle Welt
+10. Ehre sei Gott in der Höhe
+11. Lobt Gott, ihr Christen, allzugleich
 
 _Epiphany_
 11. Wie schön leucht't uns der Morgenstern
