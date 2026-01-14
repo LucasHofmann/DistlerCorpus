@@ -1,0 +1,201 @@
+!!!!SEGMENT: Distler_Jahrkreis_49_Vaterunser_3v.krn
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Vaterunser
+!!!OTL@EN: Lord's Prayer
+!!!OPS: 5
+!!!ONM: 49
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ialto	*	*Isoprn	*	*Isoprn	*
+*clefG2	*	*clefG2	*	*clefG2	*
+*k[b- e-]	*	*k[b- e-]	*	*k[b- e-]	*
+*MM120	*	*MM120	*	*MM120	*
+*M3/2	*	*M3/2	*	*M3/2	*
+4c	Va-	4e-	Va-	2g	Va-
+4c	ter	4e-	ter	.	.
+=1	=1	=1	=1	=1	=1
+4B-	un-	4d	un-	4g	ter
+2A-	ser	2c	ser	4e-	un-
+.	.	.	.	4f	ser
+4G	im	4d	im	4g	im
+4c	Him-	4c	Him-	4e-	Him-
+4B-	mel-	4c	mel-	4d	mel-
+=2	=2	=2	=2	=2	=2
+*M2/4	*	*M2/4	*	*M2/4	*
+4c,	reich,	4c,	reich,	4c,	reich,
+4c	der	4e-	der	4g	der
+=3	=3	=3	=3	=3	=3
+*M3/2	*	*M3/2	*	*M3/2	*
+4B-	du	4d	du	4g	du
+4An	uns	4e-	uns	4f	uns
+4G	al-	4f	al-	4b-	al-
+4c	le	4e-	le	4g	le
+4B-	hei-	4d	hei-	4e-	hei-
+4A	ssest	4c	ssest	4f	ssest
+!!LO:LB:g=original
+=4	=4	=4	=4	=4	=4
+*M3/4	*	*M3/4	*	*M3/4	*
+4G,	gleich	4d,	gleich	4g,	gleich
+2e-	Brue-	2e-	Brue-	2g	Brue-
+=5	=5	=5	=5	=5	=5
+*M3/2	*	*M3/2	*	*M3/2	*
+4d-	der	4f	der	4b-	der
+4c	sein	4g	sein	4cc	sein
+4A-	und	4c	und	4ee-	und
+4B-	dich	4dn	dich	4dd	dich
+4c	ru-	4e-	ru-	4cc	ru-
+4d-X	fen	4f	fen	4b-	fen
+=6	=6	=6	=6	=6	=6
+*M3/4	*	*M3/4	*	*M3/4	*
+2c,	an	2g,	an	2cc,	an
+4f	und	4an	und	4cc	und
+=7	=7	=7	=7	=7	=7
+*M3/2	*	*M3/2	*	*M3/2	*
+4f	willst	4b-	willst	4dd	willst
+4e-	das	4a	das	4cc	das
+4dn	Be-	4g	Be-	4b-	Be-
+4B-	ten	4f	ten	4a	ten
+4c	von	4e-	von	4g	von
+4c	uns	4e-	uns	4f	uns
+!!LO:LB:g=original
+=8	=8	=8	=8	=8	=8
+*M2/2	*	*M2/2	*	*M2/2	*
+2G,	han:	2d,	han:	2g,	han:
+2An	gib,	2en	gib,	2cc	gib:
+=9	=9	=9	=9	=9	=9
+*M3/2	*	*M3/2	*	*M3/2	*
+4B-	dass	4d	dass	4b-	dass
+4c	nicht	4en	nicht	4a	nicht
+(8dL	bet'	(8fL	bet'	4b-	bet'
+8cJ)	.	8eJ)	.	.	.
+4B-	al-	4d	al-	4g	al-
+4e-	lein	4.c	lein	4g	lein
+4d	der	.	.	4f	der
+.	.	8B-	der	.	.
+=10	=10	=10	=10	=10	=10
+2c,	Mund,	2c,	Mund,	2e-,	Mund,
+2B-	hilf,	2d	hilf,	2g	hilf,
+2B-	hilf,	2d	hilf,	2g	hilf,
+=11	=11	=11	=11	=11	=11
+4A-	dass	4e-	dass	4a-	dass
+4B-	es	4d	es	4g	es
+4c	geh'	4c	geh'	4e-	geh'
+*	*	*^		*	*	*
+4G	von	4d	4B-	von	4f	von
+4A-	Her-	4e-	4c	Her-	4e-	Her-
+4B-	zens-	4f	4d	zens-	4d	zens-
+=12	=12	=12	=12	=12	=12	=12
+1c	grund!	1g	1en	grund!	1c	grund!
+*	*	*v	*v	*	*	*
+!!LO:LB:g=original
+=13||	=13||	=13||	=13||	=13||	=13||
+*M3/2	*	*M3/2	*	*M3/2	*
+2r	.	2r	.	2g	Ge-
+=14	=14	=14	=14	=14	=14
+1.r	.	4r	.	4g	hei-
+.	.	4c	Ge-	4e-	ligt
+.	.	4c	hei-	4f	werd
+.	.	4B-	ligt	4g	der
+.	.	8c	werd	4e-	Na-
+.	.	8d	der	.	.
+.	.	[4B-	Na-	4d	me
+=15	=15	=15	=15	=15	=15
+*M2/2	*	*M2/2	*	*M2/2	*
+1r	.	4B-]	.	2c,	dein,
+.	.	4A-	me	.	.
+.	.	2G,	dein,	2g	dein
+=16	=16	=16	=16	=16	=16
+*M3/2	*	*M3/2	*	*M3/2	*
+1.r	.	2c	dein	4g	Wort
+.	.	.	.	4f	bei
+.	.	4c	Wort	4b-	uns
+.	.	4B-	bei	4g	hilf
+.	.	8e-	uns	4e-	hal-
+.	.	8d	hilf	.	.
+.	.	[4c	hal-	4f	ten
+!!LO:LB:g=original
+=17	=17	=17	=17	=17	=17
+*M2/2	*	*M2/2	*	*M2/2	*
+1r	.	8c]	.	2g,	rein,
+.	.	8B-	ten	.	.
+.	.	4c,	rein	.	.
+.	.	8d	dass	2g	dass
+.	.	4e-	wir	.	.
+.	.	8f	auch	.	.
+=18	=18	=18	=18	=18	=18
+*M3/2	*	*M3/2	*	*M3/2	*
+1.r	.	4g	le-	4b-	wir
+.	.	4f	ben	4cc	auch
+.	.	([2e-	hei-	4ee-	le-
+.	.	.	.	4dd	ben
+.	.	8e-L]	.	4cc	hei-
+.	.	16d	.	.	.
+.	.	16cJ)	.	.	.
+.	.	4d	lig-	4b-	lig-
+=19	=19	=19	=19	=19	=19
+*M2/2	*	*M2/2	*	*M2/2	*
+1r	.	4e-,	lich,	2cc,	lich,
+.	.	4e-	nach	.	.
+.	.	4f	dei-	2cc	nach
+.	.	4e-	nem	.	.
+!!LO:LB:g=original
+=20	=20	=20	=20	=20	=20
+*M3/2	*	*M3/2	*	*M3/2	*
+1.r	.	2d	Na-	4dd	dei-
+.	.	.	.	4cc	nem
+.	.	8d,	men,	4b-	Na-
+.	.	8e-	nach	.	.
+.	.	8f	dei-	4a	men
+.	.	8e-	nem	.	.
+.	.	8d	Na-	4g	wuer-
+.	.	8c	men	.	.
+.	.	[4d	wuer-	4f	dig-
+=21	=21	=21	=21	=21	=21
+*M2/2	*	*M2/2	*	*M2/2	*
+1r	.	4d]	.	2g,	lich.
+.	.	4d	dig-	.	.
+.	.	2c,	lich.	2cc	Be-
+=22	=22	=22	=22	=22	=22
+*M3/2	*	*M3/2	*	*M3/2	*
+1.r	.	4g	Be-	4b-	huet
+.	.	2f	huet	4a	uns,
+.	.	.	.	4b-	Herr,
+.	.	4e-	uns,	4g	vor
+.	.	8f	Herr,	4g	fal-
+.	.	8e-	vor	.	.
+.	.	[4d	fal-	4f	scher
+!!LO:LB:g=original
+=23	=23	=23	=23	=23	=23
+*M2/2	*	*M2/2	*	*M2/2	*
+1r	.	4d]	.	2e-,	Lehr',
+.	.	4c	scher	.	.
+.	.	2B-,	Lehr',	2g	das
+=24	=24	=24	=24	=24	=24
+*M3/2	*	*M3/2	*	*M3/2	*
+1.r	.	4c	das	4.a-	arm',
+.	.	4.e-	arm',	.	.
+.	.	.	.	8g	ver-
+.	.	.	.	8e-	fueh-
+.	.	8d	ver-	8f	ret'
+.	.	8c	fueh-	2e-	Volk
+.	.	8B-	ret'	.	.
+.	.	4A-	Volk	.	.
+.	.	4B-	be-	4d	be-
+=25	=25	=25	=25	=25	=25
+1r	.	1c	kehr!	1c	kehr!
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 49/52
+!!!URL-github: https://github.com/LucasHofmann/distler/blob/main/Jahrkreis/Distler_Jahrkreis_49_Vaterunser.krn
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=88 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2023/11/10
+!!!title: @{OPR@@DE}, Op. @{OPS}, Nr. @{ONM}. <i>@{OTL@@DE}</i>

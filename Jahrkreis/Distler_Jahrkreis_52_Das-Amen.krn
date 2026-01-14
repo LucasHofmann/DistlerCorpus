@@ -1,0 +1,215 @@
+!!!!SEGMENT: Distler_Jahrkreis_52_Das-Amen_unkomplett.krn
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Das Amen
+!!!OTL@EN: Amen
+!!!OPS: 5
+!!!ONM: 52
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ialto	*	*Isoprn	*	*Isoprn	*
+*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*MM120	*	*MM120	*	*MM120	*
+=1	=1	=1	=1	=1	=1
+1r	.	2r	.	(1b	A-
+.	.	(2.b	A-	.	.
+1r	.	.	.	2cc	.
+.	.	4a	.	.	.
+.	.	2g	.	2dd	.
+1r	.	4e	.	8ccL	.
+.	.	.	.	8bJ	.
+.	.	2a	.	4.cc	.
+.	.	.	.	8dd	.
+.	.	4g	.	4ee	.
+(1d	A-	4a	.	1ff)	.
+.	.	4b	.	.	.
+.	.	2.cc	.	.	.
+2e	.	.	.	2ee	men,
+.	.	4.b	.	.	.
+2f	.	.	.	2r	.
+.	.	8a	.	.	.
+.	.	4g)	.	.	.
+8eL	.	2a	men,	(1b	A-
+8dJ	.	.	.	.	.
+4.e	.	.	.	.	.
+.	.	2r	.	.	.
+8f	.	.	.	.	.
+4g	.	.	.	.	.
+2a)	.	(1f	A-	2cc	.
+2a	men,	.	.	2dd	.
+1r	.	2g	.	8ccL	.
+.	.	.	.	8bJ	.
+.	.	.	.	4.cc	.
+.	.	2b-	.	.	.
+.	.	.	.	8dd	.
+.	.	.	.	4ee	.
+(1F	A-	8aL	.	1ff)	.
+.	.	8gJ	.	.	.
+.	.	4.a	.	.	.
+.	.	8b-X	.	.	.
+.	.	4cc	.	.	.
+!!LO:LB:g=original
+2G	.	2dd)	.	1ee	men,
+2A	.	4cc,	men,	.	.
+.	.	(2c	A-	.	.
+8GL	.	.	.	1r	.
+8FJ	.	.	.	.	.
+4.G	.	4d	.	.	.
+.	.	2f	.	.	.
+8A	.	.	.	.	.
+4B-	.	.	.	.	.
+2c	.	8eL	.	2r	.
+.	.	8dJ	.	.	.
+.	.	4.e	.	.	.
+8BnL	.	.	.	(1b	A-
+8AJ	.	8f	.	.	.
+4.B	.	4g	.	.	.
+.	.	2a	.	.	.
+8c	.	.	.	.	.
+4d	.	.	.	.	.
+2e	.	8gL	.	2cc	.
+.	.	8fJ	.	.	.
+.	.	4.g	.	.	.
+8dL	.	.	.	2dd	.
+8cJ	.	8a	.	.	.
+4.d	.	4bn	.	.	.
+.	.	2cc	.	8ccL	.
+8e	.	.	.	8bJ	.
+4f	.	.	.	4.cc	.
+*	*	*^		*	*	*
+2g	.	2.cc	2.cc	.	.	.
+.	.	.	.	.	8dd	.
+.	.	.	.	.	4ee	.
+8fL	.	.	.	.	1ff)	.
+8eJ	.	.	.	.	.	.
+4.f	.	8bL	8bL	.	.	.
+.	.	8aJ	8aJ	.	.	.
+.	.	2b)	2b	.	.	.
+8g	.	.	.	.	.	.
+4a)	.	.	.	.	.	.
+1e	men!	1b	(2a	men!_	1ee	men!
+.	.	.	2g#)	.	.	.
+*	*	*v	*v	*	*	*
+!!LO:LB:g=original
+=||2	=||2	=||2	=||2	=||2	=||2
+1A	A-	(2c	A-	(2e	A-
+.	.	2.d	.	2.g	.
+2A,	men,	.	.	.	.
+.	.	4c	.	4e	.
+1A	A-	4d	.	4g	.
+.	.	4e	.	4a	.
+.	.	4g	.	4cc	.
+.	.	4.e	.	4a	.
+2A,	men,	.	.	2g	.
+.	.	8d	.	.	.
+.	.	4c	.	.	.
+1A	A-	4d,	.	4a,	.
+.	.	4c	.	4e	.
+.	.	4d	.	4g	.
+.	.	4e	.	4a	.
+2A,	men,	2g,	.	4cc	.
+.	.	.	.	4.b	.
+1A	A-	4c	.	.	.
+.	.	.	.	8a	.
+.	.	4d	.	4b	.
+.	.	4e	.	4cc	.
+.	.	2g,	.	2dd	.
+2A,	men,	.	.	.	.
+.	.	4c	.	4.cc	.
+1A	A-	4d	.	.	.
+.	.	.	.	8b	.
+*	*	*^		*	*	*
+.	.	4e	4e	.	4a	.
+.	.	2g	4g	.	2b)	.
+.	.	.	4f#)	.	.	.
+2A	men!	2a	2e	men!	2a	men!
+*	*	*v	*v	*	*	*
+!!LO:LB:g=original
+=3||	=3||	=3||	=3||	=3||	=3||
+4r	.	4r	.	4a	A-
+4B	A-	4d	A-	4f#,	men,
+4A,	men,	4e,	men,	4a	A-
+4B	A-	4d	A-	4f#X,	men,
+4A,	men,	4e,	men,	4e	A-
+4B	A-	4d	A-	4f#X,	men,
+4A,	men,	4e,	men,	4a	A-
+4B	A-	4d	A-	4f#X,	men,
+4A,	men,	4e,	men,	4a	A-
+4B	A-	4d	A-	4f#X,	men,
+*	*	*	*	*^		*
+4A,	men,	4e,	men,	(4.a	(4.a	A-
+2B	A-	2d	A-	.	.	.
+.	.	.	.	8b	8b	.
+.	.	.	.	4cc#)	4f#X)	.
+2A,	men!	2e,	men!	4a,	4a	men!
+*	*	*	*	*v	*v	*
+.	.	.	.	(4.a	A-
+=-	=-	=-	=-	=-	=-
+1r	.	1r	.	.	.
+.	.	.	.	4b	.
+.	.	.	.	8aL	.
+.	.	.	.	8f#X	.
+.	.	.	.	8a	.
+.	.	.	.	8bJ	.
+.	.	.	.	4a	.
+1r	.	1r	.	.	.
+.	.	.	.	8f#XL	.
+.	.	.	.	8a	.
+.	.	.	.	8bJ	.
+.	.	.	.	4.ee	.
+.	.	.	.	4cc#X,	.
+!!LO:LB:g=original
+1r	.	1r	.	.	.
+.	.	.	.	8cc#L	.
+.	.	.	.	8ee	.
+.	.	.	.	8ff#	.
+.	.	.	.	8.ee	.
+.	.	.	.	16cc#X	.
+.	.	.	.	8bJ	.
+.	.	.	.	4cc#X)	.
+1r	.	1r	.	.	.
+.	.	.	.	8cc#,	men,
+.	.	.	.	2ee	A-
+.	.	.	.	4cc#X,	men,
+2r	.	2r	.	4ee	A-
+.	.	.	.	4cc#X	men,
+4r	.	4r	.	4ee	A-
+=-	=-	=-	=-	=-	=-
+4f#	A-	4a	A-	4cc#X,	men,
+4e,	men,	4b,	men,	4ee	A-
+4f#X	A-	4a	A-	4cc#X,	men,
+4e,	men,	4b,	men,	4b	A-
+4f#X	A-	4a	A-	4cc#X,	men,
+4e,	men,	4b,	men,	4ee	A-
+4f#X	A-	4a	A-	4cc#X,	men,
+4e,	men,	4b,	men,	4ee	A-
+4f#X	A-	4a	A-	4cc#X,	men,
+*	*	*	*	*^		*
+4e,	men,	4b,	men,	(4ee.	(4ee.	A-
+2f#X	A-	2a	A-	.	.	.
+.	.	.	.	8ff#	8ff#	.
+.	.	.	.	4gg#)	4cc#X)	.
+4e,	men,	4b,	men,	1ee	1ee	men!
+*	*	*	*	*v	*v	*
+*	*	*^		*	*	*
+2f#X	A-	2a	2a	A-	.	.
+4e	men!	4b	4g#	men!	.	.
+*	*	*v	*v	*	*	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!ONB@@DE: Die drei Amen können sowohl selbstständig, etwa zum Gottesdienstausgang, oder (transponiert) an andere Sätze angegliedert, gesungen werden; auch die Wiedergabe eines einzelnen der drei Teile, die nach ihrem Inhalt sehr verschiedenartig sind, wird sich gelegentlich als zweckmässig ergeben.
+!!!ONB@EN: The three Amens can be sung either independently, for example at the end of a church service, or (transposed) attached to other movements; occasionally it may also be appropriate to perform just one of the three parts, which are very different in content.
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 52/52
+!!!URL-github: https://github.com/LucasHofmann/distler/blob/main/Jahrkreis/Distler_Jahrkreis_52_Das-Amen.krn
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=93 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2023/10/13
+!!!title: @{OPR@@DE}, Op. @{OPS}, Nr. @{ONM}. <i>@{OTL@@DE}</i>

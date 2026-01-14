@@ -1,0 +1,199 @@
+!!!!SEGMENT: Distler_Jahrkreis_50_Herr-schicke-was-du-wilt.krn
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Herr, schicke, was du wilt
+!!!OTL@EN: Lord, send what you want
+!!!OPS: 5
+!!!ONM: 50
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ialto	*	*Isoprn	*	*Isoprn	*
+*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*MM120	*	*MM120	*	*MM120	*
+=1	=1	=1	=1	=1	=1
+1r	.	2a,	Herr,	1r	.
+.	.	(2a	schik-	.	.
+1r	.	4cc)	.	1r	.
+.	.	4a	ke,	.	.
+.	.	4g	was	.	.
+.	.	4d	du	.	.
+1r	.	4a,	wilt,	1r	.
+.	.	4a	ein	.	.
+.	.	(2dd	Lie-	.	.
+2.r	.	4.ee	.	2.r	.
+.	.	8ddL	.	.	.
+.	.	8cc	.	.	.
+.	.	8aJ	.	.	.
+2.r	.	2g)	.	2.r	.
+.	.	4a,	bes	.	.
+2r	.	8a	o-	2r	.
+.	.	8a	der	.	.
+.	.	4b	ein	.	.
+1r	.	(2g	Lei-	1r	.
+.	.	2e	.	.	.
+1r	.	4d	.	1r	.
+.	.	4c	.	.	.
+.	.	2e)	.	.	.
+1r	.	1b	des!	1r	.
+!!LO:LB:g=original
+=||2	=||2	=||2	=||2	=||2	=||2
+*M4/4	*	*M4/4	*	*M4/4	*
+4r	.	1r	.	1r	.
+4B	Ich	.	.	.	.
+4B	bin	.	.	.	.
+4d	ver-	.	.	.	.
+=3	=3	=3	=3	=3	=3
+(4A	gnuegt,_	4r	.	2r	.
+4B.),	.	4e	Ich	.	.
+.	.	4e	bin	4r	.
+8B	dass	.	.	.	.
+([4f#	bei-	4g	ver-	4b	Ich
+=4	=4	=4	=4	=4	=4
+4f#]	.	(4d	gnuegt,_	4b	bin
+4a	.	4.e	.	4dd	ver-
+2f#)	.	.	.	(4a	gnuegt,_
+.	.	8d	.	.	.
+.	.	4c	.	[4b	.
+=5	=5	=5	=5	=5	=5
+8e,	des,	8B),	.	8b]),	.
+*	*	*^		*	*	*
+8e	dass	8B	8B	dass	8b	dass
+2g	bei-	2e	2A	bei-	2cc	bei-
+4f#	des,	4B	4B	des,	4b	des,
+!!LO:LB:g=original
+=6	=6	=6	=6	=6	=6	=6
+4r	.	4r	4r	.	4r	.
+4e	dass	4B	4B	dass	4b	dass
+(4a	bei-	2e	2A	bei-	(4dd	bei-
+4g)	.	.	.	.	4cc)	.
+=7	=7	=7	=7	=7	=7	=7
+2f#,	des,	4B,	4B	des	4b,	des
+*	*	*v	*v	*	*	*
+.	.	4b	aus	4b	aus
+4f#	dass	4a	dei-	4cc#	dei-
+[4f#	bei-	4g	nen	4ee	nen
+=8	=8	=8	=8	=8	=8
+4f#]	.	(2b	Haen-	(4cc#	Haen-
+8f#	des	.	.	2dd	.
+8f#	aus	.	.	.	.
+4f#	dei-	4a	.	.	.
+4f#	nen	[4f#	.	[4b	.
+=9	=9	=9	=9	=9	=9
+4e	Haen-	4f#])	.	4b])	.
+4a	den	4d	den	4b	den
+2a	quillt.	4e,	quillt.	2cc#	quillt.
+.	.	[4a	Herr,_	.	.
+!!LO:LB:g=original
+=||10	=||10	=||10	=||10	=||10	=||10
+1r	.	2a],	.	1r	.
+.	.	(2a	schik-	.	.
+1r	.	4cc)	.	1r	.
+.	.	4a	ke,	.	.
+.	.	4g	was	.	.
+.	.	4d	du	.	.
+1r	.	4a,	wilt,	1r	.
+.	.	4a	ein	.	.
+.	.	(2dd	Lie-	.	.
+2.r	.	4.ee	.	2.r	.
+.	.	8ddL	.	.	.
+.	.	8cc	.	.	.
+.	.	8aJ	.	.	.
+2.r	.	2g)	.	2.r	.
+.	.	4a,	bes	.	.
+2r	.	8a	o-	2r	.
+.	.	8a	der	.	.
+.	.	4b	ein	.	.
+1r	.	(2g	Lei-	1r	.
+.	.	2e	.	.	.
+1r	.	4d	.	1r	.
+.	.	4c	.	.	.
+.	.	2e)	.	.	.
+1r	.	1b	des!	1r	.
+!!LO:LB:g=original
+=||11	=||11	=||11	=||11	=||11	=||11
+*M3/4	*	*M3/4	*	*M3/4	*
+4e	Wol-	4g	Wol-	4b	Wol-
+4e	lest	4f	lest	4b	lest
+4d	mit	4a	mit	4b	mit
+=12	=12	=12	=12	=12	=12
+4B	Freu-	4e	Freu-	4b	Freu-
+4B,	den	8e,	den	4b,	den
+.	.	8e	und	.	.
+4A	und	[4g	wol-	4b	und
+=13	=13	=13	=13	=13	=13
+4e	wol-	4g]	.	4b	wol-
+4e	lest	4f	lest	4b	lest
+4d	mit	4a	mit	4b	mit
+=14	=14	=14	=14	=14	=14
+4B	Lei-	4e	Lei-	4b	Lei-
+4B,	den	4e,	den	4b,	den
+4A	uns	4a	uns	4b	uns
+=15	=15	=15	=15	=15	=15
+4e	nicht	4g	nicht	4b	nicht
+4d	ue-	4g	üe-	4b	ue-
+4d	ber-	4g	ber-	4b	ber-
+!!LO:LB:g=original
+=16	=16	=16	=16	=16	=16
+*M4/4	*	*M4/4	*	*M4/4	*
+2c#	schuet-	2f#	schuet-	2cc#	schuet-
+2f#,	ten!	2g#,	ten!	2cc#,	ten!
+=17	=17	=17	=17	=17	=17
+2f#	Doch	2a	Doch	2cc#	Doch
+4f#	in	4a	in	4cc#	in
+4f#	der	4a	der	4cc#	der
+=18	=18	=18	=18	=18	=18
+4e	Mit-	4b	Mit-	4ee	Mit-
+2f#	ten	2b	ten	2cc#	ten
+4f#	liegt	4cc#	liegt	4cc#	liegt
+=19	=19	=19	=19	=19	=19
+2d	hol-	2a	hol-	2dd	hol-
+4e	des	4gn	des	4b	des
+4e	Be-	4a	Be-	4b	Be-
+=20	=20	=20	=20	=20	=20
+(2cn	schei-	(2g	schei-	(2ccn	schei-
+2d)	.	2f#)	.	2a)	.
+=21	=21	=21	=21	=21	=21
+1e	den.	1e	den.	1e	den.
+!!LO:LB:g=original
+=||22	=||22	=||22	=||22	=||22	=||22
+1r	.	2a,	Herr,	1r	.
+.	.	(2a	schik-	.	.
+1r	.	4cc)	.	1r	.
+.	.	4a	ke,	.	.
+.	.	4g	was	.	.
+.	.	4d	du	.	.
+1r	.	4a,	wilt,	1r	.
+.	.	4a	ein	.	.
+.	.	(2dd	Lie-	.	.
+2.r	.	4.ee	.	2.r	.
+.	.	8ddL	.	.	.
+.	.	8cc	.	.	.
+.	.	8aJ	.	.	.
+2.r	.	2g)	.	2.r	.
+.	.	4a,	bes	.	.
+2r	.	8a	o-	2r	.
+.	.	8a	der	.	.
+.	.	4b	ein	.	.
+1r	.	(2g	Lei-	1r	.
+.	.	2e	.	.	.
+1r	.	4d	.	1r	.
+.	.	4c	.	.	.
+.	.	2e)	.	.	.
+1r	.	1b	des!	1r	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 50/52
+!!!URL-github: https://github.com/LucasHofmann/distler/blob/main/Jahrkreis/Distler_Jahrkreis_50_Herr-schicke-was-du-wilt.krn
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=90 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-youtube: https://www.youtube.com/watch?v=d5iQc-kndPg Ensemble Nobiles
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2024/01/08
+!!!title: @{OPR@@DE}, Op. @{OPS}, Nr. @{ONM}. <i>@{OTL@@DE}</i>

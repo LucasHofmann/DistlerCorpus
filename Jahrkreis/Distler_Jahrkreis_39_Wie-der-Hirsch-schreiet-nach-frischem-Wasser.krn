@@ -1,0 +1,197 @@
+!!!!SEGMENT: Distler_Jahrkreis_39_Wie-der-Hirsch-schreiet-nach-frischem-Wasser.krn
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Wie der Hirsch schreiet nach frischem Wasser
+!!!OTL@EN: As the deer pants for the water
+!!!OPS: 5
+!!!ONM: 39
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ibass	*	*Ialto	*	*Isoprn	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*MM120	*	*MM120	*	*MM120	*
+*M4/4	*	*M4/4	*	*M4/4	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+=1	=1	=1	=1	=1	=1
+4r	.	4r	.	4r	.
+4.G	Wie	4.d	Wie	4.g	Wie
+8G	der	8d	der	8g	der
+4F	Hirsch	4d	Hirsch	4g	Hirsch
+=2	=2	=2	=2	=2	=2
+1G	schrei-	(2e-	schrei-	(2a-	schrei-
+.	.	[2f	.	[2cc	.
+=3	=3	=3	=3	=3	=3
+4G,	et,	4f]	.	4cc]	.
+4.G	wie	4g	.	4dd	.
+.	.	4f	.	4cc	.
+8G	der	.	.	.	.
+4F	Hirsch	4d	.	4g	.
+=4	=4	=4	=4	=4	=4
+1G	schrei-	4c	.	4f	.
+.	.	2d)	.	2g)	.
+.	.	4d,	et,	4g,	et,
+!!LO:LB:g=original
+=5	=5	=5	=5	=5	=5
+4G,	et,	8d	wie	8g	wie
+.	.	8d	der	8g	der
+4.G	wie	4c	Hirsch	4g	Hirsch
+.	.	2e-	schei-	2a-	schrei-
+8G	der	.	.	.	.
+4F	Hirsch	.	.	.	.
+=6	=6	=6	=6	=6	=6
+1G	schrei-	8d,	et	8g,	et
+.	.	8d	nach	8g	nach
+.	.	8d	fri-	8g	fri-
+.	.	8d	schem	8g	schem
+.	.	(4e-	Was-	2b-	Was-
+.	.	4f)	.	.	.
+=7	=7	=7	=7	=7	=7
+4.G,	et,	4d,	ser,	4g,	ser,
+.	.	4d	so	4g	so
+8G	so	.	.	.	.
+8G	schrei-	4d	schrei-	4g	schrei-
+8G,	et	.	.	.	.
+[4G	Gott,	4c,	et,	4g,	et,
+!!LO:LB:g=original
+=8	=8	=8	=8	=8	=8
+*M2/4	*	*M2/4	*	*M2/4	*
+4G],	.	4a-,	Gott,	4a-,	Gott,
+4F	mei-	8a-	mei-	8a-	mei-
+.	.	8a-	ne	8a-	ne
+=9	=9	=9	=9	=9	=9
+*M3/4	*	*M3/4	*	*M3/4	*
+4E-	ne	4g-	See-	4b-	See-
+2F	See-	4f,	le,	4b-,	le,
+.	.	8b-	mei-	8b-	mei-
+.	.	8b-	ne	8b-	ne
+=10	=10	=10	=10	=10	=10
+*M4/4	*	*M4/4	*	*M4/4	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+2F	le	4a-	See-	4cc	See-
+.	.	2gn	le	2cc	le
+2F	zu	.	.	.	.
+.	.	4cc	zu	4cc	zu
+=11	=11	=11	=11	=11	=11
+*M6/4	*	*M6/4	*	*M6/4	*
+1.G	dir!	1.bn	dir!	1.dd	dir!
+!!LO:LB:g=original
+=12||	=12	=12||	=12	=12||	=12
+*M2/4	*	*M2/4	*	*M2/4	*
+4G	Mei-	2r	.	2r	.
+4G	ne	.	.	.	.
+=13	=13	=13	=13	=13	=13
+*M4/4	*	*M4/4	*	*M4/4	*
+2A-	See-	2r	.	1r	.
+4A-	le	4c	Mei-	.	.
+[4G	duer-	4c	ne	.	.
+=14	=14	=14	=14	=14	=14
+8G]	.	2e-	See-	2r	.
+8G	stet	.	.	.	.
+4F	nach	.	.	.	.
+(4C	Gott,	4e-	le	4g	Mei-
+[4G	.	[4d	duer-	4g	ne
+=15	=15	=15	=15	=15	=15
+4G])	.	8d]	.	2b-	See-
+.	.	8d	stet	.	.
+4r	.	4c	nach	.	.
+2r	.	2g,	Gott,	4b-	le
+.	.	.	.	[4a	duer-
+!!LO:LB:g=original
+=16	=16	=16	=16	=16	=16
+4r	.	4.f	nach	8a]	.
+.	.	.	.	8a	stet
+4.D	nach	.	.	4g	nach
+.	.	8f	dem	.	.
+.	.	4f	le-	[2a	Gott,_
+8D	dem	.	.	.	.
+4D	le-	([4an	ben-	.	.
+=17	=17	=17	=17	=17	=17
+(2F	ben-	8aL]	.	4a],	.
+.	.	8b-J	.	.	.
+.	.	4.cc	.	4.a	nach
+4E	.	.	.	.	.
+.	.	8b-	.	8a	dem
+[4D	.	8aL	.	4a	le-
+.	.	8gJ	.	.	.
+=18	=18	=18	=18	=18	=18
+4D])	.	4f)	.	2b-	ben-
+4D	di-	4g	di-	.	.
+*	*	*^		*	*	*
+2C	gen	2e	2e	gen	4a	di-
+.	.	.	.	.	4g	gen
+!!LO:LB:g=original
+=19	=19	=19	=19	=19	=19	=19
+1D	Gott.	2.a,	2.d,	Gott.	2.f#,	Gott.
+*	*	*v	*v	*	*	*
+.	.	4b-	Wann	4dd	Wann
+=20	=20	=20	=20	=20	=20
+*M5/4	*	*M5/4	*	*M5/4	*
+1r	.	4.a	wer-	4.b-	wer-
+.	.	8a	de	8b-	de
+.	.	4g	ich	4b-	ich
+.	.	4f	da-	4a	da-
+4d	Wann	4e-	hin	4g	hin
+=21	=21	=21	=21	=21	=21
+4.B-	wer-	2g	kom-	2dd	kom-
+8B-	de	.	.	.	.
+4B-	ich	4d	men,	4dd	men,
+4A	da-	4r	.	4r	.
+4G	hin	4b-	wann	4dd	wann
+!!LO:LB:g=original
+=22	=22	=22	=22	=22	=22
+2F	kom-	4.a	wer-	4.b-	wer-
+.	.	8a	de	8b-	de
+4G	men,	4g	ich	4b-	ich
+4r	.	4f	da-	4a	da-
+4d	wann	4e-	hin	4g	hin
+=23	=23	=23	=23	=23	=23
+4.B-	wer-	2g	kom-	2dd	kom-
+8B-	de	.	.	.	.
+4B-	ich	4d	men,	4dd	men,
+4A	da-	2r	.	2r	.
+4G	hin	.	.	.	.
+=24	=24	=24	=24	=24	=24
+(2F	kom-	1r	.	1r	.
+4E-	.	.	.	.	.
+2G)	.	.	.	.	.
+.	.	4r	.	4r	.
+!!LO:LB:g=original
+=25	=25	=25	=25	=25	=25
+4G,	men,	4r	.	4r	.
+4G	dass	4g	dass	4g	dass
+4G	ich	4g	ich	4g	ich
+4G	Got-	4f	Got-	4g	Got-
+4G	tes	4d	tes	4g	tes
+=26	=26	=26	=26	=26	=26
+(2G	An-	(2.g	An-	(2b-	An-
+4.F	.	.	.	4cc	.
+.	.	4f	.	4b-	.
+8G	.	.	.	.	.
+4A-	.	4e-	.	4g	.
+=27	=27	=27	=27	=27	=27
+4B-	.	4d	.	4f	.
+2G)	.	2e-)	.	2g)	.
+4G	ge-	4e-	ge-	4g	ge-
+4B-	sicht	4d	sicht	4f	sicht
+=28	=28	=28	=28	=28	=28
+*	*	*^		*	*	*
+2.c	schau-	2.c	2.c	schau-	2.e-	schau-
+2G	e?	2g	2Bn	e?	2d	e?
+*	*	*v	*v	*	*	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 39/52
+!!!URL-github: https://github.com/LucasHofmann/distler/blob/main/Jahrkreis/Distler_Jahrkreis_39_Wie-der-Hirsch-schreiet-nach-frischem-Wasser.krn
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=75 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-youtube: https://www.youtube.com/watch?v=__BUVBzVmAo Ensemble Nobiles
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2024/01/08
+!!!title: @{OPR@@DE}, Op. @{OPS}, Nr. @{ONM}. <i>@{OTL@@DE}</i>

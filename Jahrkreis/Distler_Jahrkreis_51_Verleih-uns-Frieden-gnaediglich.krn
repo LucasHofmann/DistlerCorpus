@@ -1,0 +1,164 @@
+!!!!SEGMENT: Distler_Jahrkreis_51_Verleih-uns-Frieden-gnaediglich.krn
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Verleih uns Frieden gnaediglich
+!!!OTL@EN: Grant us peace graciously
+!!!OPS: 5
+!!!ONM: 51
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ibass	*	*Ialto	*	*Isoprn	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*MM120	*	*MM120	*	*MM120	*
+*M4/4	*	*M4/4	*	*M4/4	*
+4r	.	4e	Ver-	4a	Ver-
+=1	=1	=1	=1	=1	=1
+4r	.	2e	leih	2a	leih
+4A	Ver-	.	.	.	.
+2A	leih	4e,	uns,	4a,	uns,
+.	.	4e	ver-	4a	ver-
+=2	=2	=2	=2	=2	=2
+*M5/4	*	*M5/4	*	*M5/4	*
+4A,	uns,	2e	leih	2a	leih
+4A	ver-	.	.	.	.
+2A	leih	4e	uns	4a	uns
+.	.	4d	Frie-	4g	Frie-
+4A	uns	4e	den	4a	den
+=3	=3	=3	=3	=3	=3
+*M4/4	*	*M4/4	*	*M4/4	*
+4G	Frie-	(2g	gnae-	(2cc	gnae-
+4A	den	.	.	.	.
+([2c	gnae-	4e	.	4a	.
+.	.	4g	.	4cc	.
+=4	=4	=4	=4	=4	=4
+4c]	.	4a	.	4dd	.
+4.B	.	4b	.	4ee	.
+.	.	4a)	.	4dd)	.
+8A)	.	.	.	.	.
+4G	dig-	4g	dig.	4cc	dig-
+=5	=5	=5	=5	=5	=5
+1A	lich,	4e,	lich,	2a	lich,
+.	.	4e	Herr	.	.
+.	.	4f	Gott,	4r	.
+.	.	4e	zu	4cc	Herr
+!!LO:LB:g=original
+=6	=6	=6	=6	=6	=6
+4r	.	4a	un-	4dd	Gott,
+4E	Herr	4a	sern	4dd	zu
+4F	Gott,	(4.a	Zei-	4cc	un-
+4F	zu	.	.	4b	sern
+.	.	8gL	.	.	.
+=7	=7	=7	=7	=7	=7
+4E	un-	8a	.	(4.ee	Zei-
+.	sern	8bJ	.	.	.
+4F	.	4.cc	.	.	.
+.	.	.	.	8dd	.
+2A	Zei-	.	.	2cc)	.
+.	.	8b	.	.	.
+.	.	4a)	.	.	.
+=8	=8	=8	=8	=8	=8
+2E	ten!	4g#,	ten!	2b	ten!
+.	.	4a	Es	.	.
+4r	.	4a	ist	4r	.
+8r	.	4gn	ja	8r	.
+8c	Es	.	.	8ee	Es
+=9	=9	=9	=9	=9	=9
+8c	ist	4a	doch	4ee	ist
+8c	ja	.	.	.	.
+4c	doch	4f	kein	8dd	ja
+.	.	.	.	(4ee	doch
+4B	kein	4g	an-	.	.
+.	.	.	.	8dd)	.
+([4B	an-	4e	drer	4cc	kein
+=10	=10	=10	=10	=10	=10
+8BL]	.	4d,	nicht,	4dd	an-
+8AJ)	.	.	.	.	.
+4G	drer	4d	der	4b	drer
+2A	nicht,	4c	fuer	8a,	nicht,
+.	.	.	.	8a	der
+.	.	4d	uns	4g	fuer
+!!LO:LB:g=original
+=11	=11	=11	=11	=11	=11
+4r	.	4f	koenn-	4a	uns
+4A	der	4g	te	2cc	koenn-
+4G	fuer	(4e	strei-	.	.
+4A	uns	[4d	.	4dd	te
+=12	=12	=12	=12	=12	=12
+*M6/4	*	*M6/4	*	*M6/4	*
+4c	koenn-	8dL]	.	(4.a	strei-
+.	.	8eJ	.	.	.
+4d	te	4f)	.	.	.
+.	.	.	.	8g	.
+(4A	strei-	4e,	ten,	8.ccLL	.
+.	.	.	.	16ccJJ	.
+8B	.	(4.d	strei-	8b	.
+4c	.	.	.	4a	.
+16BLL	.	8e	.	16gLL	.
+16AJJ	.	.	.	16fJJ	.
+4B)	.	4f)	.	4g)	.
+=13	=13	=13	=13	=13	=13
+4A,	ten,	4e,	ten,	4a,	ten,
+2G	denn	2b	denn	2dd	denn
+2c,	du,	2g,	du,	2ee,	du,
+4A	du,	4cc	du,	4ee	du,
+=14	=14	=14	=14	=14	=14
+*M4/4	*	*M4/4	*	*M4/4	*
+4d	un-	(4.a	un-	4dd	un-
+4c	ser	.	.	4a	ser
+.	.	8g)	.	.	.
+4B	Gott,	4f	ser	4cc	Gott,
+4A	al-	4e	Gott,	4cc	al-
+!!LO:LB:g=original
+=15	=15	=15	=15	=15	=15
+*	*	*^		*	*	*
+2G	lein-	4e	4.e	al-	(4b	lei-
+.	.	4f	.	lei-	4cc)	.
+.	.	.	8d	.	.	.
+2A;	ne.	4e;,	2c;	ne.	4a;,	ne.
+.	.	4e	.	Ver-	4a	Ver-
+=16	=16	=16	=16	=16	=16	=16
+4r	.	2e	2.r	leih	2a	leih
+4A	Ver-	.	.	.	.	.
+2A	leih	4e,	.	uns,	4a,	uns,
+.	.	4e	4e	ver-	4a	ver-
+=17	=17	=17	=17	=17	=17	=17
+*M5/4	*	*M5/4	*M5/4	*	*M5/4	*
+4A,	uns,	2e	2e	leih	2a	leih
+*	*	*v	*v	*	*	*
+4A	ver-	.	.	.	.
+2A	leih	4e	uns	4a	uns
+.	.	4d	Frie-	4g	Frie-
+4A	uns	4e	den	4a	den
+=18	=18	=18	=18	=18	=18
+*M4/4	*	*M4/4	*	*M4/4	*
+*	*	*	*	*^		*
+4G	Frie-	(2g	gnae-	(2cc	(2cc	gnae-
+4A	den	.	.	.	.	.
+([2c	gnae-	4e	.	4a	4a	.
+.	.	4g	.	4cc	4cc	.
+=19	=19	=19	=19	=19	=19	=19
+4c]	.	4a	.	4dd	4dd	.
+4.B	.	4b	.	4ee)	4ee	.
+.	.	4a)	.	2dd	4dd)	dig-
+8A)	.	.	.	.	.	.
+4G	dig-	4g	dig	.	4b	.
+=20	=20	=20	=20	=20	=20	=20
+1A	lich.	1e	lich.	1cc# ee	1a	lich.
+*	*	*	*	*v	*v	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 51/52
+!!!URL-github: https://github.com/LucasHofmann/distler/blob/main/Jahrkreis/Distler_Jahrkreis_51_Verleih-uns-Frieden-gnaediglich.krn
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=92 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!URL-youtube: https://www.youtube.com/watch?v=uJYm69Ss-SY Ensemble Nobiles
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2023/11/10
+!!!title: @{OPR@@DE}, Op. @{OPS}, Nr. @{ONM}. <i>@{OTL@@DE}</i>

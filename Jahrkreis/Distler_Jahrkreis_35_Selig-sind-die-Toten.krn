@@ -1,0 +1,216 @@
+!!!!SEGMENT: Distler_Jahrkreis_35_Selig-sind-die-Toten_3v.krn
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Selig sind die Toten
+!!!OTL@EN: Blessed are the dead
+!!!OPS: 5
+!!!ONM: 35
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ibass	*	*Ialto	*	*Isoprn	*	*Isoprn	*
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*MM120	*	*MM120	*	*MM120	*	*MM120	*
+=1	=1	=1	=1	=1	=1	=1	=1
+1r	.	1r	.	1r	.	(2b-	Se-
+.	.	.	.	.	.	2.a-	.
+1r	.	1r	.	1r	.	.	.
+.	.	.	.	.	.	4f	.
+.	.	.	.	.	.	4a-X	.
+.	.	.	.	.	.	4b-X	.
+1r	.	1r	.	1r	.	4dd-X	.
+.	.	.	.	.	.	4b-X	.
+.	.	.	.	.	.	4a-X	.
+.	.	.	.	.	.	2.b-X)	.
+2r	.	2r	.	2r	.	.	.
+=-	=	=-	=	=-	=	=-	=
+2E-	Se-	2e-	Se-	2g-	Se-	1b-,	lig
+4E-	lig	4d-	lig	4g-	lig	.	.
+8E-	sind	8c	sind	8f	sind	.	.
+8E-	die	8B-	die	8e-	die	.	.
+2B-	To-	2c	To-	2f	To-	1r	.
+8B-,	ten,	8dn,	ten,	8f,	ten,	.	.
+8B-	die	8d	die	8f	die	.	.
+8B-	in	8d	in	8f	in	.	.
+8B-	dem	8d	dem	8f	dem	.	.
+2F	Her-	2c	Her-	2a-	Her-	2.r	.
+4F	ren	2f	ren	4a-	ren	.	.
+2B-X	ster-	.	.	2g-X	ster-	2r	.
+.	.	4e-X	ster-	.	.	.	.
+1B-	ben,	1f	ben,	1f	ben,	(2b-X	se-
+.	.	.	.	.	.	4cc	.
+.	.	.	.	.	.	2ee-	.
+4r	.	4r	.	4r	.	.	.
+2.r	.	2.r	.	2.r	.	4.ddn	.
+.	.	.	.	.	.	8cc	.
+.	.	.	.	.	.	4b-X	.
+2r	.	2r	.	2r	.	2cc)	.
+!!LO:LB:g=original
+=-	=	=-	=	=-	=	=-	=
+2G	se-	2d	se-	2d	se-	1dd,	lig,
+4G	lig	4c	lig	4d	lig	.	.
+8F	sind	8B-X	sind	8d	sind	.	.
+8G	die	8B-	die	8c	die	.	.
+4D	To-	4A	To-	2d	To-	1r	.
+4D,	ten,	8A,	ten,	.	.	.	.
+.	.	8A	die	.	.	.	.
+8D	die	4A	in	8d,	ten,	.	.
+4D	in	.	.	8d	die	.	.
+.	.	4B-X	dem	8d	in	.	.
+8D	dem	.	.	8d	dem	.	.
+2D	Her-	4c	Her-	2f	Her-	2.r	.
+.	.	4d	ren	.	.	.	.
+4C	ren	(4.e-X	ster-	4e-X	ren	.	.
+2E-X	ster-	.	.	2gn	ster-	(2.b-	se-
+.	.	8d	.	.	.	.	.
+.	.	4c)	.	.	.	.	.
+1G	ben,	1d	ben,	1d	ben,	.	.
+.	.	.	.	.	.	4g	.
+.	.	.	.	.	.	4b-X	.
+!!LO:LB:g=original
+.	.	.	.	.	.	4cc	.
+1r	.	1r	.	1r	.	2ee-X	.
+.	.	.	.	.	.	4.dd	.
+.	.	.	.	.	.	8ccL	.
+2.r	.	2.r	.	2.r	.	8b-X	.
+.	.	.	.	.	.	8a-XJ	.
+.	.	.	.	.	.	2b-X)	.
+=-	=	=-	=	=-	=	=-	=
+2c	se-	2g	se-	2cc	se-	1cc,	lig,
+4c	lig	4g	lig	4cc	lig	.	.
+8c	sind	8g	sind	8cc	sind	.	.
+8c	die	8g	die	8cc	die	.	.
+2B-X	To-	2a-	To-	2dd-	To-	2r	.
+8c,	ten,	8g,	ten,	8cc,	ten,	8r	.
+8c	die	8g	die	8cc	die	8cc	die
+8c	in	8g	in	8cc	in	8cc	in
+8B-X	dem	8g	dem	8cc	dem	8cc	dem
+(4.d-	Her-	2a-X	Her-	(2ff	Her-	(2ff	Her-
+8c	.	.	.	.	.	.	.
+4B-X)	.	4g	ren	4ee-)	.	4ee-X)	.
+4A-	ren	2f	ster-	4cc	ren	4cc	ren
+2B-X	ster-	.	.	2dd-X	ster-	2dd-	ster-
+.	.	4g,	ben,	.	.	.	.
+4F,	ben,	4an	von	4cc,	ben,	4cc,	ben,
+4F	von	4b-	nun	2b-	von	4b-X	von
+2F	nun	[2f	an._	.	.	2cc	nun
+.	.	.	.	4an	nun	.	.
+2.B-X	an.	2.f]	.	2.b-X	an.	2.b-X	an.
+!!LO:LB:g=original
+=||	==	=||	==	=||	==	=||	==
+4B-	Sie	4r	.	4r	.	4r	.
+=2	=2	=2	=2	=2	=2	=2	=2
+*M4/4	*	*M4/4	*	*M4/4	*	*	*
+2F	ru-	4r	.	4r	.	1r	.
+.	.	4B-	Sie	4f	Sie	.	.
+4B-,	hen,	(4.d	ru-	(4g	ru-	.	.
+4B-	sie	.	.	[4b-	.	.	.
+.	.	8e-L	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+2F	ru-	8f	.	4b-]	.	1r	.
+.	.	8gJ	.	.	.	.	.
+.	.	4.f	.	4.a	.	.	.
+4B-,	hen,	.	.	.	.	.	.
+.	.	8e-	.	8g	.	.	.
+4B-	sie	4d	.	4f	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+2F	ru-	4c	.	4.g	.	1r	.
+.	.	4.d	.	.	.	.	.
+.	.	.	.	8fL	.	.	.
+4B-	hen	.	.	8g	.	.	.
+.	.	8e-L	.	8aJ	.	.	.
+4B-	von	8f	.	4b-)	.	.	.
+.	.	8gJ)	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
+4F	ih-	8f	hen	8b-	hen	1.r	.
+.	.	8f	von	8b-	von	.	.
+4G	rer	8f	ih-	8b-	ih-	.	.
+.	.	8f	rer	8b-	rer	.	.
+2A-	Ar-	2e-	Ar-	2cc	Ar-	.	.
+2B-	beit.	2f	beit.	2dd	beit.	.	.
+!!LO:LB:g=original
+=6||	=6	=6||	=6	=6||	=6	=6	=6
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+2.r	.	2.r	.	4dd	Und	2.r	.
+.	.	.	.	4dd	ih-	.	.
+.	.	.	.	4dd	re	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+2.r	.	4g	Und	4ee-	Wer-	2.r	.
+.	.	4g	ih-	4dd	ke	.	.
+.	.	4g	re	[4cc	fol-	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+4c	Und	4a-	Wer-	8cc]	.	2.r	.
+.	.	.	.	8b-	gen	.	.
+4c	ih-	4g	ke	4cc	ih-	.	.
+4c	re	[4f	fol-	4cc	nen	.	.
+!!LO:LB:g=original
+=9	=9	=9	=9	=9	=9	=9	=9
+4d-	Wer-	8f]	.	2.b-,	nach,	2.r	.
+.	.	8f	gen	.	.	.	.
+4c	ke	4e-	ih-	.	.	.	.
+[4B-	fol-	4g	nen	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+8B-]	.	2.f,	nach,	4ddn	und	2.r	.
+8B-	gen	.	.	.	.	.	.
+4B-	ih-	.	.	4dd	ih-	.	.
+4A-	nen	.	.	4dd	re	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+2c	nach,	4g	und	4ee-	Wer-	2.r	.
+.	.	4g	ih-	4dd	ke	.	.
+4r	.	4g	re	[4cc	fol-	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+4c	und	4a-	Wer-	8cc]	.	2.r	.
+.	.	.	.	8b-	gen	.	.
+4c	ih-	4g	ke	4cc	ih-	.	.
+4c	re	[4f	fol-	4cc	nen	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+4d-	Wer-	8f]	.	2.b-,	nach,	2.r	.
+.	.	8f	gen	.	.	.	.
+4c	ke	4e-	ih-	.	.	.	.
+[4B-	fol-	4g	nen	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+8B-]	.	2.f,	nach,	4ddn	und	2.r	.
+8B-	gen	.	.	.	.	.	.
+4B-	ih-	.	.	4dd	ih-	.	.
+4A-	nen	.	.	4dd	re	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+2c	nach,	4g	und	2ee-	Wer-	2.r	.
+.	.	4g	ih-	.	.	.	.
+4r	.	4g	re	[4dd	ke_	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+2.r	.	(4.b-	Wer-	4dd]	.	2.r	.
+.	.	.	.	4cc	fol-	.	.
+.	.	8a-L	.	.	.	.	.
+.	.	8g	.	4b-	gen	.	.
+.	.	8fJ	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+(4.c	fol-	2e-)	.	4cc	ih-	2.r	.
+.	.	.	.	2cc	nen	.	.
+8B-L	.	.	.	.	.	.	.
+8A-	.	4e-	ke	.	.	.	.
+8GJ	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+4F)	.	4.f	fol-	[2.dd	nach._	2.r	.
+4E-	gen	.	.	.	.	.	.
+.	.	8g	gen	.	.	.	.
+[4F	ih-	[4an	ih-	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+4F]	.	4a]	.	2.dd]	.	2.r	.
+4F	nen	4a	nen	.	.	.	.
+4G	nach.	4bn	nach.	.	.	.	.
+=||	=	=||	=	=||	=	=||	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 35/52
+!!!URL-github: https://github.com/LucasHofmann/distler/blob/main/Jahrkreis/Distler_Jahrkreis_35_Selig-sind-die-Toten.krn
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=67 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2024/01/08
+!!!title: @{OPR@@DE}, Op. @{OPS}, Nr. @{ONM}. <i>@{OTL@@DE}</i>

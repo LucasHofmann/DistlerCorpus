@@ -1,0 +1,113 @@
+!!!!SEGMENT: Distler_Jahrkreis_17_Erschienen-ist-der-herrlich-Tag.krn
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Erschienen ist der herrlich' Tag
+!!!OTL@EN: Appeared is the splendid day
+!!!OPS: 5
+!!!ONM: 17
+!!!RNB: Instrumental rittornello after work not encoded.
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ialto	*	*Isoprn	*	*Isoprn	*
+*clefG2	*	*clefG2	*	*clefG2	*
+*k[f# c#]	*	*k[f# c#]	*	*k[f# c#]	*
+*MM120	*	*MM120	*	*MM120	*
+*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1
+4A	Er-	2.r	.	2.r	.
+4A	schie-	.	.	.	.
+4A	nen	.	.	.	.
+=2	=2	=2	=2	=2	=2
+2e	ist	2.r	.	4e	Er-
+.	.	.	.	4e	schie-
+4f#	der	.	.	4e	nen
+=3	=3	=3	=3	=3	=3
+(4.g	herr-	4B	Er-	2b	ist
+.	.	4B	schie-	.	.
+8f#)	.	.	.	.	.
+4e	lich'	4B	nen	4cc#	der
+=4	=4	=4	=4	=4	=4
+2d,	Tag,	8f#	ist	(4.dd	herr-
+.	.	8g#	der	.	.
+.	.	(4.a	herr-	.	.
+.	.	.	.	8cc#)	.
+4e	d'ran	.	.	4b	lich'
+.	.	8g#)	.	.	.
+!!LO:LB:g=original
+=5	=5	=5	=5	=5	=5
+2f#	sich	4f#	lich'	2a,	Tag,
+.	.	2e,	Tag,	.	.
+4g#	nie-	.	.	[4b	d'ran
+=6	=6	=6	=6	=6	=6
+2a	mand	4f#	d'ran	4b]	.
+.	.	4g#	sich	4cc#	sich
+4e	g'nug	4a	nie-	4dd	nie-
+=7	=7	=7	=7	=7	=7
+4gn	freu-	(4.b	mand	2ee	mand
+4f#	en	.	.	.	.
+.	.	8a)	.	.	.
+4e	mag:	4g#	g'nug	4b	g'nug
+=8	=8	=8	=8	=8	=8
+2.r	.	4f#	freu-	(4dd	freu-
+.	.	2d	en	4b)	.
+.	.	.	.	4cc#	en
+=9	=9	=9	=9	=9	=9
+4e	Christ,	2.e,	mag:	2b,	mag:
+4g	un-	.	.	.	.
+4e	ser	.	.	4b	Christ,
+!!LO:LB:g=original
+=10	=10	=10	=10	=10	=10
+4d	Herr,	4f#	Christ,	2dd	un-
+2d	heut	4a	un-	.	.
+.	.	4f#	ser	4b	ser
+=11	=11	=11	=11	=11	=11
+(4.c	tri-	4e	Herr,	2a	Herr,
+.	.	4d	heut	.	.
+8B)	.	.	.	.	.
+4A	um-	[4d	tri-	4f#	heut
+=12	=12	=12	=12	=12	=12
+2G,	phiert,	4d]	.	(4.g	tri-
+.	.	2c#	um-	.	.
+.	.	.	.	8f#)	.
+4A	all'	.	.	4e	um-
+=13	=13	=13	=13	=13	=13
+2d	sein'	2d	phiert,	2d	phiert,
+4e	Feind'	4r	.	4r	.
+=14	=14	=14	=14	=14	=14
+2f#	er	2.r	.	4d	all'
+.	.	.	.	4g	sein'
+4e	ge-	.	.	4a	Feind'
+!!LO:LB:g=original
+=15	=15	=15	=15	=15	=15
+2d	fan-	4d	all'	2b	er
+.	.	4g	sein'	.	.
+4a	gen	4a	Feind'	4a	ge-
+=16	=16	=16	=16	=16	=16
+[2.e	fuehrt,_	2b	er	2g	fan-
+.	.	4a	ge-	4dd	gen
+=17	=17	=17	=17	=17	=17
+2.e_	.	2g	fan-	2b,	fuehrt,
+.	.	4dd	gen	4a	Hal-
+=18	=18	=18	=18	=18	=18
+2e],	.	2b,	fuehrt,	(4g	le-
+.	.	.	.	4a)	.
+8f#	Hal-	8b	Hal-	4f#	lu-
+8f#	le-	8a	le-	.	.
+=19	=19	=19	=19	=19	=19
+4g#	lu-	4b	lu-	2.e	ja!
+2g#	ja!	2b	ja!	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 17/52
+!!!URL-github: https://github.com/LucasHofmann/distler/blob/main/Jahrkreis/Distler_Jahrkreis_17_Erschienen-ist-der-herrlich-Tag.krn
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=34 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2023/10/18
+!!!title: @{OPR@@DE}, Op. @{OPS}, Nr. @{ONM}. <i>@{OTL@@DE}</i>

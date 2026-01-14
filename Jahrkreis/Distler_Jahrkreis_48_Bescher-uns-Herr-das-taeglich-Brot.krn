@@ -1,0 +1,121 @@
+!!!!SEGMENT: Distler_Jahrkreis_48_Bescher-uns-Herr-das-taeglich-Brot.krn
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Bescher uns, Herr, das taeglich Brot
+!!!OTL@EN: Lord, give to us our daily bread
+!!!OPS: 5
+!!!ONM: 48
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ialto	*	*Isoprn	*	*Isoprn	*
+*clefG2	*	*clefG2	*	*clefG2	*
+*k[f# c# g#]	*	*k[f# c# g#]	*	*k[f# c# g#]	*
+*MM120	*	*MM120	*	*MM120	*
+*M4/4	*	*M4/4	*	*M4/4	*
+4A	Be-	4r	.	4r	.
+=1	=1	=1	=1	=1	=1
+4A	scher	4r	.	2r	.
+4B	uns,	4e	Be-	.	.
+4c#	Herr,	4e	scher	4r	.
+4B	das	4e	uns,	4a	Be-
+=2	=2	=2	=2	=2	=2
+(4d	taeg-	4.f#	Herr,	4a	scher
+4.c#	.	.	.	4b	uns,
+.	.	8a	das	.	.
+.	.	4gn	taeg-	2cc#	Herr,
+8B	.	.	.	.	.
+4A	.	4g	lich	.	.
+=3	=3	=3	=3	=3	=3
+4B)	.	2f#	Brot;	4b	das
+4B	lich'	.	.	(4.dd	taeg-
+2F#	Brot;	4r	.	.	.
+.	.	.	.	8cc#	.
+.	.	4f#	vor	4a	.
+=4	=4	=4	=4	=4	=4
+4r	.	4gn	Teu-	4b)	.
+4B	vor	4f#	rung	4b	lich'
+4cn	Teu-	4e	und	2a	Brot;
+4B	rung	4d	vor	.	.
+!!LO:LB:g=original
+=5	=5	=5	=5	=5	=5
+8A	und	(4.d	Hun-	4r	.
+8Gn	vor	.	.	.	.
+4.F#	Hun-	.	.	4cc#X	vor
+.	.	8e	.	.	.
+.	.	4f#)	.	4dd	Teu-
+8G	gers-	.	.	.	.
+[4A	not_	4a	gers-	4cc#	rung
+=6	=6	=6	=6	=6	=6
+4A],	.	2e	not	8b	und
+.	.	.	.	8a	vor
+4e	be-	.	.	2g#X	Hun-
+4d	huet	4r	.	.	.
+4c#X	uns	4a	be-	4a	gers-
+=7	=7	=7	=7	=7	=7
+2B	durch	4gn	huet	2b	not
+.	.	4f#	uns	.	.
+4d	dein'	4f#	durch	4r	.
+([4c#	lie-	4e	dein'	4ee	be-
+=8	=8	=8	=8	=8	=8
+8c#L]	.	(4.f#	lie-	4dd	huet
+8BJ)	.	.	.	.	.
+4A	ben	.	.	4cc#	uns
+.	.	8e	.	.	.
+2B	Sohn,	4d	.	2b	durch
+.	.	[4e	.	.	.
+=9	=9	=9	=9	=9	=9
+4r	.	4e])	.	4g#	dein'
+4c#	Gott	4c#	ben	2a	lie-
+4d	Va-	4f#,	Sohn,	.	.
+4c#	ter	4f#	Gott	4f#	ben
+!!LO:LB:g=original
+=10	=10	=10	=10	=10	=10
+*M6/4	*	*M6/4	*	*M6/4	*
+4B	in	4gn	Va-	4e,	Sohn,
+4A	dem	2f#,	ter,	4cc#	Gott
+2d	hoech-	.	.	4dd	Va-
+.	.	4f#	Gott	4cc#	ter
+2d	sten	4gn	Va-	4b	in
+.	.	[4f#	ter,_	4a	dem
+=11	=11	=11	=11	=11	=11
+*^		*	*	*	*	*
+[1.a	[1.A	Thron._	4f#],	.	(4.cc#	hoech-
+.	.	.	4f#	Gott	.	.
+.	.	.	.	.	8ddL	.
+.	.	.	4gn	Va-	8ee	.
+.	.	.	.	.	8cc#J	.
+.	.	.	4f#	ter	4ff#	.
+.	.	.	4a	in	4.ee	.
+.	.	.	4b	dem	.	.
+.	.	.	.	.	8dd	.
+=12	=12	=12	=12	=12	=12	=12
+*M4/4	*M4/4	*	*M4/4	*	*M4/4	*
+1a_	1A_	.	(8f#L	hoech-	4cc#	.
+.	.	.	8g#XJ	.	.	.
+.	.	.	4.a	.	4dd)	.
+.	.	.	.	.	2b	sten
+.	.	.	16g#LL	.	.	.
+.	.	.	16f#JJ)	.	.	.
+.	.	.	4g#	sten	.	.
+=13	=13	=13	=13	=13	=13	=13
+1a]	1A]	.	(8aL	Thron._	(4.a	Thron._
+.	.	.	8bJ	.	.	.
+.	.	.	2.cc#)	.	.	.
+.	.	.	.	.	8f#	.
+.	.	.	.	.	2a)	.
+*v	*v	*	*	*	*	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 48/52
+!!!URL-github: https://github.com/LucasHofmann/distler/blob/main/Jahrkreis/Distler_Jahrkreis_48_Bescher-uns-Herr-das-taeglich-Brot.krn
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=87 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2023/11/03
+!!!title: @{OPR@@DE}, Op. @{OPS}, Nr. @{ONM}. <i>@{OTL@@DE}</i>

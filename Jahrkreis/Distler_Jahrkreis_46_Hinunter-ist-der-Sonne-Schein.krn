@@ -1,0 +1,184 @@
+!!!!SEGMENT: Distler_Jahrkreis_46_Hinunter-ist-der-Sonne-Schein_3v.krn
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Hinunter ist der Sonne Schein
+!!!OTL@EN: Now has the blessed sun gone down
+!!!OPS: 5
+!!!ONM: 46
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ialto	*	*Isoprn	*	*Isoprn	*
+*clefG2	*	*clefG2	*	*clefG2	*
+*k[f# c#]	*	*k[f# c#]	*	*k[f# c#]	*
+*MM120	*	*MM120	*	*MM120	*
+*M3/2	*	*M3/2	*	*M3/2	*
+2r	.	4g	Hin-	2b	Hin-
+.	.	[4e	un-	.	.
+=1	=1	=1	=1	=1	=1
+2r	.	4e]	.	4b	un-
+.	.	4d	ter	4e	ter
+2e	Hin-	2cn	ist	(4.g	ist_
+.	.	.	.	8a	.
+4e	un-	4d	der	4b)	.
+4A	ter	[4e	Son-	4a	der
+=2	=2	=2	=2	=2	=2
+*M2/2	*	*M2/2	*	*M2/2	*
+(4.c	ist_	4e]	.	2g	Son-
+.	.	4e	ne	.	.
+8d	.	.	.	.	.
+4e)	.	2B,	Schein,	2f#	ne
+4d	der	.	.	.	.
+=3	=3	=3	=3	=3	=3
+4cn	Son-	4f#	die	4e,	Schein,
+4c	ne	(4.f#	fin-	4b	die
+2B	Schein,	.	.	4.g	fin-
+.	.	8e)	.	.	.
+.	.	4d	stre	.	.
+.	.	.	.	8e	stre
+=4	=4	=4	=4	=4	=4
+4r	.	(2e	Nacht_	(8gL	Nacht_
+.	.	.	.	8a	.
+4f#	die	.	.	8b	.
+.	.	.	.	8cc#	.
+4d	fin-	4f#)	.	8ddJ)	.
+.	.	.	.	8dd	bricht
+4B	stre	4g#	bricht	([4ee	stark_
+=5	=5	=5	=5	=5	=5
+(8eL	Nacht	(4.a	stark_	4ee]	.
+8f#J)	.	.	.	.	.
+(8g#L	bricht	.	.	8dd#L	.
+8aJ)	.	8g#)	.	8cc#J)	.
+4b	stark	2f#	her-	2dd#	her-
+4b	her-	.	.	.	.
+!!LO:LB:g=original
+=6	=6	=6	=6	=6	=6
+*M3/2	*	*M3/2	*	*M3/2	*
+4e,	ein.	4g#,	ein.	4ee,	ein.
+2b	Leucht	2g#	Leucht	2ee	Leucht
+4B	uns,	4f#	uns,	4dd#	uns,
+4B	Herr	2g#	Herr	2ee	Herr
+[4e	Christ,_	.	.	.	.
+=7	=7	=7	=7	=7	=7
+*	*	*	*	*^		*
+4e],	.	4f#,	Christ,	4b	4b	Christ,
+4cn	du	4e	du	4ee	4ccn	du
+2d	wah-	2gn	wah-	2ddn	2b	wah-
+*^		*	*	*	*	*	*
+2e	2e	res	2a	res	2ccn	2a	res
+=8	=8	=8	=8	=8	=8	=8	=8
+*M2/2	*M2/2	*	*M2/2	*	*M2/2	*M2/2	*
+2d#	2B	Licht,	4f#,	Licht,	1b	1b	Licht,
+.	.	.	4f#	lass	.	.	.
+4r	4r	.	4e	uns	.	.	.
+4c#	4c#X	lass	4c#	im	.	.	.
+*v	*v	*	*	*	*	*	*
+=9	=9	=9	=9	=9	=9	=9
+4B	uns	2d	Fin-	4r	4r	.
+4G	im	.	.	4b	4b	lass
+*	*	*	*	*v	*v	*
+(8AL	Fin-	2c#	stern	4a	uns
+8B	.	.	.	.	.
+8c#	.	.	.	4f#	im
+8dJ	.	.	.	.	.
+=10	=10	=10	=10	=10	=10
+2e)	.	2B	tap-	(4g	Fin-
+.	.	.	.	8f#L	.
+.	.	.	.	8eJ)	.
+4f#	stern	2B	pen	4d#	stern
+[4g#	tap-	.	.	[4e	tap-
+=11	=11	=11	=11	=11	=11
+*M3/2	*	*M3/2	*	*M3/2	*
+4g#]	.	1e	nicht.	4e]	.
+4b	pen	.	.	4f#	pen
+2b	nicht.	.	.	2g#	nicht.
+!!LO:LB:g=original
+=||12	=||12	=||12	=||12	=||12	=||12
+*M3/2	*	*M3/2	*	*M3/2	*
+2r	.	2e	Wo-	2r	.
+=13	=13	=13	=13	=13	=13
+1.r	.	4e	mit	4r	.
+.	.	4A	wir	4a	Wo-
+.	.	(4.c	ha-	2a	mit
+.	.	8dL	.	.	.
+.	.	8eJ)	.	4e	wir
+.	.	8e	ben	.	.
+.	.	4d	er-	[4g	ha-
+=14	=14	=14	=14	=14	=14
+*M2/2	*	*M2/2	*	*M2/2	*
+1r	.	(4c	zuer-	8g]	.
+.	.	.	.	8a	ben
+.	.	8BL	.	4b	er-
+.	.	8AJ	.	.	.
+.	.	4B)	.	(4g	zuer-
+.	.	4B	net	[4f#	.
+=15	=15	=15	=15	=15	=15
+*M3/2	*	*M3/2	*	*M3/2	*
+1.r	.	2A,	dich,	8f#L]	.
+.	.	.	.	8eJ)	.
+.	.	.	.	4d	net
+.	.	2e	das-	2e	dich
+.	.	4c	selb'	2r	.
+.	.	4A	ver-	.	.
+=16	=16	=16	=16	=16	=16
+1.r	.	(8cL	zeih_	4r	.
+.	.	8d	.	.	.
+.	.	8e	.	4b	das-
+.	.	8f#J	.	.	.
+.	.	4g)	.	4g	selb'
+.	.	4a	uns	4e	ver-
+.	.	(4a	gnae-	(8gL	zeih_
+.	.	.	.	8a	.
+.	.	[4f#	.	8b	.
+.	.	.	.	8cc#J)	.
+!!LO:LB:g=original
+=17	=17	=17	=17	=17	=17
+*M2/2	*	*M2/2	*	*M2/2	*
+1r	.	4f#]	.	4dd	uns
+.	.	4g#	dig-	2ee	gnae-
+.	.	4a,	lich	.	.
+.	.	4b	und	4dd#	dig-
+=18	=18	=18	=18	=18	=18
+1r	.	8g#	re-	4ee,	lich
+.	.	8g#	chen	.	.
+.	.	4a	es	4ee	und
+.	.	4e	uns-	8cc#	re-
+.	.	.	.	8cc#	chen
+.	.	4gn	rer	4ddn	es
+=19	=19	=19	=19	=19	=19
+*M3/2	*	*M3/2	*	*M3/2	*
+1.r	.	4f#	Seel'	4b	uns-
+.	.	4f#	nicht	4a	rer
+.	.	2e,	zu;	4cc	Seel'
+.	.	.	.	4cc	nicht
+.	.	(2e	lass_	2b,	zu;
+=20	=20	=20	=20	=20	=20
+1.r	.	4d)	.	2b	lass
+.	.	4B	uns	.	.
+.	.	(4c	schla-	4a	uns
+.	.	8BL	.	4f#	schla-
+.	.	8AJ)	.	.	.
+.	.	4G	fen	4g	fen
+.	.	4A	in	(8f#L	in_
+.	.	.	.	8eJ)	.
+=21	=21	=21	=21	=21	=21
+1.r	.	4B	Fried'	4d	Fried'
+*	*	*^		*	*	*
+.	.	4B	4B	und	4c	und
+.	.	1B	(2A	Ruh'._	1e	Ruh'.
+.	.	.	2G#)	.	.	.
+*	*	*v	*v	*	*	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 46/52
+!!!URL-github: https://github.com/LucasHofmann/distler/blob/main/Jahrkreis/Distler_Jahrkreis_46_Hinunter-ist-der-Sonne-Schein.krn
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=85 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2023/11/10
+!!!title: @{OPR@@DE}, Op. @{OPS}, Nr. @{ONM}. <i>@{OTL@@DE}</i>

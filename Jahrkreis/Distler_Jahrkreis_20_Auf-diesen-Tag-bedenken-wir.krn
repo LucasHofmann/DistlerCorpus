@@ -1,0 +1,130 @@
+!!!!SEGMENT: Distler_Jahrkreis_20_Auf-diesen-Tag-bedenken-wir.krn
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Auf diesen Tag bedenken wir
+!!!OTL@EN: We all remember well today
+!!!OPS: 5
+!!!ONM: 20
+**kern	**text	**text	**kern	**text	**text	**kern	**text	**text
+*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
+*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1
+*Ibass	*	*	*Ialto	*	*	*Isoprn	*	*
+*clefF4	*	*	*clefG2	*	*	*clefG2	*	*
+*k[b-]	*	*	*k[b-]	*	*	*k[b-]	*	*
+*MM120	*	*	*MM120	*	*	*MM120	*	*
+*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
+*met(C)	*	*	*met(C)	*	*	*met(C)	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+4r	.	.	4r	.	.	2f	Auf	und
+4B-	Auf	und	4d	Auf	und	.	.	.
+4B-	die-	dan-	4d	die-	dan-	4f	die-	dan-
+4A	sen	ken	4c	sen	ken	4f	sen	ken
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+8G	Tag	Gott	8d	Tag	Gott	4b-	Tag	Gott
+8G	be-	aus	8e	be-	aus	.	.	.
+2F	den-	hoech-	2f	den-	hoech-	4a	be-	aus
+.	.	.	.	.	.	4cc	den-	hoech-
+4D	ken	ster	4f	ken	ster	4dd	ken	ster
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+4A,	wir,	Bgier	4e,	wir,	Bgier	2cc,	wir,	Bgier
+4A	dass	mit	(4.a	dass_	mit_	.	.	.
+(4F	Christ_	Bitt,_	.	.	.	2cc	dass	mit
+.	.	.	8g	.	.	.	.	.
+8EL	.	.	4f)	.	.	.	.	.
+8DJ)	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+4C	gen	er	4g	Christ	Bitt,	4cc	Christ	Bitt,
+2G	Him-	woll	(8b-L	gen	er_	4dd	gen	er
+.	.	.	8aJ)	.	.	.	.	.
+.	.	.	2g	Him-	woll	(8b-L	Him-	woll
+.	.	.	.	.	.	8aJ)	.	.
+4G	mel	be-	.	.	.	4g	mel	be-
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+(4D	gfah-	wah-	4f	mel	be-	(4a	gfah-	wah-
+4E-)	.	.	(8e-L	gfah-	wah-	4g)	.	.
+.	.	.	8dJ)	.	.	.	.	.
+2F	ren,	ren	2c	ren,	ren	2f	ren,	ren
+!!LO:LB:g=original
+=6:|!	=6	=6	=6:|!	=6	=6	=6:|!	=6	=6
+4r	.	.	4c	uns	.	4g	uns	.
+4c	uns	.	4c	ar-	.	(4.e-	ar-	.
+4B-	ar-	.	4c	me	.	.	.	.
+.	.	.	.	.	.	8f)	.	.
+4A	me	.	[4d	Suen-	.	(8gL	me	.
+.	.	.	.	.	.	8aJ)	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+(4.G	Suen-	.	4d]	.	.	4b-	Suen-	.
+.	.	.	4e-	der	.	4cc	der	.
+16FLL	.	.	.	.	.	.	.	.
+16E-JJ)	.	.	.	.	.	.	.	.
+4D	der	.	4f	hier	.	4dd	hier	.
+8E-	hier	.	4g	auf	.	4dd	auf	.
+8E-	auf	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+4F,	Erd,	.	2a,	Erd,	.	2cc,	Erd,	.
+4F	die	.	.	.	.	.	.	.
+4E-	wir	.	4g	die	.	2cc	die	.
+4F	von	.	[4g	wir_	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+4G	we-	.	4g]	.	.	4b-	wir	.
+4A	gen	.	4f	von	.	4cc	von	.
+4.B-	man-	.	4d	we-	.	4.dd	we-	.
+.	.	.	4f	gen	.	.	.	.
+8A	cher	.	.	.	.	8cc	gen	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+2G,	Gfaehrd	.	4g	man-	.	4ee-	man-	.
+.	.	.	4f	cher	.	4dd	cher	.
+2A	ohn	.	2en,	Gfaehrd	.	2cc,	Gfaehrd	.
+!!LO:LB:g=original
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+2.B-	ihn	.	4d	ohn	.	2f	ohn	.
+.	.	.	2d	ihn	.	.	.	.
+.	.	.	.	.	.	4g	ihn	.
+4B-	kein	.	4d	kein	.	4f	kein	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+4c	Hoff-	.	4c	Hoff-	.	4e-	Hoff-	.
+4B-	nung	.	4c	nung	.	4d	nung	.
+*	*	*	*^		*	*	*	*	*
+2A-	ha-	.	2c	2c	.	ha-	(4e-	ha-	.
+.	.	.	.	.	.	.	4f)	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2G	ben.	.	2d,	2B	ben.	.	2g,	ben.	.
+2r	.	.	2c	2c	Hal-	.	2cc	Hal-	.
+*	*	*	*v	*v	*	*	*	*	*
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+1r	.	.	4d	le-	.	(4b-	le-	.
+.	.	.	(2e-	lu-	.	4g)	.	.
+.	.	.	.	.	.	(4e-	lu-	.
+.	.	.	8dL	.	.	4f)	.	.
+.	.	.	8cJ)	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+2G	Hal-	.	4B-,	ja,	.	2g,	ja,	.
+.	.	.	8c	Hal-	.	.	.	.
+.	.	.	8c	le-	.	.	.	.
+*^		*	*	*	*	*	*	*	*
+2D	2D	.	le-	([2d	lu-	.	4f	Hal-	.
+.	.	.	.	.	.	.	4f	le-	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+(2.E-	1E-	.	lu-	4d]	.	.	1g	lu-	.
+.	.	.	.	8cL	.	.	.	.	.
+.	.	.	.	8B-J	.	.	.	.	.
+.	.	.	.	2c)	.	.	.	.	.
+8FL	.	.	.	.	.	.	.	.	.
+8GJ)	.	.	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+1A	1F	.	ja!	1c	ja!	.	1f	ja!	.
+*v	*v	*	*	*	*	*	*	*	*
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 20/52
+!!!URL-github: https://github.com/LucasHofmann/distler/blob/main/Jahrkreis/Distler_Jahrkreis_20_Auf-diesen-Tag-bedenken-wir.krn
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=39 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2023/10/28
+!!!title: @{OPR@@DE}, Op. @{OPS}, Nr. @{ONM}. <i>@{OTL@@DE}</i>

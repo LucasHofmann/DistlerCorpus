@@ -1,0 +1,205 @@
+!!!!SEGMENT: Distler_Jahrkreis_26_Allein-Gott-in-der-Hoeh-sei-Ehr_3v.krn
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Allein Gott in der Hoeh sei Ehr
+!!!OTL@EN: All glory be to God on high
+!!!OPS: 5
+!!!ONM: 26
+**kern	**text	**text	**kern	**text	**text	**kern	**text	**text
+*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
+*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1
+*Ibass	*	*	*Ialto	*	*	*Isoprn	*	*
+*clefF4	*	*	*clefG2	*	*	*clefG2	*	*
+*k[f# c# g#]	*	*	*k[f# c# g#]	*	*	*k[f# c# g#]	*	*
+*MM120	*	*	*MM120	*	*	*MM120	*	*
+*M6/4	*	*	*M6/4	*	*	*M6/4	*	*
+*>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]
+*>norep[A,A2,B]	*>norep[A,A2,B]	*>norep[A,A2,B]	*>norep[A,A2,B]	*>norep[A,A2,B]	*>norep[A,A2,B]	*>norep[A,A2,B]	*>norep[A,A2,B]	*>norep[A,A2,B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+2.r	.	.	4e	Al-	dar-	4a	Al-	dar-
+.	.	.	4e	lein	um,	4cc#	lein	um,
+.	.	.	([4a	Gott_	dass_	[4dd	Gott_	dass_
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+4r	.	.	8aL]	.	.	4dd]	.	.
+.	.	.	8gnJ	.	.	.	.	.
+4D	Al-	da-	4f#)	.	.	4dd	in	nun
+4D	lein	rum,	8g	in	nun	4ee	der	und
+.	.	.	8a	der	und	.	.	.
+2G	Gott	dass	4b	Hoeh	nim-	(4.dd	Hoeh_	nim-
+.	.	.	4b	sei	mer-	.	.	.
+.	.	.	.	.	.	8cc#)	.	.
+8G	in	nun	[4b	Ehr_	mehr_	4b	sei	mer-
+8G	der	und	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
+4F#	Hoeh	nim-	8b],	.	.	4cc#	Ehr	mehr
+.	.	.	8a	und	uns	.	.	.
+4E	sei	mer-	(4.g#X	Dank_	rueh-	4cc#	und	uns
+4.A,	Ehr	mehr	.	.	.	4.cc#	Dank	rueh-
+.	.	.	8f#	.	.	.	.	.
+.	.	.	4e)	.	.	.	.	.
+8G#X	und	uns	.	.	.	8b	fuer	ren
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+*M6/4	*	*	*M6/4	*	*	*M6/4	*	*
+4.F#	Dank	rueh-	(8f#L	fuer	ren	(4dd	sei-	kann_
+.	.	.	8g#J)	.	.	.	.	.
+.	.	.	4a	sei-	kann	4.cc#	.	.
+8F#	fuer	ren	.	.	.	.	.	.
+8E	sei-	kann	4a	ne	kein	.	.	.
+8D	ne	kein	.	.	.	8b)	.	.
+2.E	Gna-	Scha-	(2a	Gna-	Scha-	4a	ne	kein
+.	.	.	.	.	.	2b	Gna-	Scha-
+.	.	.	4g#)	.	.	.	.	.
+!!LO:LB:g=original
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+*>A1	*>A1	*>A1	*>A1	*>A1	*>A1	*>A1	*>A1	*>A1
+2.A	de	.	2.a	de	.	2.a	de	.
+=6:|!	=6	=6	=6:|!	=6	=6	=6:|!	=6	=6
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+*M3/4	*	*	*M3/4	*	*	*M3/4	*	*
+2A,	.	de.	2.a	.	de.	2.a	.	de.
+4A	Ein	.	.	.	.	.	.	.
+=7||	=7	=7	=7||	=7	=7	=7||	=7	=7
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
+*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
+4B	Wohl-	.	4r	.	.	4r	.	.
+4B	ge-	.	4e	Ein	.	4a	Ein	.
+2E	falln	.	4f#	Wohl-	.	4b	Wohl-	.
+.	.	.	4gn	ge-	.	4cc#	ge-	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+2D	Gott	.	4f#	falln	.	2dd	falln	.
+.	.	.	(4.b	Gott_	.	.	.	.
+[2E	an_	.	.	.	.	2cc#	Gott	.
+.	.	.	8a)	.	.	.	.	.
+.	.	.	[4g#X	an_	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+*M6/4	*	*	*M6/4	*	*	*M6/4	*	*
+4E]	.	.	4g#]	.	.	4b	an	.
+4F#	uns	.	4f#	uns	.	4a#	uns	.
+2BB,	hat,	.	4f#,	hat,	.	4b,	hat,	.
+.	.	.	4.g#	nun	.	4b	nun	.
+2B	nun	.	.	.	.	4cc#	ist	.
+.	.	.	8a	ist	.	.	.	.
+.	.	.	4b	gross	.	4dd	gross	.
+!!LO:LB:g=original
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+4A	ist	.	4cc#	Fried	.	2.ee	Fried	.
+4A	gross	.	4dd	ohn	.	.	.	.
+4E	Fried	.	2.b	Un-	.	.	.	.
+4F#	ohn	.	.	.	.	4dd	ohn	.
+4c#	Un-	.	.	.	.	4cc#	Un-	.
+4c#	ter-	.	4b	ter-	.	4b	ter-	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
+2F#,	lass,	.	2a#,	lass,	.	2cc#,	lass	.
+2d	all	.	2f#	all	.	2an	all	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+*M6/4	*	*	*M6/4	*	*	*M6/4	*	*
+(4.Gn	Fehd_	.	2d	Fehd	.	2b	Fehd	.
+8A)	.	.	.	.	.	.	.	.
+4B	hat	.	4gn	hat	.	4dd	hat	.
+2A	nun	.	2e	nun	.	(4.cc#	nun_	.
+.	.	.	.	.	.	8b)	.	.
+4A	ein	.	4a	ein	.	4a	ein	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+2.E	En-	.	(4.f#	En-	.	2.b	En-	.
+.	.	.	8g#XL	.	.	.	.	.
+.	.	.	8a	.	.	.	.	.
+.	.	.	8bJ)	.	.	.	.	.
+2.A	de.	.	2.cc#	de.	.	2.a	de.	.
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
+=14||	=14	=14	=14||	=14	=14	=14||	=14	=14
+2.r	.	.	2.r	.	.	4a	O	Ver-
+.	.	.	.	.	.	4cc#	Je-	soeh-
+*	*	*	*	*	*	*^		*	*
+.	.	.	.	.	.	4dd	4dd	su	ner
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1.r	.	.	1.r	.	.	4ee	4ee	Christ,	de-
+.	.	.	.	.	.	2ee	4.ee	Sohn	rer,
+.	.	.	.	.	.	.	8ee	.	die
+.	.	.	.	.	.	(4.dd	4.dd	ein-	wa-
+*	*	*	*	*	*	*v	*v	*	*
+.	.	.	.	.	.	8cc#)	.	ren
+.	.	.	.	.	.	4b	ge-	ver-
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+1.r	.	.	1.r	.	.	4cc#,	born	lorn,
+.	.	.	.	.	.	4cc#	dei-	du
+.	.	.	.	.	.	4b	nes	Stil-
+.	.	.	.	.	.	4dd	himm-	ler
+.	.	.	.	.	.	4cc#	li-	un-
+.	.	.	.	.	.	4b	schen	sers
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+1.r	.	.	1.r	.	.	(2.a	Va-	Ha-
+.	.	.	.	.	.	8g#L	.	.
+.	.	.	.	.	.	8f#J	.	.
+.	.	.	.	.	.	2g#)	.	.
+!!LO:LB:g=original
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+*>A1	*>A1	*>A1	*>A1	*>A1	*>A1	*>A1	*>A1	*>A1
+2.r	.	.	2.r	.	.	2.a	ters,	.
+=19:|!	=19	=19	=19:|!	=19	=19	=19:|!	=19	=20
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+*M3/4	*	*	*M3/4	*	*	*M3/4	*	*
+2.r	.	.	2.r	.	.	2a,	.	ders,
+.	.	.	.	.	.	4a	Lamm	.
+=||20	=20	=20	=||20	=20	=20	=||20	=20	=20
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
+*M6/4	*	*	*M6/4	*	*	*M6/4	*	*
+1.r	.	.	1.r	.	.	2b	Go-	.
+.	.	.	.	.	.	4cc#	tes,	.
+.	.	.	.	.	.	(4.dd	heil-	.
+.	.	.	.	.	.	8cc#)	.	.
+.	.	.	.	.	.	4b	ger	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
+1r	.	.	1r	.	.	4cc#	Herr	.
+.	.	.	.	.	.	4cc#	und	.
+.	.	.	.	.	.	4b,	Gott,	.
+.	.	.	.	.	.	4b	nimm	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+1r	.	.	1r	.	.	4dd	an	.
+.	.	.	.	.	.	4dd	die	.
+.	.	.	.	.	.	(8ee	Bitt_	.
+.	.	.	.	.	.	4dd)	.	.
+.	.	.	.	.	.	8dd	von	.
+!!LO:LB:g=original
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+*M6/4	*	*	*M6/4	*	*	*M6/4	*	*
+1.r	.	.	1.r	.	.	(4.dd	uns-	.
+.	.	.	.	.	.	8cc#	.	.
+.	.	.	.	.	.	4b)	.	.
+.	.	.	.	.	.	4b	rer	.
+.	.	.	.	.	.	2cc#	Not,	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+1.r	.	.	1.r	.	.	4r	.	.
+.	.	.	.	.	.	4a	er-	.
+.	.	.	.	.	.	4b	barm	.
+.	.	.	.	.	.	4cc#	dich	.
+.	.	.	.	.	.	(4dd	un-	.
+.	.	.	.	.	.	[4cc#	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
+1r	.	.	1r	.	.	8cc#L]	.	.
+.	.	.	.	.	.	8bJ	.	.
+.	.	.	.	.	.	4a	.	.
+.	.	.	.	.	.	4a)	ser	.
+.	.	.	.	.	.	([4f#	al-	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+1r	.	.	1r	.	.	4f#]	.	.
+.	.	.	.	.	.	4a)	.	.
+.	.	.	.	.	.	2a	ler!	.
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 26/52
+!!!URL-github: https://github.com/LucasHofmann/distler/blob/main/Jahrkreis/Distler_Jahrkreis_26_Allein-Gott-in-der-Hoeh-sei-Ehr.krn
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=49 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2024/01/08
+!!!title: @{OPR@@DE}, Op. @{OPS}, Nr. @{ONM}. <i>@{OTL@@DE}</i>

@@ -1,0 +1,185 @@
+!!!!SEGMENT: Distler_Jahrkreis_29_Ach-Gott-vom-Himmel-sieh-darein_3v.krn
+!!!COM: Distler, Hugo
+!!!CDT: 1908-1942
+!!!OPR@@DE: Der Jahrkreis
+!!!OPR@EN: The Year Cycle
+!!!OTL@@DE: Ach Gott, vom Himmel sieh darein
+!!!OTL@EN: Oh God, look down from heaven
+!!!OPS: 5
+!!!ONM: 29
+**kern	**text	**text	**kern	**text	**text	**kern	**text	**text
+*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
+*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1
+*Ialto	*	*	*Isoprn	*	*	*Isoprn	*	*
+*clefG2	*	*	*clefG2	*	*	*clefG2	*	*
+*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*
+*MM120	*	*	*MM120	*	*	*MM120	*	*
+*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
+*met(C)	*	*	*met(C)	*	*	*met(C)	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+2B	Ach	wie	2f#	Ach	wie	2b	Ach	wie
+4A	Gott,	we-	4g	Gott,	we-	4cc	Gott,	we-
+4B	vom	nig	4f#	vom	nig	4b	vom	nig
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+4.c	Him-	sind	(8eL	Him-	sind	4a	Him-	sind
+.	.	.	8f#J)	.	.	.	.	.
+.	.	.	4g	mel	der	4ee	mel	der
+8B	mel	der	.	.	.	.	.	.
+4c	sieh	Heil'-	4a	sieh	Heil'-	4ee	sieh	Heil'-
+4d	dar-	gen	4a	dar-	gen	4cc	dar-	gen
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+2e	ein	dein,	2g#	ein	dein,	2b	ein	dein,
+4r	.	.	4r	.	.	4r	.	.
+4e	und	ver-	4gn	und	ver-	4b	und	ver-
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+4f#	lass	las-	4g	lass	las-	4cc	lass	las-
+(8eL	dich	sen	4f#	dich	sen	4b	dich	sen
+8dJ)	.	.	.	.	.	.	.	.
+4c	des	sind	4e	des	sind	4a	des	sind
+4B	er-	wir	4d	er-	wir	4dd	er-	wir
+!!LO:LB:g=original
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+2c	bar-	Ar-	2e	bar-	Ar-	(4cc	bar-	Ar-
+.	.	.	.	.	.	4b)	.	.
+2d	men,	men.	2f#	men,	men.	2a	men,	men.
+=6:|!	=6	=6	=6:|!	=6	=6	=6:|!	=6	=6
+2c	Dein	.	4e	Dein	.	2a	Dein	.
+.	.	.	2f#	Wort	.	.	.	.
+4B	Wort	.	.	.	.	(8bL	Wort	.
+.	.	.	.	.	.	8aJ)	.	.
+4A	man	.	4e	man	.	4g	man	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+4.B	laesst	.	4d	laesst	.	4f#	laesst	.
+.	.	.	(8cL	nicht	.	4e	nicht	.
+8B	nicht	.	8dJ)	.	.	.	.	.
+(8cL	ha-	.	4e	ha-	.	4g	ha-	.
+8BJ)	.	.	.	.	.	.	.	.
+4A	ben	.	4f#	ben	.	4a	ben	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+2G	wahr,	.	2g	wahr,	.	2b	wahr,	.
+4r	.	.	4r	.	.	4r	.	.
+4c	der	.	4e	der	.	4g	der	.
+!!LO:LB:g=original
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+4fn	Glaub'	.	4d	Glaub'	.	4a	Glaub'	.
+4e	ist	.	4e	ist	.	4cc	ist	.
+4d	auch	.	4fn	auch	.	4b	auch	.
+4c	ver-	.	4g	ver-	.	4cc	ver-	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+(8dL	lo-	.	4fn	lo-	.	4a	lo-	.
+8cJ)	.	.	.	.	.	.	.	.
+4B	schen	.	4e	schen	.	4g#	schen	.
+2A,	gar	.	2e,	gar	.	2a,	gar	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+2d	bei	.	2fn	bei	.	2a	bei	.
+4c	al-	.	4g	al-	.	4ee	al-	.
+4e	len	.	4g	len	.	4cc	len	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+4d	Men-	.	4.a	Men-	.	4dd	Men-	.
+4c	schen-	.	.	.	.	4ee	schen-	.
+.	.	.	8g	schen-	.	.	.	.
+2d	kin-	.	2f#X	kin-	.	(4dd	kin-	.
+.	.	.	.	.	.	4cc)	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+1e	dern.	.	1g#	dern.	.	1b	dern.	.
+!!LO:LB:g=original
+=14||	=14	=14	=14||	=14	=14	=14||	=14	=14
+1r	.	.	4r	.	.	4b	Dar-	ihr
+.	.	.	4e	Dar-	ihr	2cc	um	Seuf-
+.	.	.	2g	um	Seuf-	.	.	.
+.	.	.	.	.	.	4b	spricht	zen
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+1r	.	.	4f#	spricht	zen	4a	Gott:	dringt
+.	.	.	4e	Gott:	dringt	4ee	Ich	zu
+.	.	.	4b	Ich	zu	4ee	muss	mir
+.	.	.	4b	muss	mir	([4cc	auf_	her-
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+1r	.	.	2a	auf	her-	8ccL]	.	.
+.	.	.	.	.	.	8bJ	.	.
+.	.	.	.	.	.	4a)	.	.
+.	.	.	2g,	sein,	ein,	4b,	sein,	ein,
+.	.	.	.	.	.	4b	die	ich
+!!LO:LB:g=original
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+1r	.	.	4r	.	.	4cc	Ar-	hab'
+.	.	.	4e	die	ich	4b	men	ihr'
+.	.	.	4f	Ar-	hab'	2a	sind	Klag'
+.	.	.	4e	men	ihr'	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+*M3/4	*	*	*M3/4	*	*	*M3/4	*	*
+2.r	.	.	4d	sind	Klag'	4dd	ver-	er-
+.	.	.	4g	ver-	er-	((4cc	stoe-	hoe-
+.	.	.	([4f	stoe-	hoe-	8bL	.	.
+.	.	.	.	.	.	8aJ	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
+*	*	*	*	*	*	*^		*	*
+1r	.	.	8fL]	.	.	2b)	8bL	.	.
+.	.	.	8e	.	.	.	8aJ	.	.
+.	.	.	8d	.	.	.	4g)	.	.
+.	.	.	8cJ)	.	.	.	.	.	.
+.	.	.	2d,	ret;	ret.	2a,	2f#X	ret;	ret.
+*	*	*	*	*	*	*v	*v	*	*
+=20:|!	=20	=20	=20:|!	=20	=20	=20:|!	=20	=20
+1r	.	.	2r	.	.	2a	Mein	.
+.	.	.	2B	Mein	.	4b	heil-	.
+.	.	.	.	.	.	4g	sam'	.
+!!LO:LB:g=original
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+1r	.	.	4.d	heil-	.	4f#	Wort	.
+.	.	.	.	.	.	8e	soll	.
+.	.	.	8d	sam'	.	4g	auf	.
+.	.	.	4c,	Wort,	.	.	.	.
+.	.	.	.	.	.	8a	den	.
+.	.	.	8B	mein	.	4b,	Plan,	.
+.	.	.	[8d	heil-	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+1r	.	.	8d]	.	.	2g	ge-	.
+.	.	.	8d	sam	.	.	.	.
+.	.	.	8c	Wort	.	.	.	.
+.	.	.	8B	soll	.	.	.	.
+.	.	.	4c	auf	.	4a	trost	.
+.	.	.	4d	den	.	4cc	und	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+1r	.	.	8e,	Plan,	.	8b	frisch	.
+.	.	.	8c	sie	.	8cc	sie	.
+.	.	.	(8fL	grei-	.	2a	grei-	.
+.	.	.	16e	.	.	.	.	.
+.	.	.	16d	.	.	.	.	.
+.	.	.	8c	.	.	.	.	.
+.	.	.	8dJ)	.	.	.	.	.
+.	.	.	4e	fen	.	4g#	fen	.
+!!LO:LB:g=original
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+1r	.	.	2A	an	.	4a,	an	.
+.	.	.	.	.	.	4a	und	.
+.	.	.	4r	.	.	2ee	sein	.
+.	.	.	4A	und	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+1r	.	.	4e	sein	.	4cc	die	.
+.	.	.	4d	die	.	2dd	Kraft	.
+.	.	.	(4.g	Kraft_	.	.	.	.
+.	.	.	.	.	.	4ee	der	.
+.	.	.	8f#X	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+*M6/4	*	*	*M6/4	*	*	*M6/4	*	*
+1.r	.	.	8eL	.	.	(4dd	Ar-	.
+.	.	.	8dJ)	.	.	.	.	.
+*	*	*	*^		*	*	*	*	*
+.	.	.	2e	4e	der	der	4cc)	.	.
+.	.	.	.	2e	.	Ar-	1b	men.	.
+.	.	.	4f#	.	Ar-	.	.	.	.
+.	.	.	2g#	2e	men.	men.	.	.	.
+*	*	*	*v	*v	*	*	*	*	*
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!YOR: Bärenreiter-Ausgabe 676
+!!!YOY: 1933
+!!!EFL: 29/52
+!!!URL-github: https://github.com/LucasHofmann/distler/blob/main/Jahrkreis/Distler_Jahrkreis_29_Ach-Gott-vom-Himmel-sieh-darein.krn
+!!!URL-pdf: https://imslp.eu/files/imglnks/euimg/7/7d/IMSLP834545-PMLP518834-5-jahrkreis-EA--original-paper-600dpi.pdf#page=54 First edition, Kassel: Bärenreiter, 1933. Plate BA 676.
+!!!URL-imslp: https://imslp.org/wiki/Der_Jahrkreis,_Op.5_(Distler,_Hugo)#IMSLP834545
+!!!system-decoration: [(s1,s2,s3)]
+!!!ENC: Lucas Hofmann
+!!!END: 2024/01/08
+!!!title: @{OPR@@DE}, Op. @{OPS}, Nr. @{ONM}. <i>@{OTL@@DE}</i>
